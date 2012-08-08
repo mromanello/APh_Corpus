@@ -4,27 +4,27 @@ import glob
 import os
 
 collections = [
-			"C2"
-			,"C1"
-			,"eff_cand_1_a"
-			,"eff_cand_1_b"
-			,"eff_cand_2_a"
-			,"eff_cand_2_b"
-			,"eff_cand_3_a"
-			,"eff_cand_3_b"
-			,"eff_cand_4_a"
-			,"eff_cand_5_a"
-			,"eff_cand_6_a"
-			,"eff_cand_6_b"
-			,"eff_cand_7"
-			,"eff_cand_8"
-			,"eff_cand_9"
-			,"eff_cand_10"
+			#"C2"
+			#,"C1"
+			#,"eff_cand_1_a"
+			#,"eff_cand_1_b"
+			#,"eff_cand_2_a"
+			#,"eff_cand_2_b"
+			#,"eff_cand_3_a"
+			#,"eff_cand_3_b"
+			#,"eff_cand_4_a"
+			#,"eff_cand_5_a"
+			#,"eff_cand_6_a"
+			#,"eff_cand_6_b"
+			#,"eff_cand_7"
+			#,"eff_cand_8"
+			#,"eff_cand_9"
+			"eff_cand_10"
 			]
 
 base_dir = "/Users/56k/phd/code/APh/corpus/by_collection/"
 base_url = "http://cwkb.webfactional.com/aph_corpus/collections/"
-base_new_dir = "/Users/56k/phd/code/APh/experiments/postagged2/"
+base_new_dir = "/Users/56k/phd/code/APh/corpus/postagged/"
 
 directories = ["%s%s/"%(base_dir,collection) for collection in collections]
 urls = ["%s%s/"%(base_url,collection) for collection in collections]
