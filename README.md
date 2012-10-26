@@ -13,9 +13,10 @@ The main purpose of this corpus is to support the extraction of named entities--
 
 * **`catalog.csv`** : CSV file with four column
 	1. ID
-	2. COLLECTION
-	3. TOKEN_COUNT
-	4. LANG
+	2. COLLECTION : (legacy information)
+	3. TOKEN_COUNT : number of tokens
+	4. LANG : abstract language
+	5. BiBLIO : bibliographic information about the publication the abstract is about
 * **`iob/`** : contains the corpus one record per file stored as IOB format (3 columns: token, POS tag, NE label)
 	* the name of each file--excluded the file extension--has a corresponding record in the `catalog.csv` file
 * **`txt/`** : contains the corpus as plain text, one record per file
@@ -34,3 +35,4 @@ To parse the IOB files using NLTK's conll reader:
 ## TODO
 
 * manual correction of POS tags
+* improve quality and readability of the `biblio` field
