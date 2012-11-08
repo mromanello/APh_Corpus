@@ -22,7 +22,11 @@ The main purpose of this corpus is to support the extraction of named entities--
 * **`txt/`** : contains the corpus as plain text, one record per file
 	* the name of each file--excluded the file extension--has a corresponding record in the `catalog.csv` file
 
-## Getting started
+## Visualizing and Annotating
+
+![An entry visualized using brat](files/brat_viz.png)
+
+## Processing the Corpus
 
 To parse the IOB files using NLTK's conll reader:
 	
