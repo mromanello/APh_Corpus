@@ -26,3 +26,14 @@ for lang in bylang.keys():
 		print id
 	total += len(bylang[lang])
 print total
+
+# check that all the files have a matching entry in the catalog
+for id in newdict.keys():
+    try:
+        file = open("txt/%s.txt"%id,"r")
+    except Exception, e:
+        print id
+    try:
+        file = open("iob/%s.txt"%id,"r")
+    except Exception, e:
+        print id,newdict[id]['collection']
