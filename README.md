@@ -26,7 +26,7 @@ The main purpose of this corpus is to support the extraction of named entities--
 
 ## Visualizing and Annotating
 
-![An entry visualized using brat](APh_Corpus/raw/master/extra/brat_viz.png)
+![An entry visualized using brat](files/brat_viz.png)
 
 ## Processing the Corpus
 
