@@ -4,7 +4,7 @@ T3	REFSCOPE 70 81	7, 1, 44-46
 T4	REFSCOPE 86 92	7, 3),
 T5	AWORK 143 157	« Hellenica »,
 T6	AAUTHOR 269 277	Xenophon
-T7	AAUTHOR 365 377	Aristotle 's
+T7	AAUTHOR 365 374	Aristotle
 T8	AWORK 378 391	« Politics ».
 T9	AAUTHOR 593 604	Xenophon 's
 T10	AAUTHOR 630 638	Xenophon
@@ -13,3 +13,4 @@ T12	AAUTHOR 803 813	Thucydides
 T13	AAUTHOR 919 928	Xenophon,
 R1	Scope Arg1:T2 Arg2:T3	
 R2	Scope Arg1:T2 Arg2:T4	
+R3	authorOf Arg1:T7 Arg2:T8	

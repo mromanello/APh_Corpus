@@ -12,7 +12,7 @@ T11	REFSCOPE 445 457	5, 306-315).
 T12	AAUTHOR 509 516	Statius
 T13	REFAUWORK 517 521	(Th.
 T14	REFSCOPE 522 532	1, 395-433
-T15	REFSCOPE 533 548	and 8, 383-394)
+T15	REFSCOPE 537 548	8, 383-394)
 R1	Scope Arg1:T4 Arg2:T5	
 R2	Scope Arg1:T6 Arg2:T7	
 R3	Scope Arg1:T8 Arg2:T9	
@@ -20,3 +20,6 @@ R4	Scope Arg1:T10 Arg2:T11
 R5	Scope Arg1:T13 Arg2:T14	
 R6	Scope Arg1:T13 Arg2:T15	
 R7	authorOf Arg1:T1 Arg2:T2	
+R8	Scope Arg1:T2 Arg2:T3	
+#1	AnnotatorNotes R1	urn:cts:latinLit:phi0690.phi003:12.101-12.109
+#2	AnnotatorNotes R2	urn:cts:latinLit:phi0917.phi001:1.204-1.212
