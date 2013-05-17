@@ -21,10 +21,12 @@ The main purpose of this corpus is to support the extraction of named entities--
 	* the name of each file--excluded the file extension--has a corresponding record in the `catalog.csv` file
 * **`txt/`** : contains the corpus as plain text, one record per file
 	* the name of each file--excluded the file extension--has a corresponding record in the `catalog.csv` file
+* **`ann/`**
+* **`extra/`**
 
 ## Visualizing and Annotating
 
-![An entry visualized using brat](files/brat_viz.png)
+![An entry visualized using brat](extra/brat_viz.png)
 
 ## Processing the Corpus
 

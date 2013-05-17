@@ -1,5 +1,0 @@
-The APh corpus was converted into the format read by `brat` using the following bash command
-
-    for f in ~/Documents/APh_Corpus/iob/*txt; do python conll02tostandoff.py $f -o /Users/rromanello/Downloads/brat-v1.3rc2/data/aph/> tmp; mv tmp $f.ann; done
-
-where `-o` is the output directory of choice. The parameter `~/Documents/APh_Corpus/iob/` should also be changed to match the path where the corpus is located.
