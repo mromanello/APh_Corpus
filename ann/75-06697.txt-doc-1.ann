@@ -23,3 +23,7 @@ R7	authorOf Arg1:T1 Arg2:T2
 R8	Scope Arg1:T2 Arg2:T3	
 #1	AnnotatorNotes R1	urn:cts:latinLit:phi0690.phi003:12.101-12.109
 #2	AnnotatorNotes R2	urn:cts:latinLit:phi0917.phi001:1.204-1.212
+#4	AnnotatorNotes R3	urn:cts:latinLit:phi1020.phi001:12.736-12.740
+#5	AnnotatorNotes R4	urn:cts:latinLit:phi1345.phi001:5.306-5.315
+#3	AnnotatorNotes R6	urn:cts:latinLit:phi1020.phi001:8.383-8.394
+#6	AnnotatorNotes R5	urn:cts:latinLit:phi1020.phi001:1.395-1.433
