@@ -1,0 +1,32 @@
+Difesa	NOM	O
+del	PRE:det	O
+testo	NOM	O
+tràdito	ADJ	O
+in	PRE	O
+un	DET:indef	O
+passo	NOM	O
+di	PRE	O
+Paolo	NOM	O
+(	PON	O
+dig	NOM	O
+.	SENT	O
+
+46	NUM	O
+,	PON	O
+2	NUM	O
+,	PON	O
+32	NUM	O
+)	PON	O
+contro	PRE	O
+la	DET:def	O
+proposta	NOM	O
+di	PRE	O
+emendamento	NOM	O
+di	PRE	O
+A.	NPR	O
+D'	NOM	O
+Ors	NOM	O
+(	PON	O
+=>	NOM	O
+71-01488	NUM	O
+)	PON	O

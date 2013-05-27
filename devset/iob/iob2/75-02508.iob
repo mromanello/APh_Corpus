@@ -1,0 +1,37 @@
+Concerne	VER:pres	O
+soprattutto	ADV	O
+Il	NOM	O
+.	SENT	O
+
+2	NUM	B-REFSCOPE
+,	PON	I-REFSCOPE
+559-568	NUM	I-REFSCOPE
+e	CON	O
+Hes	NOM	O
+.	SENT	O
+
+204	NUM	O
+,	PON	O
+44-51	NUM	O
+M.	NOM	O
+-W	NOM	O
+.	SENT	O
+,	PON	O
+che	PRO:rela	O
+non	ADV	O
+rappresentano	VER:pres	O
+due	ADJ	O
+tradizioni	NOM	O
+alternative	ADJ	O
+,	PON	O
+e	CON	O
+l'	DET:def	O
+influenza	NOM	O
+dell'	PRE:det	O
+epos	NOM	O
+tebano	NOM	O
+sul	PRE:det	O
+patrimonio	NOM	O
+mitico	ADJ	O
+dell'	PRE:det	O
+Argolide	NOM	O

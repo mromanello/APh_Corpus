@@ -1,0 +1,23 @@
+A	PRE	O
+proposito	NOM	O
+dei	PRE:det	O
+volumi	NOM	O
+di	PRE	O
+C.	NPR	O
+K.	NPR	O
+
+Barrett	NOM	O
+(	PON	O
+=>	NOM	O
+74-06273	NUM	O
+)	PON	O
+e	CON	O
+di	PRE	O
+J.	ABR	O
+A.	NPR	O
+
+Fitzmyer	NOM	O
+(	PON	O
+=>	NOM	O
+75-05372	NUM	O
+)	PON	O

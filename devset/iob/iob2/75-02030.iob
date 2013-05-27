@@ -1,0 +1,14 @@
+Elenco	NOM	O
+e	CON	O
+descrizione	NOM	O
+di	PRE	O
+sette	ADJ	O
+codici	NOM	O
+gelliani	NOM	O
+(	PON	O
+per	PRE	O
+il	DET:def	O
+precedente	ADJ	O
+=>	NOM	O
+70-01979	NUM	O
+)	PON	O

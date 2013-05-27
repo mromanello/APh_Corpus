@@ -1,0 +1,16 @@
+Testo	NOM	O
+critico	ADJ	O
+e	CON	O
+commento	NOM	O
+dei	PRE:det	O
+v.	NOM	O
+
+172-224	NUM	O
+della	PRE:det	O
+commedia	NOM	O
+dopo	PRE	O
+il	DET:def	O
+recentissimo	ADJ	O
+apporto	NOM	O
+del	PRE:det	O
+POxy.	NOM	O

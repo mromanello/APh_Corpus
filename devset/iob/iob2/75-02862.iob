@@ -1,0 +1,10 @@
+Étude	NOM	O
+comparative	ADJ	O
+et	KON	O
+héritage	NOM	O
+de	PRP	O
+Jérôme	NAM	O
+chez	PRP	O
+Julien	NAM	B-AAUTHOR
+d'	PRP	I-AAUTHOR
+Éclane	NOM	I-AAUTHOR

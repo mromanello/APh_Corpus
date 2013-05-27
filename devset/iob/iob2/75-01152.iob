@@ -1,0 +1,17 @@
+Concerne	VER:pres	O
+SEG	NAM	O
+50	NUM	O
+,	PUN	O
+1465	NUM	O
+(	PUN	O
+bloc	NOM	O
+inscrit	ADJ	O
+utilisé	VER:pper	O
+en	PRP	O
+remploi	NOM	O
+dans	PRP	O
+la	DET:ART	O
+forteresse	NOM	O
+de	PRP	O
+Belvoir	NAM	O
+)	PUN	O

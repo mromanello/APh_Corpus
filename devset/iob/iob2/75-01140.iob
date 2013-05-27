@@ -1,0 +1,24 @@
+Erstpublikation	NN	O
+der	ART	O
+griechischen	ADJA	O
+Grabinschrift	NN	O
+eines	ART	O
+Kindes	NN	O
+(	$(	O
+Magazin	NN	O
+3	CARD	O
+,	$,	O
+Inv.	NN	O
+
+10537	CARD	O
+,	$,	O
+2.	ADV	O
+-3	CARD	O
+.	$.	O
+
+Chr.	NE	O
+,	$,	O
+unbekannte	ADJA	O
+Herkunft	NN	O
+)	$(	O
+.	$.	O

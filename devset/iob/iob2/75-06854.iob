@@ -1,0 +1,82 @@
+Der	ART	O
+Vergleich	NN	O
+dreier	ADJA	O
+Fragmente	NN	O
+des	ART	O
+Ennius	NE	O
+(	$(	O
+Erechtheus	NE	O
+fr.	NE	O
+
+131f	NE	O
+.	$.	O
+
+Ribb	NE	O
+.	$.	O
+
+;	$.	O
+Hecuba	NN	O
+fr.	NE	O
+
+164	CARD	O
+Ribb	NN	O
+.	$.	O
+
+;	$.	O
+Iphigenie	NE	O
+fr.	NE	O
+
+204	CARD	O
+Ribb	NN	O
+.	$.	O
+
+)	$(	O
+mit	APPR	O
+ihren	PPOSAT	O
+griechischen	ADJA	O
+Vorbildern	NN	O
+erlaubt	VVPP	O
+wegen	APPR	O
+ihrer	PPOSAT	O
+rudimentären	ADJA	O
+Erhaltung	NN	O
+keine	PIAT	O
+gesicherten	ADJA	O
+Aussagen	NN	O
+.	$.	O
+
+Doch	ADV	O
+erscheint	VVFIN	O
+die	ART	O
+Freiwilligkeit	NN	O
+der	ART	O
+Betroffenen	NN	O
+im	APPRART	O
+Zusammenhang	NN	O
+mit	APPR	O
+dem	ART	O
+Lebensopfer	NN	O
+zumindest	ADV	O
+sehr	ADV	O
+wahrscheinlich	ADJD	O
+.	$.	O
+
+In	APPR	O
+der	ART	O
+Formulierung	NN	O
+scheint	VVFIN	O
+die	ART	O
+Selbständigkeit	NN	O
+der	ART	O
+römischen	ADJA	O
+Tragiker	NN	O
+grösser	ADJD	O
+gewesen	VAPP	O
+zu	PTKZU	O
+sein	VAINF	O
+,	$,	O
+als	KOUS	O
+vielfach	ADV	O
+angenommen	VVPP	O
+wird	VAFIN	O
+.	$.	O

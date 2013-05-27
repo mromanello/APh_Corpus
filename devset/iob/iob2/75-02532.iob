@@ -1,0 +1,21 @@
+La	DET:ART	O
+fin	NOM	O
+des	PRP:det	O
+épreuves	NOM	O
+d'	PRP	O
+Ulysse	NAM	O
+confirme	VER:pres	O
+le	DET:ART	O
+caractère	NOM	O
+initiatique	ADJ	O
+de	PRP	O
+l'	DET:ART	B-AWORK
+«	PUN:cit	I-AWORK
+Odyssée	NAM	I-AWORK
+»	PUN:cit	I-AWORK
+.	SENT	I-AWORK
+
+Pour	PRP	O
+4	NUM	O
+=>	ABR	O
+75-02531	NUM	O

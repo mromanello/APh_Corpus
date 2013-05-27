@@ -1,0 +1,14 @@
+Édition	NOM	O
+parue	VER:pper	O
+en	PRP	O
+1600.	DET:POS	O
+
+Discussion	NOM	O
+de	PRP	O
+la	DET:ART	O
+date	NOM	O
+du	PRP:det	O
+traité	NOM	O
+:	PUN	O
+après	PRP	O
+543	NUM	O

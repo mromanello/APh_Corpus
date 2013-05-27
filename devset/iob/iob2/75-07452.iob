@@ -1,0 +1,87 @@
+L'	DET:ART	O
+étude	NOM	O
+porte	VER:pres	O
+sur	PRP	O
+250	NUM	O
+inscriptions	NOM	O
+du	PRP:det	O
+2e	NUM	O
+s.	ABR	O
+av.	ABR	O
+
+au	PRP:det	O
+3e	NUM	O
+s.	ABR	O
+apr.	ABR	O
+
+J.	ABR	O
+-C	ADJ	O
+.	SENT	O
+,	PUN	O
+la	DET:ART	O
+plupart	NOM	O
+d'	PRP	O
+Olympie	NAM	O
+.	SENT	O
+
+Le	DET:ART	O
+premier	NUM	O
+Éléen	NOM	O
+porteur	NOM	O
+d'	PRP	O
+un	DET:ART	O
+nom	NOM	O
+latin	ADJ	O
+est	VER:pres	O
+attesté	VER:pper	O
+à	PRP	O
+la	DET:ART	O
+fin	NOM	O
+du	PRP:det	O
+1er	NUM	O
+s.	ABR	O
+apr.	ABR	O
+
+J.	ABR	O
+-C	ADJ	O
+.	SENT	O
+
+Les	DET:ART	O
+gentilices	NOM	O
+sont	VER:pres	O
+surtout	ADV	O
+impériaux	ADJ	O
+et	KON	O
+les	DET:ART	O
+surnoms	NOM	O
+restent	VER:pres	O
+souvent	ADV	O
+grecs	ADJ	O
+.	SENT	O
+
+En	PRP	O
+appendice	NOM	O
+,	PUN	O
+p.	ABR	O
+
+197-206	NUM	O
+:	PUN	O
+Inscriptions	NOM	O
+d'	PRP	O
+Élide	NOM	O
+portant	VER:ppre	O
+des	PRP:det	O
+noms	NOM	O
+de	PRP	O
+magistrats	NOM	O
+romains	ADJ	O
+et	KON	O
+liste	NOM	O
+des	PRP:det	O
+Grecs	NAM	O
+avec	PRP	O
+gentilices	NOM	O
+non-impériaux	ADJ	O
+et	KON	O
+impériaux	ADJ	O
+.	SENT	O

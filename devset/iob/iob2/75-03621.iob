@@ -1,0 +1,23 @@
+Raccolta	NOM	O
+di	PRE	O
+testimonianze	NOM	O
+biografiche	ADJ	O
+e	CON	O
+analisi	NOM	O
+di	PRE	O
+possibili	ADJ	O
+echi	NOM	O
+parteniani	ADJ	O
+in	PRE	O
+Virgilio	NPR	O
+;	PON	O
+considerazioni	NOM	O
+conclusive	ADJ	O
+su	PRE	O
+Partenio	NOM	O
+.	SENT	O
+
+Per	PRE	O
+1	NUM	O
+=>	NOM	O
+75-03620	NUM	O

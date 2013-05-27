@@ -1,0 +1,11 @@
+Neuinterpretation	NN	O
+der	ART	O
+bei	APPR	O
+Demosthenes	NN	B-REFAUWORK
+46	CARD	B-REFSCOPE
+,	$,	I-REFSCOPE
+16	CARD	I-REFSCOPE
+überlieferten	ADJA	O
+Bestimmungen	NN	O
+Solons	NN	O
+.	$.	O

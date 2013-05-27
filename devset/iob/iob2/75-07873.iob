@@ -1,0 +1,32 @@
+Complément	NOM	O
+à	PRP	O
+l'	DET:ART	O
+étude	NOM	O
+notée	VER:pper	O
+APh	NAM	O
+45	NUM	O
+,	PUN	O
+p.	ABR	O
+
+430	NUM	O
+,	PUN	O
+sous	PRP	O
+Christou	NAM	O
+.	SENT	O
+
+Publication	NOM	O
+de	PRP	O
+14	NUM	O
+tombes	NOM	O
+en	PRP	O
+chambre	NOM	O
+,	PUN	O
+avec	PRP	O
+description	NOM	O
+de	PRP	O
+l'	DET:ART	O
+architecture	NOM	O
+et	KON	O
+catalogue	NOM	O
+du	PRP:det	O
+matériel	ADJ	O

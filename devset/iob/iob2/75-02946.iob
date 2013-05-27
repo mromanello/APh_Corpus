@@ -1,0 +1,9 @@
+Descrizione	NOM	O
+,	PON	O
+datazione	NOM	O
+,	PON	O
+committenza	NOM	O
+e	CON	O
+destinazione	NOM	O
+del	PRE:det	O
+codice	NOM	O

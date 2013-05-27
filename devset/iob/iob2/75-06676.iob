@@ -1,0 +1,20 @@
+En	IN	O
+particulier	NN	O
+chez	IN	O
+Ovide	NP	O
+(	(	O
+met.	NP	O
+
+3	CD	B-REFSCOPE
+,	,	I-REFSCOPE
+138-252	CD	I-REFSCOPE
+)	)	I-REFSCOPE
+et	NP	O
+Apulée	NP	O
+(	(	O
+met.	NP	O
+
+2	CD	B-REFSCOPE
+,	,	I-REFSCOPE
+4-5	CD	I-REFSCOPE
+)	)	I-REFSCOPE

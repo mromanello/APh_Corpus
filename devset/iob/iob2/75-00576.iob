@@ -1,0 +1,18 @@
+Analisi	NOM	O
+del	PRE:det	O
+rapporto	NOM	O
+tra	PRE	O
+il	DET:def	O
+cap	NOM	O
+.	SENT	O
+
+6	NUM	O
+e	CON	O
+il	DET:def	O
+cap	NOM	O
+.	SENT	O
+
+14	NUM	O
+del	PRE:det	O
+trattato	NOM	O
+aristotelico	ADJ	O

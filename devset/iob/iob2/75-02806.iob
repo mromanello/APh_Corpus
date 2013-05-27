@@ -1,0 +1,26 @@
+L'	DET:ART	O
+idée	NOM	O
+d'	PRP	O
+un	DET:ART	O
+Dieu	NOM	O
+un	NUM	O
+,	PUN	O
+universel	ADJ	O
+et	KON	O
+bon	ADJ	O
+est	VER:pres	O
+la	DET:ART	O
+réponse	NOM	O
+d'	PRP	O
+Irénée	NAM	O
+au	PRP:det	O
+dualisme	NOM	O
+gnostique	NOM	O
+.	SENT	O
+
+On	PRO:PER	O
+la	PRO:PER	O
+trouve	VER:pres	O
+également	ADV	O
+chez	PRP	O
+Plotin	NOM	B-AAUTHOR

@@ -1,0 +1,31 @@
+Nuovo	ADJ	O
+testo	NOM	O
+in	PRE	O
+demotico	ADJ	O
+sul	PRE:det	O
+viaggio	NOM	O
+di	PRE	O
+Adriano	NPR	O
+in	PRE	O
+Egitto	NPR	O
+in	PRE	O
+un	DET:indef	O
+ostrakon	NOM	O
+di	PRE	O
+Madinet	NOM	O
+Madi	NOM	O
+(	PON	O
+inv.	VER:geru	O
+
+298	NUM	O
+)	PON	O
+,	PON	O
+databile	ADJ	O
+alla	PRE:det	O
+fine	NOM	O
+del	PRE:det	O
+2°	NOM	O
+sec.	NOM	O
+
+d.	VER:impe	O
+C.	LS	O

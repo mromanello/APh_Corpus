@@ -1,0 +1,31 @@
+I	DET:def	O
+v.	NOM	O
+
+699-718	NUM	O
+(	PON	O
+ironica	ADJ	O
+lode	NOM	O
+della	PRE:det	O
+ricchezza	NOM	O
+)	PON	O
+sono	VER:pres	O
+tematicamente	ADJ	O
+affini	NOM	O
+ai	PRE:det	O
+v.	NOM	O
+
+719-728	NUM	O
+;	PON	O
+i	DET:def	O
+v.	NOM	O
+
+729s	NOM	O
+.	SENT	O
+
+concludono	VER:pres	O
+le	DET:def	O
+due	ADJ	O
+sequenze	NOM	O
+con	PRE	O
+una	DET:indef	O
+gnome	NOM	O

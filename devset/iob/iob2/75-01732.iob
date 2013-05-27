@@ -1,0 +1,61 @@
+Nei	PRE:det	O
+fr.	ABR	O
+
+514s	NOM	O
+.	SENT	O
+
+Fl	NOM	O
+.	SENT	O
+
+la	DET:def	O
+persona	NOM	O
+loquens	NOM	O
+è	VER:pres	O
+Catone	NOM	O
+,	PON	O
+che	PRO:rela	O
+si	PRO:refl	O
+esprime	VER:pres	O
+in	PRE	O
+modo	NOM	O
+sentenzioso	ADJ	O
+;	PON	O
+per	CON	O
+i	DET:def	O
+fr.	ABR	O
+
+317	NUM	O
+e	CON	O
+406	NUM	O
+Fl	NOM	O
+.	SENT	O
+,	PON	O
+il	DET:def	O
+codice	NOM	O
+da	PRE	O
+cui	PRO:rela	O
+G.	LS	O
+Colonna	NOM	O
+ricava	VER:pres	O
+la	DET:def	O
+lezione	NOM	O
+«	PON	O
+oriundus	NOM	O
+»	PON	O
+è	VER:pres	O
+probabilmente	ADV	O
+il	DET:def	O
+ms.	NOM	O
+
+Napoli	NPR	O
+,	PON	O
+Bibl.	NOM	O
+
+Nazionale	ADJ	O
+,	PON	O
+IV	NUM	O
+A	NOM	O
+27	NUM	O
+(	PON	O
+15°	NOM	O
+s.	NOM	O

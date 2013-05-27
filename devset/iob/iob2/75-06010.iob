@@ -1,0 +1,44 @@
+Il	DET:def	O
+ms.	NOM	O
+
+Milano	NPR	O
+,	PON	O
+Bibl.	NOM	O
+
+Ambrosiana	ADJ	O
+,	PON	O
+E	NOM	O
+46	NUM	O
+sup	NOM	O
+.	SENT	O
+,	PON	O
+contenente	VER:ppre	O
+l'	DET:def	B-AWORK
+«	PON	I-AWORK
+Interpretatio	NOM	I-AWORK
+in	PRE	I-AWORK
+Ezechielem	NOM	I-AWORK
+»	PON	I-AWORK
+,	PON	I-AWORK
+è	VER:pres	O
+della	PRE:det	O
+stessa	ADJ	O
+mano	NOM	O
+del	PRE:det	O
+noto	ADJ	O
+ms.	NOM	O
+
+posseduto	VER:pper	O
+da	PRE	O
+Areta	NOM	O
+(	PON	O
+=	NOM	O
+Roma	NPR	O
+,	PON	O
+Bibl.	NOM	O
+
+Vallicelliana	VER:impe	O
+,	PON	O
+F	NPR	O
+10	NUM	O
+)	PON	O

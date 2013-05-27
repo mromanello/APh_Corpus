@@ -1,0 +1,33 @@
+Catalogue	NOM	O
+indexé	VER:pper	O
+et	KON	O
+présenté	VER:pper	O
+par	PRP	O
+site	NOM	O
+de	PRP	O
+54	NUM	O
+mosaïques	NOM	O
+à	PRP	O
+représentation	NOM	O
+humaine	ADJ	O
+,	PUN	O
+datées	VER:pper	O
+entre	PRP	O
+le	DET:ART	O
+3e	NUM	O
+s.	ABR	O
+av.	ABR	O
+
+J.	ABR	O
+-C	ADJ	O
+.	SENT	O
+
+et	KON	O
+le	DET:ART	O
+7e	NUM	O
+s.	ABR	O
+apr.	ABR	O
+
+J.	ABR	O
+-C	ADJ	O
+.	SENT	O

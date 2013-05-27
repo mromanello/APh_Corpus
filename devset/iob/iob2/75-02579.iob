@@ -1,0 +1,38 @@
+Caractéristiques	NOM	O
+de	PRP	O
+la	DET:ART	O
+récitation	NOM	O
+épique	ADJ	O
+et	KON	O
+modalités	NOM	O
+de	PRP	O
+sa	DET:POS	O
+fixation	NOM	O
+par	PRP	O
+écrit	NOM	O
+.	SENT	O
+
+Méthodes	NOM	O
+et	KON	O
+techniques	ADJ	O
+de	PRP	O
+l'	DET:ART	O
+aède	NOM	O
+Démodocos	NAM	O
+(	PUN	O
+Od.	ABR	O
+
+8	NUM	O
+,	PUN	O
+62-103	NUM	O
+,	PUN	O
+254-369	NUM	O
+et	KON	O
+471-550	NUM	O
+)	PUN	O
+.	SENT	O
+
+Pour	PRP	O
+2	NUM	O
+=>	ABR	O
+75-02578	NUM	O

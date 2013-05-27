@@ -1,0 +1,31 @@
+Sul	PRE:det	O
+riuso	NOM	O
+da	PRE	O
+parte	NOM	O
+di	PRE	O
+Euforione	NOM	O
+di	PRE	O
+due	ADJ	O
+omerismi	NOM	O
+:	PON	O
+Od.	NOM	O
+
+9	NUM	B-REFSCOPE
+,	PON	I-REFSCOPE
+433	NUM	I-REFSCOPE
+e	CON	O
+Il	NOM	O
+.	SENT	O
+
+2	NUM	O
+,	PON	O
+312	NUM	O
+(	PON	O
+simile	NOM	O
+a	PRE	O
+Od.	NOM	O
+
+14	NUM	O
+,	PON	O
+474	NUM	O
+)	PON	O

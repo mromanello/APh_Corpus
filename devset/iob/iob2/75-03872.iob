@@ -1,0 +1,42 @@
+Discussione	NOM	O
+di	PRE	O
+POxy.	NOM	O
+
+2442	NUM	O
+fr.	ABR	O
+
+7	NUM	O
+=	NOM	O
+Pind	NOM	O
+.	SENT	O
+
+Pae	NOM	O
+.	SENT	O
+
+dub	NOM	O
+.	SENT	O
+
+S7	NOM	O
+Rutherford	NOM	O
+e	CON	O
+di	PRE	O
+altri	PRO:indef	O
+frammenti	NOM	O
+riconducibili	ADJ	O
+ai	PRE:det	O
+«	PON	B-AWORK
+Prosodia	NOM	I-AWORK
+»	PON	I-AWORK
+di	PRE	O
+Pindaro	NOM	B-AAUTHOR
+e	CON	O
+ad	PRE	O
+altre	ADJ	O
+opere	NOM	O
+pindariche	ADJ	O
+legate	VER:pper	O
+a	PRE	O
+realtà	NOM	O
+cultuali	ADJ	O
+dell'	PRE:det	O
+Argolide	NOM	O

@@ -1,0 +1,15 @@
+Sur	PRP	O
+«	PUN:cit	O
+pouvoir	VER:infi	O
+dire	VER:infi	O
+»	PUN:cit	O
+dans	PRP	O
+les	DET:ART	O
+dialogues	NOM	O
+de	PRP	O
+Platon	NAM	B-AAUTHOR
+(	PUN	O
+voir	VER:infi	O
+aussi	ADV	O
+71-07473	NUM	O
+)	PUN	O

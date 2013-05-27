@@ -1,0 +1,26 @@
+Édition	NOM	O
+de	PRP	O
+6	NUM	O
+manuscrits	NOM	O
+(	PUN	O
+Pierre	NAM	O
+d'	PRP	O
+Auvergne	NAM	O
+,	PUN	O
+Richardus	NOM	O
+de	PRP	O
+Clive	NAM	O
+[	PUN	O
+?	SENT	O
+
+]	PUN	O
+,	PUN	O
+Simon	NAM	O
+Angelicus	NAM	O
+,	PUN	O
+Radulphus	NOM	O
+Brito	NAM	O
+et	KON	O
+deux	NUM	O
+anonymes	NOM	O
+)	PUN	O

@@ -1,0 +1,17 @@
+Quadruplice	ADJ	O
+partizione	NOM	O
+della	PRE:det	O
+logica	NOM	O
+secondo	PRE	O
+il	DET:def	O
+trattato	NOM	O
+,	PON	O
+che	PRO:rela	O
+tenta	VER:pres	O
+una	DET:indef	O
+sintesi	NOM	O
+tra	PRE	O
+Aristotele	NPR	B-AAUTHOR
+e	CON	O
+gli	DET:def	O
+Stoici	NOM	O

@@ -1,0 +1,14 @@
+Concerne	VER:pres	O
+Gélase	NOM	O
+de	PRP	O
+Césarée	NAM	O
+,	PUN	O
+Rufin	NOM	B-AAUTHOR
+d'	PRP	I-AAUTHOR
+Aquilée	NAM	I-AAUTHOR
+et	KON	O
+l'	DET:ART	O
+«	PUN:cit	O
+Histoire	NAM	O
+acéphale	ADJ	O
+»	PUN:cit	O

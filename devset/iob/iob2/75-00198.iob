@@ -1,0 +1,24 @@
+Anthime	NAM	O
+est	VER:pres	O
+médecin	NOM	O
+diététicien	NOM	O
+avant	PRP	O
+d'	PRP	O
+être	VER:infi	O
+gourmet	NOM	O
+.	SENT	O
+
+Selon	PRP	O
+lui	PRO:PER	O
+la	DET:ART	O
+santé	NOM	O
+dépend	VER:pres	O
+d'	PRP	O
+aliments	NOM	O
+bien	ADV	O
+préparés	VER:pper	O
+,	PUN	O
+c'	PRO:DEM	O
+est-à-dire	ADV	O
+bien	ADV	O
+cuits	VER:pper	O

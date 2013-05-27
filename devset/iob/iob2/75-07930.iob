@@ -1,0 +1,37 @@
+Résumé	VER:pper	O
+des	PRP:det	O
+activités	NOM	O
+de	PRP	O
+la	DET:ART	O
+mission	NOM	O
+de	PRP	O
+l'	DET:ART	O
+IFAO	NAM	O
+.	SENT	O
+
+À	PRP	O
+noter	VER:infi	O
+à	PRP	O
+Mouftella	NAM	O
+:	PUN	O
+un	DET:ART	O
+complexe	NOM	O
+cultuel	ADJ	O
+d'	PRP	O
+époque	NOM	O
+saïte	ADJ	O
+et	KON	O
+ses	DET:POS	O
+réoccupations	NOM	O
+de	PRP	O
+l'	DET:ART	O
+Antiquité	NOM	O
+tardive	ADJ	O
+.	SENT	O
+
+Pour	PRP	O
+la	DET:ART	O
+précédente	ADJ	O
+livraison	NOM	O
+=>	ADJ	O
+74-09528	NUM	O

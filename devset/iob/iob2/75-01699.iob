@@ -1,0 +1,17 @@
+Edition	NN	O
+eines	ART	O
+Abschnittes	NN	O
+aus	APPR	O
+einer	ART	O
+arabischen	ADJA	O
+Übersetzung	NN	O
+des	ART	O
+«	$(	B-AWORK
+Carmen	NE	I-AWORK
+astrologicum	NE	I-AWORK
+»	$(	I-AWORK
+des	ART	O
+Dorotheus	NN	O
+von	APPR	O
+Sidon	NE	O
+.	$.	O

@@ -1,0 +1,45 @@
+Analisi	NOM	O
+delle	PRE:det	O
+annotazioni	NOM	O
+dell'	PRE:det	O
+erudito	NOM	O
+bizantino	ADJ	O
+in	PRE	O
+margine	NOM	O
+al	PRE:det	O
+commento	NOM	O
+all'	PRE:det	O
+«	PON	O
+Organon	NOM	O
+»	PON	O
+del	PRE:det	O
+Prodromeno	NOM	O
+,	PON	O
+contenuto	VER:pper	O
+nei	PRE:det	O
+ms.	NOM	O
+
+Paris	NOM	O
+,	PON	O
+BNF	NOM	O
+,	PON	O
+gr.	NOM	O
+
+1928	NUM	O
+e	CON	O
+1846	NUM	O
+,	PON	O
+e	CON	O
+Vaticano	NOM	O
+,	PON	O
+BAV	NOM	O
+,	PON	O
+Vat.	ABR	O
+
+1018	NUM	O
+,	PON	O
+e	CON	O
+poi	ADV	O
+più	ADV	O
+volte	ADJ	O
+ricopiato	VER:pper	O

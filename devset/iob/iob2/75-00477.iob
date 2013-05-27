@@ -1,0 +1,26 @@
+Édition	NOM	O
+du	PRP:det	O
+ms.	ABR	O
+
+Uppsala	NAM	O
+,	PUN	O
+Universitetsbibl	NAM	O
+.	SENT	O
+
+C.924	ABR	O
+,	PUN	O
+69r-73r	NOM	O
+,	PUN	O
+(	PUN	O
+12e	NUM	O
+s.	ABR	O
+
+)	PUN	O
+,	PUN	O
+qui	PRO:REL	O
+fait	VER:pres	O
+mention	NOM	O
+de	PRP	O
+Michel	NAM	O
+d'	PRP	B-AAUTHOR
+Éphèse	NOM	I-AAUTHOR

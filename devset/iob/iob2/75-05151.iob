@@ -1,0 +1,44 @@
+Partenopeo	ADJ	O
+,	PON	O
+il	DET:def	O
+personaggio	NOM	O
+staziano	ADJ	O
+,	PON	O
+è	VER:pres	O
+il	DET:def	O
+modello	NOM	O
+del	PRE:det	O
+giovane	ADJ	O
+eroe	NOM	O
+a	PRE	O
+cui	PRO:rela	O
+attinge	VER:pres	O
+Silio	NOM	O
+Italico	NOM	O
+nel	PRE:det	O
+tratteggiare	VER:infi	O
+il	DET:def	O
+suo	PRO:poss	O
+Podeto	NOM	O
+(	PON	O
+Pun	NOM	O
+.	SENT	O
+
+14	NUM	O
+,	PON	O
+492-515	NUM	O
+)	PON	O
+:	PON	O
+l'	DET:def	O
+espressione	NOM	O
+ossimorica	NOM	O
+dei	PRE:det	O
+v.	NOM	O
+
+496s	NOM	O
+.	SENT	O
+
+era	NOM	O
+già	ADV	O
+nella	PRE:det	O
+fonte	NOM	O

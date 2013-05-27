@@ -1,0 +1,55 @@
+Recent	JJ	O
+acquisitions	NNS	O
+in	IN	O
+New	NP	O
+York	NP	O
+,	,	O
+The	DT	O
+Metropolitan	NP	O
+Museum	NP	O
+of	IN	O
+Art	NP	O
+,	,	O
+include	VBP	O
+:	:	O
+a	DT	O
+pair	NN	O
+of	IN	O
+5th-4th-cent	JJ	O
+.	SENT	O
+
+gold	NN	O
+roundels	NNS	O
+,	,	O
+inv.	JJ	O
+
+2002.569.1	CD	B-REFSCOPE
+,	,	I-REFSCOPE
+2002.569.2	CD	I-REFSCOPE
+;	:	I-REFSCOPE
+a	DT	B-REFSCOPE
+1st-cent	JJ	I-REFSCOPE
+.	SENT	I-REFSCOPE
+
+marble	NN	O
+mask	NN	O
+of	IN	O
+Pan	NP	O
+,	,	O
+inv.	NP	O
+
+2002.284	CD	O
+;	:	O
+and	CC	O
+a	DT	O
+1st-cent	JJ	O
+.	SENT	O
+
+marble	JJ	O
+cinerary	JJ	O
+urn	NN	O
+,	,	O
+inv.	NP	O
+
+2002.297.568	CD	O
+.	SENT	O

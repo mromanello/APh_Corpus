@@ -1,0 +1,17 @@
+Sobre	NP	O
+la	FW	O
+toponimia	NP	O
+y	NP	O
+antroponimia	NP	O
+latina	NP	O
+,	,	O
+y	NP	O
+los	NP	O
+préstamos	NP	O
+del	FW	O
+latín	NP	O
+en	FW	O
+la	FW	O
+lengua	NN	O
+vasca	NN	O
+.	SENT	O

@@ -1,0 +1,36 @@
+Indagine	NOM	O
+delle	PRE:det	O
+varie	ADJ	O
+«	PON	O
+risposte	NOM	O
+»	PON	O
+properziane	VER:impe	O
+all'	PRE:det	O
+immagine	NOM	O
+di	PRE	O
+Apollo	NOM	O
+che	PRO:rela	O
+interviene	VER:pres	O
+ad	PRE	O
+Azio	NOM	O
+di	PRE	O
+Aen.	NOM	O
+
+8	NUM	B-REFSCOPE
+,	PON	I-REFSCOPE
+704-706	NUM	I-REFSCOPE
+,	PON	I-REFSCOPE
+in	PRE	O
+particolare	NOM	O
+con	PRE	O
+il	DET:def	O
+Febo	NOM	O
+di	PRE	O
+Prop	NOM	O
+.	SENT	O
+
+2	NUM	B-REFSCOPE
+,	PON	I-REFSCOPE
+34	NUM	I-REFSCOPE
+,	PON	I-REFSCOPE
+59-66	NUM	I-REFSCOPE

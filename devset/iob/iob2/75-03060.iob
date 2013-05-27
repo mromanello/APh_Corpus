@@ -1,0 +1,22 @@
+Discussione	NOM	O
+di	PRE	O
+Lucr.	NOM	O
+
+1	NUM	B-REFSCOPE
+,	PON	I-REFSCOPE
+62-79	NUM	I-REFSCOPE
+e	CON	O
+di	PRE	O
+altri	PRO:indef	O
+passi	NOM	O
+che	PRO:rela	O
+sembrano	VER:pres	O
+rivelare	VER:infi	O
+l'	DET:def	O
+importanza	NOM	O
+della	PRE:det	O
+dimensione	NOM	O
+propriamente	ADV	O
+romana	ADJ	O
+per	PRE	O
+Lucrezio	NOM	B-AAUTHOR

@@ -1,0 +1,32 @@
+Il	DET:def	O
+ms.	NOM	O
+
+Vaticano	ADJ	O
+,	PON	O
+BAV	NOM	O
+,	PON	O
+Vat.	ABR	O
+
+lat	NOM	O
+.	SENT	O
+
+6848	NUM	O
+contiene	VER:pres	O
+la	DET:def	O
+traduzione	NOM	O
+in	PRE	O
+greco	NOM	O
+dell'	PRE:det	O
+ode	NOM	O
+1	NUM	B-REFSCOPE
+,	PON	I-REFSCOPE
+1	NUM	I-REFSCOPE
+a	PRE	O
+opera	NOM	O
+di	PRE	O
+un	DET:indef	O
+certo	ADJ	O
+Daniele	NPR	O
+(	PON	O
+15°-16°	NOM	O
+s.	NOM	O

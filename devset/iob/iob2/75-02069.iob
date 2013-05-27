@@ -1,0 +1,16 @@
+A	PRE	O
+proposito	NOM	O
+dei	PRE:det	O
+contributi	NOM	O
+di	PRE	O
+Schenkeveld	NOM	O
+(	PON	O
+=>	NOM	O
+61-05192	NUM	O
+)	PON	O
+e	CON	O
+Stroh	NOM	O
+(	PON	O
+=>	NOM	O
+69-01873	NUM	O
+)	PON	O

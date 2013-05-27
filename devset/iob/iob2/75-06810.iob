@@ -1,0 +1,12 @@
+Exemples	NOM	O
+tirés	VER:pper	O
+des	PRP:det	O
+tragédies	NOM	O
+d'	PRP	B-AAUTHOR
+Eschyle	NAM	I-AAUTHOR
+,	PUN	I-AAUTHOR
+de	PRP	O
+Sophocle	NAM	B-AAUTHOR
+et	KON	O
+d'	PRP	B-AAUTHOR
+Euripide	NAM	I-AAUTHOR

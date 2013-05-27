@@ -1,0 +1,11 @@
+Influenza	NOM	O
+di	PRE	O
+Lucrezio	NOM	O
+sulla	PRE:det	O
+teoria	NOM	O
+delle	PRE:det	O
+malattie	NOM	O
+contagiose	ADJ	O
+di	PRE	O
+Girolamo	NOM	O
+Fracastoro	NOM	O

@@ -1,0 +1,13 @@
+Pour	PRP	O
+1	NUM	O
+,	PUN	O
+cf	NOM	O
+.	SENT	O
+
+l'	DET:ART	O
+article	NOM	O
+de	PRP	O
+H.	ABR	O
+Leppin	NAM	O
+noté	VER:pper	O
+75-06913	NUM	O

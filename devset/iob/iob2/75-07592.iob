@@ -1,0 +1,41 @@
+Sommaire	NOM	O
+général	ADJ	O
+(	PUN	O
+p.	ABR	O
+
+245-279	NUM	O
+)	PUN	O
+;	PUN	O
+Index	NOM	O
+des	PRP:det	O
+auteurs	NOM	O
+(	PUN	O
+p.	ABR	O
+
+280-285	NUM	O
+)	PUN	O
+;	PUN	O
+Index	NOM	O
+des	PRP:det	O
+localités	NOM	O
+(	PUN	O
+p.	ABR	O
+
+286-317	NUM	O
+)	PUN	O
+;	PUN	O
+Index	NOM	O
+thématique-chronologique	ADJ	O
+(	PUN	O
+p.	ABR	O
+
+318-333	NUM	O
+)	PUN	O
+;	PUN	O
+Index	NOM	O
+numismatique	ADJ	O
+(	PUN	O
+p.	ABR	O
+
+333-343	NUM	O
+)	PUN	O

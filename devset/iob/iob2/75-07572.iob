@@ -1,0 +1,31 @@
+Signalement	NOM	O
+de	PRP	O
+manuscrits	NOM	O
+enluminés	VER:pper	O
+(	PUN	O
+11e-13e	VER:pres	O
+s.	VER:pper	O
+
+)	PUN	O
+,	PUN	O
+surtout	ADV	O
+néotestamentaires	ADJ	O
+ou	KON	O
+liturgiques	ADJ	O
+.	SENT	O
+
+À	PRP	O
+noter	VER:infi	O
+aussi	ADV	O
+les	DET:ART	O
+«	PUN:cit	B-AWORK
+Discours	NAM	I-AWORK
+»	PUN:cit	I-AWORK
+de	PRP	O
+Grégoire	NAM	B-AAUTHOR
+de	PRP	I-AAUTHOR
+Nazianze	NAM	I-AAUTHOR
+avec	PRP	O
+scholies	NOM	O
+du	PRP:det	O
+Pseudo-Nonnos	NOM	O

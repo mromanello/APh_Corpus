@@ -1,0 +1,19 @@
+Influenza	NOM	O
+di	PRE	O
+Ilario	NOM	O
+di	PRE	O
+Poitiers	NOM	O
+sul	PRE:det	O
+commento	NOM	O
+ambrosiano	ADJ	O
+di	PRE	O
+Lc	NOM	O
+.	SENT	O
+
+12	NUM	B-REFSCOPE
+,	PON	I-REFSCOPE
+27	NUM	I-REFSCOPE
+e	CON	B-REFSCOPE
+13	NUM	I-REFSCOPE
+,	PON	I-REFSCOPE
+6-9	NUM	I-REFSCOPE

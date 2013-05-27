@@ -1,0 +1,34 @@
+On	IN	O
+the	DT	O
+Greek	JJ	O
+hexameter	NN	O
+.	SENT	O
+
+Gives	VBZ	O
+a	DT	O
+new	JJ	O
+series	NN	O
+of	IN	O
+structurally	RB	O
+similar	JJ	O
+,	,	O
+yet	RB	O
+more	RBR	O
+specific	JJ	O
+tables	NNS	O
+(	(	O
+for	IN	O
+the	DT	O
+paper	NN	O
+of	IN	O
+E.	NP	O
+G.	NP	O
+O'Neill	NP	O
+=>	NN	O
+APh	NP	O
+17	CD	O
+,	,	O
+p.	NN	O
+
+225	CD	O
+)	)	O

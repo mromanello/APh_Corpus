@@ -1,0 +1,33 @@
+Collazione	NOM	O
+integrale	ADJ	O
+del	PRE:det	O
+ms.	NOM	O
+
+Firenze	NPR	O
+,	PON	O
+Bibl.	NOM	O
+
+Medicea	ADJ	O
+Laurenziana	NOM	O
+,	PON	O
+plut.	NOM	O
+
+69	NUM	O
+,	PON	O
+30	NUM	O
+,	PON	O
+rivalutato	VER:pper	O
+quale	PRO:rela	O
+testimone	NOM	O
+più	ADV	O
+antico	ADJ	O
+del	PRE:det	O
+testo	NOM	O
+completo	ADJ	O
+e	CON	O
+snodo	NOM	O
+importante	ADJ	O
+nella	PRE:det	O
+tradizione	NOM	O
+dell'	PRE:det	O
+opera	NOM	O

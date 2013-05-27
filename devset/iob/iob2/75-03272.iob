@@ -1,0 +1,38 @@
+Presentazione	NOM	O
+di	PRE	O
+un	DET:indef	O
+PSI	NOM	O
+inedito	ADJ	O
+,	PON	O
+proveniente	ADJ	O
+da	PRE	O
+Hermupolis	NOM	O
+e	CON	O
+databile	ADJ	O
+alla	PRE:det	O
+fine	NOM	O
+del	PRE:det	O
+4°	NOM	O
+o	CON	O
+al	PRE:det	O
+5°	NOM	O
+sec.	NOM	O
+
+d.	VER:impe	O
+C.	LS	O
+,	PON	O
+che	PRO:rela	O
+potrebbe	VER:cond	O
+contenere	VER:infi	O
+un	DET:indef	O
+richiamo	NOM	O
+al	PRE:det	O
+fr.	ABR	O
+
+200	NUM	O
+K.	LS	O
+-T	NOM	O
+.	SENT	O
+
+di	PRE	O
+Menandro	NOM	B-AAUTHOR

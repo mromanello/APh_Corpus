@@ -1,0 +1,28 @@
+Bei	APPR	O
+den	ART	O
+Untersuchungen	NN	O
+zwischen	APPR	O
+1990	CARD	O
+und	KON	O
+1995	CARD	O
+wurden	VAFIN	O
+vier	CARD	O
+Bauphasen	NN	O
+unterschieden	VVPP	O
+und	KON	O
+durch	APPR	O
+Keramik	NN	O
+und	KON	O
+Münzmaterial	NN	O
+zwischen	APPR	O
+dem	ART	O
+1.	ADJA	O
+und	KON	O
+dem	ART	O
+4.	ADJA	O
+
+n.	APPR	O
+Chr.	NE	O
+
+datiert	VVPP	O
+.	$.	O

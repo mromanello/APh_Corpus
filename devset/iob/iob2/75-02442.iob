@@ -1,0 +1,46 @@
+Notizie	NOM	O
+bibliografiche	ADJ	O
+su	PRE	O
+pubblicazioni	NOM	O
+relative	ADJ	O
+al	PRE:det	O
+periodo	NOM	O
+indicato	VER:pper	O
+,	PON	O
+concernenti	VER:ppre	O
+papiri	NOM	O
+con	PRE	O
+il	DET:def	O
+testo	NOM	O
+e/o	CON	O
+con	PRE	O
+commenti	NOM	O
+,	PON	O
+scolî	NOM	O
+o	CON	O
+parafrasi	NOM	O
+all'	PRE:det	O
+«	PON	B-AWORK
+Iliade	NOM	I-AWORK
+»	PON	I-AWORK
+.	SENT	I-AWORK
+
+Addenda	VER:impe	O
+per	PRE	O
+gli	DET:def	O
+anni	NOM	O
+1999-2001	NUM	O
+.	SENT	O
+
+122	NUM	O
+:	PON	O
+indice	NOM	O
+dei	PRE:det	O
+papiri	NOM	O
+considerati	ADJ	O
+.	SENT	O
+
+Per	PRE	O
+3	NUM	O
+=>	NOM	O
+74-02822	NUM	O

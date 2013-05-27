@@ -1,0 +1,22 @@
+Structure	NOM	O
+et	KON	O
+fonctionnement	NOM	O
+de	PRP	O
+la	DET:ART	O
+formule	NOM	O
+;	PUN	O
+rôle	NOM	O
+de	PRP	O
+l'	DET:ART	O
+épithète	NOM	O
+;	PUN	O
+thèmes	NOM	O
+et	KON	O
+motifs	NOM	O
+traditionnels	ADJ	O
+.	SENT	O
+
+Pour	PRP	O
+1	NUM	O
+=>	ABR	O
+75-02577	NUM	O

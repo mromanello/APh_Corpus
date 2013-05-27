@@ -1,0 +1,16 @@
+Resoconto	NOM	O
+di	PRE	O
+una	DET:indef	O
+giornata	NOM	O
+di	PRE	O
+studio	NOM	O
+sul	PRE:det	O
+tema	NOM	O
+,	PON	O
+svoltasi	VER:impe	O
+ad	PRE	O
+Arpino	NPR	O
+il	DET:def	O
+29	NUM	O
+gennaio	NOM	O
+2004	NUM	O

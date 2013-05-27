@@ -1,0 +1,25 @@
+Avantages	NOM	O
+et	KON	O
+limites	NOM	O
+des	PRP:det	O
+investigations	NOM	O
+par	PRP	O
+radar	NOM	O
+géologique	ADJ	O
+(	PUN	O
+GPR	NAM	O
+)	PUN	O
+avec	PRP	O
+modélisation	NOM	O
+3-D	ADJ	O
+.	SENT	O
+
+L'	DET:ART	O
+exemple	NOM	O
+des	PRP:det	O
+fouilles	NOM	O
+2001.51	NUM	O
+et	KON	O
+2001-2002.64	NUM	O
+d'	PRP	O
+Augst	NAM	O

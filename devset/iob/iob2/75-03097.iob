@@ -1,0 +1,18 @@
+Le	DET:ART	O
+concept	NOM	O
+de	PRP	O
+savoir	NOM	O
+rationnel	ADJ	O
+chez	PRP	O
+Macrobe	NOM	O
+.	SENT	O
+
+Rapports	NOM	O
+à	PRP	O
+Platon	NAM	B-AAUTHOR
+,	PUN	I-AAUTHOR
+Cicéron	NAM	B-AAUTHOR
+,	PUN	I-AAUTHOR
+Homère	NAM	O
+et	KON	O
+Virgile	NAM	B-AAUTHOR

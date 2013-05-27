@@ -1,0 +1,21 @@
+Exemple	NOM	O
+de	PRP	O
+Phaen	NAM	O
+.	SENT	O
+
+284-299	NUM	O
+,	PUN	O
+à	PRP	O
+propos	NOM	O
+du	PRP:det	O
+Capricorne	NAM	O
+,	PUN	O
+dans	PRP	O
+les	DET:ART	O
+traductions	NOM	O
+de	PRP	O
+Cicéron	NAM	B-AAUTHOR
+,	PUN	I-AAUTHOR
+Germanicus	NAM	B-AAUTHOR
+et	KON	O
+Aviénus	NAM	O
