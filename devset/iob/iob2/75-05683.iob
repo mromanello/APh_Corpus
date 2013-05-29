@@ -1,0 +1,85 @@
+Publication	NN	O
+of	IN	O
+PDuk	NP	O
+.	SENT	O
+
+778	CD	O
+=	SYM	O
+PRob	NP	O
+.	SENT	O
+
+41	CD	O
+,	,	O
+from	IN	O
+6th-cent	JJ	O
+.	SENT	O
+
+Egypt	NP	O
+containing	VBG	O
+,	,	O
+on	IN	O
+the	DT	O
+recto	NN	O
+,	,	O
+LXX	NP	O
+,	,	O
+Ps	NP	O
+.	SENT	O
+
+90	CD	O
+,	,	O
+the	DT	O
+heading	NN	O
+of	IN	O
+Ps	NN	O
+.	SENT	O
+
+91	NP	O
+and	CC	O
+,	,	O
+on	IN	O
+the	DT	O
+verso	NN	O
+,	,	O
+a	DT	O
+version	NN	O
+of	IN	O
+the	DT	O
+Lord	NP	O
+'s	POS	O
+Prayer	NP	O
+and	CC	O
+a	DT	O
+doxology	NN	O
+.	SENT	O
+
+The	DT	O
+texts	NNS	O
+show	VBP	O
+a	DT	O
+number	NN	O
+of	IN	O
+omissions	NNS	O
+and	CC	O
+variations	NNS	O
+from	IN	O
+the	DT	O
+standard	JJ	O
+textual	JJ	O
+tradition	NN	O
+that	WDT	O
+always	RB	O
+offer	VBP	O
+inferior	JJ	O
+readings	NNS	O
+.	SENT	O
+
+The	DT	O
+papyrus	NN	O
+was	VBD	O
+probably	RB	O
+used	VBN	O
+as	IN	O
+an	DT	O
+amulet	NN	O
+.	SENT	O

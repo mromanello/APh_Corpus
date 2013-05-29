@@ -1,0 +1,23 @@
+Commentaire	NOM	O
+anonyme	ADJ	O
+connu	VER:pper	O
+par	PRP	O
+les	DET:ART	O
+mss	NOM	O
+Bruxelles	NAM	O
+,	PUN	O
+B.	ABR	O
+roy	NOM	O
+.	SENT	O
+
+10063-10065	NUM	O
+et	KON	O
+4988-4990	NUM	O
+(	PUN	O
+accessus	NOM	O
+)	PUN	O
+et	KON	O
+Zurich	NAM	O
+,	PUN	O
+Zentralbibl	NAM	O
+.	SENT	O

@@ -1,0 +1,21 @@
+Analisi	NOM	O
+del	PRE:det	O
+passo	NOM	O
+paolino	ADJ	O
+sul	PRE:det	O
+piano	NOM	O
+retorico	ADJ	O
+e	CON	O
+storico	ADJ	O
+e	CON	O
+suo	PRO:poss	O
+confronto	NOM	O
+con	PRE	O
+Rm	NOM	O
+.	SENT	O
+
+6	NUM	O
+e	CON	O
+1	NUM	B-REFSCOPE
+,	PON	I-REFSCOPE
+19-32	NUM	I-REFSCOPE

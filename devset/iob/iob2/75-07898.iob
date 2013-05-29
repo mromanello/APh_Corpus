@@ -1,0 +1,42 @@
+Catalogue	NOM	O
+des	PRP:det	O
+19	NUM	O
+objets	NOM	O
+retrouvés	VER:pper	O
+dans	PRP	O
+la	DET:ART	O
+tombe	NOM	O
+4	NUM	O
+,	PUN	O
+fouillée	VER:pper	O
+en	PRP	O
+1979.	DET:POS	O
+
+Creusée	VER:pper	O
+dans	PRP	O
+le	DET:ART	O
+rocher	NOM	O
+,	PUN	O
+cette	PRO:DEM	O
+sépulture	NOM	O
+accueille	VER:pres	O
+trois	NUM	O
+inhumations	NOM	O
+.	SENT	O
+
+Des	PRP:det	O
+traces	NOM	O
+de	PRP	O
+textile	NOM	O
+ont	VER:pres	O
+été	VER:pper	O
+notées	VER:pper	O
+.	SENT	O
+
+Le	DET:ART	O
+matériel	ADJ	O
+renvoie	VER:pres	O
+à	PRP	O
+l'	DET:ART	O
+Hellénistique	NOM	O
+ancien	ADJ	O

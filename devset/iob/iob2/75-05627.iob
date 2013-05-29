@@ -1,0 +1,14 @@
+Analyse	NN	O
+von	APPR	O
+Lukas	NE	B-REFAUWORK
+10	CARD	B-REFSCOPE
+,	$,	I-REFSCOPE
+38-42	CARD	I-REFSCOPE
+insbesondere	ADV	O
+unter	APPR	O
+dem	ART	O
+Aspekt	NN	O
+des	ART	O
+christlichen	ADJA	O
+Frauenbildes	NN	O
+.	$.	O

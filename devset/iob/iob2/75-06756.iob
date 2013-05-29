@@ -1,0 +1,9 @@
+On	IN	O
+S.	NP	O
+L.	NP	O
+James	NP	O
+(	(	O
+=>	NP	O
+74-08226	CD	O
+)	)	O
+.	SENT	O

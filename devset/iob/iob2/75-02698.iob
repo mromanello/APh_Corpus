@@ -1,0 +1,20 @@
+Nuova	ADJ	O
+lettura	NOM	O
+esegetica	ADJ	O
+dell'	PRE:det	O
+inno	NOM	O
+.	SENT	O
+
+I	DET:def	O
+modelli	NOM	O
+.	SENT	O
+
+Datazione	NOM	O
+e	CON	O
+metrica	NOM	O
+.	SENT	O
+
+La	DET:def	O
+formule	NOM	O
+della	PRE:det	O
+dedica	NOM	O

@@ -1,0 +1,38 @@
+Edizione	NOM	O
+,	PON	O
+traduzione	NOM	O
+italiana	ADJ	O
+e	CON	O
+commento	NOM	O
+dei	PRE:det	O
+resti	NOM	O
+di	PRE	O
+poema	NOM	O
+esametrico	NOM	O
+di	PRE	O
+argomento	NOM	O
+incerto	ADJ	O
+riportati	VER:pper	O
+in	PRE	O
+questo	PRO:demo	O
+frammento	NOM	O
+di	PRE	O
+rotolo	NOM	O
+papiraceo	ADJ	O
+di	PRE	O
+provenienza	NOM	O
+ignota	ADJ	O
+databile	ADJ	O
+tra	PRE	O
+1°	ADJ	O
+sec.	NOM	O
+
+a.	VER:impe	O
+C.	LS	O
+
+e	CON	O
+1°	ADJ	O
+sec.	NOM	O
+
+d.	VER:impe	O
+C.	LS	O

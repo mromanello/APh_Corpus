@@ -1,0 +1,17 @@
+Die	ART	O
+Passage	NN	O
+ist	VAFIN	O
+stilistisch	ADJD	O
+auffällig	ADJD	O
+und	KON	O
+inhaltlich	ADJD	O
+überflüssig	ADJD	O
+bzw.	KON	O
+
+sinnstörend	ADJD	O
+und	KON	O
+sollte	VMFIN	O
+somit	ADV	O
+athetiert	ADJD	O
+werden	VAINF	O
+.	$.	O

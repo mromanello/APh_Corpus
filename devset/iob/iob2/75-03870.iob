@@ -1,0 +1,37 @@
+La	DET:def	O
+panoramica	NOM	O
+sui	PRE:det	O
+miti	NOM	O
+di	PRE	O
+Argo	NOM	O
+in	PRE	O
+Pi	NOM	O
+.	SENT	O
+
+Nem	NOM	O
+.	SENT	O
+
+10	NUM	O
+,	PON	O
+1-18	NUM	O
+sembra	VER:pres	O
+aver	VER:infi	O
+influito	VER:pper	O
+sul	PRE:det	O
+ciclo	NOM	O
+statuario	ADJ	O
+realizzato	VER:pper	O
+a	PRE	O
+Delfi	NOM	O
+per	PRE	O
+gli	DET:def	O
+Argivi	NOM	O
+dallo	PRE:det	O
+scultore	NOM	O
+Antifane	NOM	O
+nel	PRE:det	O
+4°	NOM	O
+sec.	NOM	O
+
+a.	VER:impe	O
+C.	LS	O

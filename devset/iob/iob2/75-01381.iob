@@ -1,0 +1,23 @@
+Zu	APPR	O
+den	ART	O
+Lesarten	NN	O
+und	KON	O
+Abkürzungen	NN	O
+des	ART	O
+Textes	NN	O
+aus	APPR	O
+der	ART	O
+Mitte	NN	O
+des	ART	O
+12.	ADJA	O
+
+im	APPRART	O
+Vergleich	NN	O
+mit	APPR	O
+ihrer	PPOSAT	O
+Wiedergabe	NN	O
+in	APPR	O
+den	ART	O
+gängigen	ADJA	O
+Ausgaben	NN	O
+.	$.	O

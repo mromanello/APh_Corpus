@@ -1,0 +1,30 @@
+Beobachtungen	NN	O
+zu	APPR	O
+den	ART	O
+neuen	ADJA	O
+Fragmenten	NN	O
+,	$,	O
+die	PRELS	O
+fr.	NE	O
+
+58	CARD	O
+Voigt	NE	O
+ergänzen	VVFIN	O
+,	$,	O
+insbesondere	ADV	O
+zur	APPRART	O
+Rekonstruktion	NN	O
+des	ART	O
+Textes	NN	O
+durch	APPR	O
+die	ART	O
+Editoren	NN	O
+in	APPR	O
+V.	NE	O
+
+9-20	CARD	O
+(	$(	O
+=>	NN	O
+75-04776	CARD	O
+)	$(	O
+.	$.	O

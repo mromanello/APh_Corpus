@@ -1,0 +1,16 @@
+Cronaca	NOM	O
+del	PRE:det	O
+convegno	NOM	O
+svoltosi	VER:pper	O
+a	PRE	O
+Roma	NPR	O
+,	PON	O
+Università	NOM	O
+«	PON	O
+La	VER:geru	O
+Sapienza	NOM	O
+»	PON	O
+,	PON	O
+22-23	NUM	O
+Maggio	NOM	O
+2003	NUM	O

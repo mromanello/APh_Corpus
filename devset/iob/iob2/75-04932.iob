@@ -1,0 +1,58 @@
+Nell'	PRE:det	O
+epistola	NOM	O
+prefatoria	ADJ	O
+al	PRE:det	O
+c.	NOM	O
+
+14	NUM	O
+Sidonio	NOM	O
+attribuisce	VER:pres	O
+a	PRE	O
+Cicerone	NOM	B-AAUTHOR
+i	DET:def	O
+termini	NOM	O
+«	PON	O
+essentia	NOM	O
+»	PON	O
+e	CON	O
+«	PON	O
+indoloria	NOM	O
+»	PON	O
+,	PON	O
+ma	CON	O
+il	DET:def	O
+primo	ADJ	O
+deriva	NOM	O
+probabilmente	ADV	O
+da	PRE	O
+una	DET:indef	O
+fonte	NOM	O
+perduta	ADJ	O
+comune	ADJ	O
+ad	PRE	O
+Aug	NOM	O
+.	SENT	O
+
+civ	NOM	O
+.	SENT	O
+
+12	NUM	O
+,	PON	O
+2	NUM	O
+,	PON	O
+mentre	CON	O
+il	DET:def	O
+secondo	ADJ	O
+può	VER:pres	O
+derivare	VER:infi	O
+da	PRE	O
+Hier	NOM	O
+.	SENT	O
+
+in	PRE	O
+Eph	NOM	O
+.	SENT	O
+
+4	NUM	O
+,	PON	O
+19	NUM	O

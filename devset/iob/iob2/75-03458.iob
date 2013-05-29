@@ -1,0 +1,14 @@
+Sur	PRP	O
+la	DET:ART	O
+fortune	NOM	O
+des	PRP:det	O
+«	PUN:cit	B-AWORK
+Héroïdes	NOM	I-AWORK
+»	PUN:cit	I-AWORK
+,	PUN	I-AWORK
+principalement	ADV	O
+des	PRP:det	O
+lettres	NOM	O
+16	NUM	O
+à	PRP	O
+21	NUM	O

@@ -1,0 +1,41 @@
+Su	PRE	O
+CIL	NOM	O
+2	NUM	O
+,	PON	O
+2182	NUM	O
+,	PON	O
+iscrizione	NOM	O
+rinvenuta	VER:pper	O
+ad	PRE	O
+Adamuz	NOM	O
+nel	PRE:det	O
+1772	NUM	O
+databile	ADJ	O
+tra	PRE	O
+il	DET:def	O
+1°	ADJ	O
+sec.	NOM	O
+
+a.	VER:impe	O
+C.	LS	O
+
+e	CON	O
+il	DET:def	O
+2°	NOM	O
+sec.	NOM	O
+
+d.	VER:impe	O
+C.	NPR	O
+,	PON	O
+testimonianza	NOM	O
+importante	ADJ	O
+per	PRE	O
+la	DET:def	O
+vita	NOM	O
+di	PRE	O
+Acilio	NOM	O
+,	PON	O
+nonno	NOM	O
+del	PRE:det	O
+poeta	NOM	O
+Lucano	NOM	O

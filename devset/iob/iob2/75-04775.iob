@@ -1,0 +1,30 @@
+Erstedition	NN	O
+von	APPR	O
+Inv.	NN	O
+
+21376	CARD	O
+der	ART	O
+Kölner	ADJA	O
+Sammlung	NN	O
+,	$,	O
+welches	PRELS	O
+die	ART	O
+zweite	ADJA	O
+Kolumne	NN	O
+des	ART	O
+in	APPR	O
+=>	NN	O
+75-04776	CARD	O
+publizierten	ADJA	O
+Fragmentes	NN	O
+(	$(	O
+Inv.	NN	O
+
+21351	CARD	O
+)	$(	O
+bis	APPR	O
+zum	APPRART	O
+unteren	ADJA	O
+Kolumnenrand	NN	O
+fortsetzt	VVFIN	O
+.	$.	O

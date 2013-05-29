@@ -1,0 +1,45 @@
+At	IN	O
+De	NP	O
+Somn	NP	O
+.	SENT	O
+
+1.232-3	CD	O
+,	,	O
+Philo	NP	O
+of	IN	O
+Alexandria	NP	O
+notes	NNS	O
+,	,	O
+against	IN	O
+Plato	NP	B-AAUTHOR
+(	(	O
+Resp	NP	O
+.	SENT	O
+
+2.380d-381d	JJ	O
+)	)	O
+,	,	O
+that	IN	O
+Od.	NP	O
+
+17.485-6	CD	O
+,	,	O
+although	IN	O
+it	PP	O
+expresses	VBZ	O
+a	DT	O
+false	JJ	O
+doctrine	NN	O
+about	IN	O
+the	DT	O
+gods	NNS	O
+,	,	O
+is	VBZ	O
+nevertheless	RB	O
+educationally	RB	O
+beneficial	JJ	O
+and	CC	O
+should	MD	O
+be	VB	O
+exploited	VBN	O
+.	SENT	O

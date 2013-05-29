@@ -1,0 +1,7 @@
+Sintassi	NOM	O
+dei	PRE:det	O
+pronomi	NOM	O
+personali	ADJ	O
+ortotonici	NOM	O
+ed	CON	O
+enclitici	ADJ	O

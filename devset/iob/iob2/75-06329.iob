@@ -1,0 +1,12 @@
+Il	DET:def	O
+ruolo	NOM	O
+degli	PRE:det	O
+animali	NOM	O
+in	PRE	O
+«	PON	B-AWORK
+Vitae	NOM	I-AWORK
+»	PON	I-AWORK
+monastiche	ADJ	O
+del	PRE:det	O
+4°	NOM	O
+sec.	NOM	O

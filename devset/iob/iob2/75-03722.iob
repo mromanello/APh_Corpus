@@ -1,0 +1,16 @@
+I	DET:def	O
+racconti	NOM	O
+nel	PRE:det	O
+cap	NOM	O
+.	SENT	O
+
+62	NUM	O
+rispecchiano	VER:pres	O
+una	DET:indef	O
+tipologia	NOM	O
+già	ADV	O
+presente	ADJ	O
+nella	PRE:det	O
+tradizione	NOM	O
+folclorica	ADJ	O
+orale	ADJ	O

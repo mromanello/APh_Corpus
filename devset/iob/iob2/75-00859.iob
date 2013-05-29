@@ -1,0 +1,22 @@
+Réimpr	NOM	O
+.	SENT	O
+
+d'	PRP	O
+un	DET:ART	O
+article	NOM	O
+paru	VER:pper	O
+dans	PRP	O
+la	DET:ART	O
+même	ADJ	O
+revue	NOM	O
+en	PRP	O
+1973	NUM	O
+(	PUN	O
+=>	NOM	O
+APh	NAM	O
+44	NUM	O
+,	PUN	O
+p.	ABR	O
+
+52	NUM	O
+)	PUN	O

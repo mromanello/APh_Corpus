@@ -1,0 +1,19 @@
+On	IN	O
+Tyconius	NP	B-AAUTHOR
+'	POS	I-AAUTHOR
+use	NN	O
+of	IN	O
+synecdoche	NN	O
+to	TO	O
+solve	VB	O
+problems	NNS	O
+of	IN	O
+Biblical	JJ	O
+chronology	NN	O
+.	SENT	O
+
+Includes	VBZ	O
+comparison	NN	O
+with	IN	O
+Rabbinic	JJ	O
+sources	NNS	O

@@ -1,0 +1,27 @@
+In	PRE	O
+uar	VER:infi	O
+.	SENT	O
+
+12	NUM	B-REFSCOPE
+,	PON	I-REFSCOPE
+14	NUM	I-REFSCOPE
+,	PON	I-REFSCOPE
+1	NUM	I-REFSCOPE
+Cassiodoro	NOM	O
+parla	VER:pres	O
+del	PRE:det	O
+territorio	NOM	O
+di	PRE	O
+Reggio	NPR	O
+riprendendo	VER:geru	O
+verosimilmente	ADV	O
+la	DET:def	O
+descrizione	NOM	O
+di	PRE	O
+Samo	NOM	O
+fatta	VER:pper	O
+da	PRE	O
+Apuleio	NOM	O
+in	PRE	O
+Flor	NOM	O
+.	SENT	O

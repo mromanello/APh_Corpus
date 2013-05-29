@@ -1,0 +1,35 @@
+Analisi	NOM	O
+e	CON	O
+storia	NOM	O
+del	PRE:det	O
+ms.	NOM	O
+
+New	NPR	O
+York	NPR	O
+,	PON	O
+Morgan	NPR	O
+Library	NOM	O
+655	NUM	O
+(	PON	O
+9°	NOM	O
+s.	NOM	O
+
+d.	VER:impe	O
+C.	LS	O
+
+)	PON	O
+,	PON	O
+contenente	VER:ppre	O
+parte	NOM	O
+delle	PRE:det	O
+omelie	NOM	O
+sulla	PRE:det	O
+«	PON	B-AWORK
+Genesi	NOM	I-AWORK
+»	PON	I-AWORK
+di	PRE	O
+Giovanni	NPR	B-AAUTHOR
+Crisostomo	NOM	I-AAUTHOR
+(	PON	B-REFSCOPE
+1-42	NUM	I-REFSCOPE
+)	PON	I-REFSCOPE

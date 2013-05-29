@@ -1,0 +1,36 @@
+Studio	NOM	O
+del	PRE:det	O
+ms.	NOM	O
+
+Sevilla	NPR	O
+,	PON	O
+Fondo	NOM	O
+Messina	NPR	O
+,	PON	O
+Archivio	NOM	O
+Ducale	ABR	O
+Medinaceli	ABR	O
+(	PON	O
+10°-11°	NOM	O
+s.	NOM	O
+
+)	PON	O
+,	PON	O
+oggi	ADV	O
+conservato	VER:pper	O
+a	PRE	O
+Toledo	NPR	O
+e	CON	O
+contenente	VER:ppre	O
+passi	NOM	O
+del	PRE:det	O
+Vangelo	NOM	O
+di	PRE	O
+Giovanni	NPR	O
+(	PON	O
+2	NUM	O
+,	PON	O
+18-4	NUM	O
+,	PON	O
+4	NUM	O
+)	PON	O

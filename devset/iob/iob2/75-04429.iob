@@ -1,0 +1,11 @@
+Osservazioni	NOM	O
+sulla	PRE:det	O
+critica	NOM	O
+di	PRE	O
+Plotino	NOM	B-AAUTHOR
+alla	PRE:det	O
+teoria	NOM	O
+delle	PRE:det	O
+categorie	NOM	O
+di	PRE	O
+Aristotele	NPR	B-AAUTHOR

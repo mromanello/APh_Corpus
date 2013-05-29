@@ -1,0 +1,26 @@
+La	DET:def	O
+tradizione	NOM	O
+della	PRE:det	O
+«	PON	B-AWORK
+Passio	NOM	I-AWORK
+»	PON	I-AWORK
+(	PON	O
+BHG	NOM	O
+376	NUM	O
+sq	NOM	O
+.	SENT	O
+
+)	PON	O
+nella	PRE:det	O
+versione	NOM	O
+siriana	ADJ	O
+e	CON	O
+la	DET:def	O
+diffusione	NOM	O
+del	PRE:det	O
+culto	NOM	O
+dei	PRE:det	O
+due	ADJ	O
+santi	NOM	O
+in	PRE	O
+Siria	NPR	O

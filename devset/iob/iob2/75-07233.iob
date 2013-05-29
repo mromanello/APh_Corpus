@@ -1,0 +1,25 @@
+Utilisation	NOM	O
+de	PRP	O
+l'	DET:ART	O
+informatique	NOM	O
+pour	PRP	O
+restituer	VER:infi	O
+le	DET:ART	O
+latin	NOM	O
+parlé	VER:pper	O
+.	SENT	O
+
+Sources	NOM	O
+de	PRP	O
+la	DET:ART	O
+connaissance	NOM	O
+de	PRP	O
+la	DET:ART	O
+parole	NOM	O
+latine	ADJ	O
+:	PUN	O
+les	DET:ART	O
+composantes	NOM	O
+phonologiques	ADJ	O
+et	KON	O
+prosodiques	ADJ	O

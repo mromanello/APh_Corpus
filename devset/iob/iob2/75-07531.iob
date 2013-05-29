@@ -1,0 +1,127 @@
+Elenco	NOM	O
+e	CON	O
+descrizione	NOM	O
+dei	PRE:det	O
+ms.	NOM	O
+
+Perugia	NPR	O
+,	PON	O
+Bibl.	NOM	O
+
+Augusta	ADJ	O
+295	NUM	O
+(	PON	O
+Giovanni	NPR	B-AAUTHOR
+Crisostomo	NOM	I-AAUTHOR
+,	PON	I-AAUTHOR
+Hom	NOM	O
+.	SENT	O
+
+67	NUM	O
+in	PRE	O
+Genesis	NOM	O
+)	PON	O
+;	PON	O
+Perugia	NPR	O
+,	PON	O
+Archivio	NOM	O
+di	PRE	O
+Stato	NOM	O
+,	PON	O
+Archivio	NOM	O
+Cannara	NOM	O
+b	ABR	O
+209	NUM	O
+(	PON	O
+Basilio	NOM	O
+Magno	NOM	O
+,	PON	O
+Hom	NOM	O
+.	SENT	O
+
+in	PRE	O
+Illud	NOM	O
+:	PON	O
+In	PRE	O
+principio	NOM	O
+erat	NOM	O
+Verbum	NOM	O
+)	PON	O
+;	PON	O
+Perugia	NPR	O
+,	PON	O
+Bibl.	NOM	O
+
+Augusta	ADJ	O
+,	PON	O
+fr.	ABR	O
+
+3279	NUM	O
+(	PON	O
+Basilio	NOM	B-AAUTHOR
+,	PON	I-AAUTHOR
+«	PON	B-AWORK
+In	NOM	I-AWORK
+quadraginta	ADJ	I-AWORK
+martyres	NOM	I-AWORK
+Sebastenses	NOM	I-AWORK
+»	PON	I-AWORK
+e	CON	O
+Ep.	NOM	O
+
+260	NUM	O
+;	PON	O
+Pseudo-Basilio	NOM	O
+,	PON	O
+«	PON	O
+De	NPR	O
+uerginitate	NOM	O
+»	PON	O
+)	PON	O
+;	PON	O
+Perugia	NPR	O
+,	PON	O
+Archivio	NOM	O
+di	PRE	O
+Stato	NOM	O
+,	PON	O
+Fondo	NOM	O
+Notarile	NOM	O
+di	PRE	O
+Perugia	NPR	O
+b	ABR	O
+2841	NUM	O
+(	PON	O
+Platone	NPR	B-AAUTHOR
+,	PON	I-AAUTHOR
+«	PON	B-AWORK
+Epinomide	NOM	I-AWORK
+»	PON	I-AWORK
+)	PON	I-AWORK
+;	PON	O
+Foligno	NOM	O
+,	PON	O
+Archivio	NOM	O
+di	PRE	O
+Stato	NOM	O
+,	PON	O
+A.	NPR	O
+N.	ABR	O
+
+Serie	NOM	O
+I.	NPR	O
+
+315	NUM	O
+(	PON	O
+Giovanni	NPR	B-AAUTHOR
+Crisostomo	NOM	I-AAUTHOR
+,	PON	I-AAUTHOR
+In	NOM	O
+Iohann	NOM	O
+.	SENT	O
+
+hom	NOM	O
+.	SENT	O
+
+74-75	NUM	O
+)	PON	O

@@ -1,0 +1,17 @@
+La	DET:ART	O
+poétique	NOM	O
+dont	PRO:REL	O
+procède	VER:pres	O
+le	DET:ART	O
+«	PUN:cit	B-AWORK
+Cantique	NAM	I-AWORK
+des	PRP:det	I-AWORK
+cantiques	NOM	I-AWORK
+»	PUN:cit	I-AWORK
+trouve	VER:pres	O
+des	PRP:det	O
+correspondances	NOM	O
+dans	PRP	O
+la	DET:ART	O
+culture	NOM	O
+grecque	ADJ	O

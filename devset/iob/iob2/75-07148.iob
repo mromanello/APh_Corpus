@@ -1,0 +1,70 @@
+Dans	PRP	O
+le	DET:ART	O
+cadre	NOM	O
+du	PRP:det	O
+«	PUN:cit	O
+Projet	NOM	O
+de	PRP	O
+recherche	NOM	O
+en	PRP	O
+lexicologie	NOM	O
+grecque	ADJ	O
+»	PUN:cit	O
+mené	VER:pper	O
+depuis	PRP	O
+1991	NUM	O
+à	PRP	O
+l'	DET:ART	O
+Institut	NOM	O
+orientaliste	NOM	O
+de	PRP	O
+l'	DET:ART	O
+Université	NOM	O
+de	PRP	O
+Louvain-la-Neuve	NAM	O
+.	SENT	O
+
+Bibliographie	NOM	O
+.	SENT	O
+
+Définition	NOM	O
+du	PRP:det	O
+projet	NOM	O
+.	SENT	O
+
+Principes	NOM	O
+formels	ADJ	O
+de	PRP	O
+lemmatisation	NOM	O
+.	SENT	O
+
+Principes	NOM	O
+morpho-syntaxiques	ADJ	O
+et	KON	O
+sémantiques	ADJ	O
+:	PUN	O
+distinction	NOM	O
+des	PRP:det	O
+lemmes	NOM	O
+homographes	ADJ	O
+.	SENT	O
+
+Principes	NOM	O
+de	PRP	O
+lemmatisation	NOM	O
+liés	VER:pper	O
+à	PRP	O
+la	DET:ART	O
+classe	NOM	O
+morphosyntaxique	ADJ	O
+des	PRP:det	O
+mots	NOM	O
+.	SENT	O
+
+Principes	NOM	O
+liés	VER:pper	O
+au	PRP:det	O
+statut	NOM	O
+lexical	ADJ	O
+des	PRP:det	O
+lemmes	NOM	O

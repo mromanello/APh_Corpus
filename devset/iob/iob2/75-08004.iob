@@ -1,0 +1,37 @@
+Fouilles	NOM	O
+de	PRP	O
+1966-1969	NUM	O
+et	KON	O
+1993-1995	NUM	O
+.	SENT	O
+
+La	DET:ART	O
+grotte	NOM	O
+fut	VER:simp	O
+notamment	ADV	O
+habitée	VER:pper	O
+au	PRP:det	O
+Bas-Empire	NAM	O
+(	PUN	O
+3e-5e	NOM	O
+s.	ADJ	O
+)	PUN	O
+.	SENT	O
+
+L'	DET:ART	O
+occupation	NOM	O
+des	PRP:det	O
+grottes	NOM	O
+jurassiennes	ADJ	O
+est	VER:pres	O
+à	PRP	O
+mettre	VER:infi	O
+en	PRP	O
+rapport	NOM	O
+avec	PRP	O
+l'	DET:ART	O
+insécurité	NOM	O
+due	VER:pper	O
+aux	PRP:det	O
+invasions	NOM	O
+barbares	ADJ	O

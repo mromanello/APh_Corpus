@@ -1,0 +1,42 @@
+Examen	NOM	O
+de	PRP	O
+trois	NUM	O
+passages	NOM	O
+témoignant	VER:ppre	O
+de	PRP	O
+la	DET:ART	O
+perception	NOM	O
+du	PRP:det	O
+vêtement	NOM	O
+comme	KON	O
+mode	NOM	O
+de	PRP	O
+différenciation	NOM	O
+(	PUN	O
+Alex	NAM	O
+.	SENT	O
+
+Sev	NOM	O
+.	SENT	O
+
+42	NUM	O
+,	PUN	O
+1	NUM	O
+;	PUN	O
+Tac	NAM	O
+.	SENT	O
+
+16	NUM	O
+,	PUN	O
+1-2	NUM	O
+;	PUN	O
+Alex	NAM	O
+.	SENT	O
+
+Sev	NOM	O
+.	SENT	O
+
+27	NUM	O
+,	PUN	O
+1	NUM	O
+)	PUN	O

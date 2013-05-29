@@ -1,0 +1,46 @@
+Analisi	NOM	O
+e	CON	O
+storia	NOM	O
+del	PRE:det	O
+ms.	NOM	O
+
+Messina	NPR	O
+,	PON	O
+Bibl.	NOM	O
+
+Regionale	ADJ	O
+Universitaria	NOM	O
+,	PON	O
+San	NPR	O
+Salvatore	NOM	O
+gr.	NOM	O
+
+113	NUM	O
+,	PON	O
+contenente	VER:ppre	O
+le	DET:def	O
+costituzioni	NOM	O
+ascetiche	ADJ	O
+di	PRE	O
+Basilio	NOM	O
+Magno	NOM	O
+,	PON	O
+compendiate	VER:pper	O
+dal	PRE:det	O
+cardinal	ADJ	O
+Bessarione	NOM	O
+,	PON	O
+attorno	ADV	O
+al	PRE:det	O
+1451	NUM	O
+,	PON	O
+in	PRE	O
+tre	ADJ	O
+lingue	NOM	O
+(	PON	O
+italiano	ADJ	O
+,	PON	O
+latino	ADJ	O
+e	CON	O
+greco	ADJ	O
+)	PON	O

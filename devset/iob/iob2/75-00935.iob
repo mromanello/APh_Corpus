@@ -1,0 +1,28 @@
+Analyse	NOM	O
+de	PRP	O
+la	DET:ART	O
+perception	NOM	O
+chez	PRP	O
+Augustin	NAM	B-AAUTHOR
+(	PUN	O
+gen	VER:simp	O
+.	SENT	O
+
+ad	ADV	O
+litt	NOM	O
+.	SENT	O
+
+12	NUM	B-REFSCOPE
+,	PUN	I-REFSCOPE
+23	NUM	I-REFSCOPE
+,	PUN	I-REFSCOPE
+49	NUM	I-REFSCOPE
+)	PUN	I-REFSCOPE
+et	KON	O
+du	PRP:det	O
+vocabulaire	NOM	O
+utilisé	VER:pper	O
+pour	PRP	O
+désigner	VER:infi	O
+l'	DET:ART	O
+imagination	NOM	O

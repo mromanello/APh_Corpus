@@ -1,0 +1,36 @@
+Das	ART	O
+Vokabular	NN	O
+und	KON	O
+die	ART	O
+auffällige	ADJA	O
+Metrik	NN	O
+in	APPR	O
+Socr	NE	O
+.	$.	O
+
+1	CARD	O
+p.	APPR	O
+
+116-117	CARD	O
+legen	VVFIN	O
+nahe	PTKVZ	O
+,	$,	O
+an	APPR	O
+der	ART	O
+Stelle	NN	O
+ein	ART	O
+Zitat	NN	O
+zu	PTKZU	O
+erkennen	VVINF	O
+,	$,	O
+über	APPR	O
+dessen	PRELAT	O
+Herkunft	NN	O
+und	KON	O
+Rezeptionsgeschichte	NN	O
+keine	PIAT	O
+gesicherten	ADJA	O
+Aussagen	NN	O
+zu	PTKZU	O
+treffen	VVINF	O
+sind.	VVFIN	O

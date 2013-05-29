@@ -1,0 +1,24 @@
+Matériel	ADJ	O
+datant	VER:ppre	O
+du	PRP:det	O
+2e	NUM	O
+s.	ABR	O
+av.	ABR	O
+-2e	NAM	O
+s.	ABR	O
+apr.	ABR	O
+
+J.	ABR	O
+-C	ADJ	O
+.	SENT	O
+,	PUN	O
+issu	ADJ	O
+de	PRP	O
+la	DET:ART	O
+fouille	NOM	O
+de	PRP	O
+1981	NUM	O
+(	PUN	O
+=>	ABR	O
+60-07441	NUM	O
+)	PUN	O

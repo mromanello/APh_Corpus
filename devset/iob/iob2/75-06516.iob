@@ -1,0 +1,37 @@
+Le	DET:ART	O
+motif	NOM	O
+de	PRP	O
+l'	DET:ART	O
+offrande	NOM	O
+du	PRP:det	O
+miel	NOM	O
+se	PRO:PER	O
+trouve	VER:pres	O
+dans	PRP	O
+toute	PRO:IND	O
+une	DET:ART	O
+série	NOM	O
+de	PRP	O
+biographies	NOM	O
+légendaires	ADJ	O
+.	SENT	O
+
+Le	DET:ART	O
+miel	NOM	O
+préserve	VER:pres	O
+de	PRP	O
+la	DET:ART	O
+corruption	NOM	O
+et	KON	O
+de	PRP	O
+la	DET:ART	O
+mortalité	NOM	O
+.	SENT	O
+
+Il	PRO:PER	O
+protège	VER:pres	O
+et	KON	O
+séduit	VER:pper	O
+à	PRP	O
+la	DET:ART	O
+fois	NOM	O

@@ -1,0 +1,15 @@
+Testo	NOM	O
+,	PON	O
+traduzione	NOM	O
+e	CON	O
+commento	NOM	O
+dei	PRE:det	O
+v.	NOM	O
+
+109-154	NUM	O
+.	SENT	O
+
+Per	PRE	O
+2	NUM	O
+=>	NOM	O
+74-01947	NUM	O

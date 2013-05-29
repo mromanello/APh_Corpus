@@ -1,0 +1,10 @@
+Journée	NOM	O
+d'	PRP	O
+études	NOM	O
+.	SENT	O
+
+Dépouillé	VER:pper	O
+dans	PRP	O
+le	DET:ART	O
+tome	NOM	O
+75	NUM	O

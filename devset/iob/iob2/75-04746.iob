@@ -1,0 +1,46 @@
+Sur	PRP	O
+l'	DET:ART	O
+usage	NOM	O
+de	PRP	O
+la	DET:ART	O
+traduction	NOM	O
+de	PRP	O
+l'	DET:ART	B-AWORK
+«	PUN:cit	I-AWORK
+Historia	NAM	I-AWORK
+ecclesiastica	NOM	I-AWORK
+»	PUN:cit	I-AWORK
+d'	PRP	B-AAUTHOR
+Eusèbe	NOM	I-AAUTHOR
+dans	PRP	O
+le	DET:ART	O
+«	PUN:cit	B-AWORK
+Glossaire	NAM	I-AWORK
+de	PRP	I-AWORK
+Leyde	NAM	I-AWORK
+»	PUN:cit	I-AWORK
+(	PUN	O
+Leyde	NAM	O
+,	PUN	O
+Bibl.	NAM	O
+
+der	NOM	O
+Rijksuniversiteit	NAM	O
+,	PUN	O
+Voss	NAM	O
+.	SENT	O
+
+lat	NOM	O
+.	SENT	O
+
+69	NUM	O
+)	PUN	O
+,	PUN	O
+compilation	NOM	O
+effectuée	VER:pper	O
+à	PRP	O
+Canterbury	NAM	O
+entre	PRP	O
+670	NUM	O
+et	KON	O
+690	NUM	O

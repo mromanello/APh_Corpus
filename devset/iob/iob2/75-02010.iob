@@ -1,0 +1,15 @@
+La	DET:def	O
+logica	NOM	O
+di	PRE	O
+Galeno	NOM	B-AAUTHOR
+è	VER:pres	O
+un	DET:indef	O
+«	PON	O
+organon	NOM	O
+»	PON	O
+di	PRE	O
+ricerca	NOM	O
+biologica	ADJ	O
+e	CON	O
+diagnosi	NOM	O
+medica	ADJ	O

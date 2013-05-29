@@ -1,0 +1,20 @@
+Composition	NOM	O
+du	PRP:det	O
+livre	NOM	O
+.	SENT	O
+
+Thèmes	NOM	O
+principaux	ADJ	O
+d'	PRP	O
+une	DET:ART	O
+argumentation	NOM	O
+fondée	ADJ	O
+sur	PRP	O
+l'	DET:ART	O
+explication	NOM	O
+de	PRP	O
+textes	NOM	O
+de	PRP	O
+l'	DET:ART	O
+Ancien	NOM	O
+Testament	NAM	O

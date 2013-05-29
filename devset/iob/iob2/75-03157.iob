@@ -1,0 +1,13 @@
+Considerazioni	NOM	O
+critiche	ADJ	O
+in	PRE	O
+merito	NOM	O
+al	PRE:det	O
+saggio	NOM	O
+di	PRE	O
+B.	NPR	O
+Croke	NOM	O
+(	PON	O
+=>	NOM	O
+73-03760	NUM	O
+)	PON	O

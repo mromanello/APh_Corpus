@@ -1,0 +1,35 @@
+Überlegungen	NN	O
+zu	APPR	O
+Text	NN	O
+und	KON	O
+Anordnung	NN	O
+der	ART	O
+Fragmente	NN	O
+(	$(	O
+2.	ADV	O
+
+)	$(	O
+,	$,	O
+sowie	KON	O
+zur	APPRART	O
+Sprache	NN	O
+und	KON	O
+zu	APPR	O
+Thema	NN	O
+und	KON	O
+Anlass	NN	O
+(	$(	O
+Hymnos	NN	O
+auf	APPR	O
+Aphrodite/Arsinoe	NN	O
+und	KON	O
+Ptolemaios	NE	O
+,	$,	O
+evtl	NE	O
+.	$.	O
+
+mit	APPR	O
+Bezug	NN	O
+auf	APPR	O
+Zypern	NE	O
+?	$.	O

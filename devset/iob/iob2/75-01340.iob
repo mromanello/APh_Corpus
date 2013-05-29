@@ -1,0 +1,28 @@
+Textual	JJ	O
+remarks	NNS	O
+on	IN	O
+Cicero	NP	O
+,	,	O
+S.	NP	O
+Rosc	NP	O
+.	SENT	O
+
+35	CD	O
+;	:	O
+Sul	NN	O
+.	SENT	O
+
+55	CD	O
+;	:	O
+63	CD	O
+;	:	O
+Pis	NP	O
+.	SENT	O
+
+97	CD	O
+;	:	O
+N.D.	NP	O
+
+2	CD	B-REFSCOPE
+,	,	I-REFSCOPE
+132	CD	I-REFSCOPE

@@ -1,0 +1,21 @@
+In	PRE	O
+conf	NOM	O
+.	SENT	O
+
+11	NUM	B-REFSCOPE
+,	PON	I-REFSCOPE
+24	NUM	I-REFSCOPE
+,	PON	I-REFSCOPE
+14-17	NUM	I-REFSCOPE
+Agostino	NPR	O
+esemplifica	VER:pres	O
+il	DET:def	O
+concetto	NOM	O
+di	PRE	O
+previsione	NOM	O
+,	PON	O
+confermando	VER:geru	O
+involontariamente	ADV	O
+la	DET:def	O
+concezione	NOM	O
+epicurea	ADJ	O

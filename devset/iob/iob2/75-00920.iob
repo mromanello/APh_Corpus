@@ -1,0 +1,25 @@
+Réimpr	NOM	O
+.	SENT	O
+
+d'	PRP	O
+un	DET:ART	O
+article	NOM	O
+paru	VER:pper	O
+dans	PRP	O
+RecAug	NAM	O
+1965	NUM	O
+3	NUM	O
+:	PUN	O
+179-206	NUM	O
+(	PUN	O
+=>	NOM	O
+APh	NAM	O
+37	NUM	O
+,	PUN	O
+p.	ABR	O
+
+42	NUM	O
+,	PUN	O
+1er	NUM	O
+titre	NOM	O
+)	PUN	O

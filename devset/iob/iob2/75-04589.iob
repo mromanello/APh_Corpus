@@ -1,0 +1,64 @@
+Parallelo	NOM	O
+tra	PRE	O
+gli	DET:def	O
+epigrammi	NOM	O
+posidippei	VER:remo	O
+e	CON	O
+quelli	PRO:demo	O
+leonidei	NOM	O
+a	PRE	O
+livello	NOM	O
+di	PRE	O
+metrica	NOM	O
+,	PON	O
+di	PRE	O
+scelte	NOM	O
+linguistiche	ADJ	O
+e	CON	O
+di	PRE	O
+temi	NOM	O
+trattati	VER:pper	O
+.	SENT	O
+
+Osservazioni	NOM	O
+sulla	PRE:det	O
+datazione	NOM	O
+dei	PRE:det	O
+due	ADJ	O
+poeti	NOM	O
+e	CON	O
+sulle	PRE:det	O
+matrici	NOM	O
+di	PRE	O
+Leonida	NOM	O
+;	PON	O
+note	NOM	O
+critiche	ADJ	O
+su	PRE	O
+due	ADJ	O
+epigrammi	NOM	O
+leonidei	NOM	O
+(	PON	O
+fr.	ABR	O
+
+31	NUM	O
+G.	LS	O
+-P	NOM	O
+.	SENT	O
+
+e	CON	O
+fr.	ABR	O
+
+90	NUM	O
+G.	LS	O
+-P	NOM	O
+.	SENT	O
+)	PON	O
+.	SENT	O
+
+190	NUM	O
+:	PON	O
+indice	NOM	O
+dei	PRE:det	O
+luoghi	NOM	O
+discussi	ADJ	O

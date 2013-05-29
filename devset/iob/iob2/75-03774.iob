@@ -1,0 +1,12 @@
+Studio	NOM	O
+dell'	PRE:det	O
+esegesi	NOM	O
+biblica	ADJ	O
+di	PRE	O
+Filone	NOM	B-AAUTHOR
+in	PRE	O
+rapporto	NOM	O
+al	PRE:det	O
+patrimonio	NOM	O
+filosofico	ADJ	O
+greco	ADJ	O

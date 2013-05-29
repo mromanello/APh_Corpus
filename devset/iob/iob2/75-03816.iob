@@ -1,0 +1,47 @@
+Analyse	VER:pres	O
+thématique	ADJ	O
+et	KON	O
+formelle	ADJ	O
+du	PRP:det	O
+Péan	NAM	O
+à	PRP	O
+Dionysos	NAM	O
+de	PRP	O
+Philodamos	NAM	O
+.	SENT	O
+
+Le	DET:ART	O
+point	NOM	O
+sur	PRP	O
+les	DET:ART	O
+études	NOM	O
+qui	PRO:REL	O
+lui	PRO:PER	O
+ont	VER:pres	O
+été	VER:pper	O
+consacrées	VER:pper	O
+de	PRP	O
+1895	NUM	O
+à	PRP	O
+2001.	DET:POS	O
+
+Son	DET:POS	O
+importance	NOM	O
+dans	PRP	O
+la	DET:ART	O
+politique	NOM	O
+religieuse	ADJ	O
+de	PRP	O
+Delphes	NAM	O
+et	KON	O
+le	DET:ART	O
+contexte	NOM	O
+politique	ADJ	O
+international	ADJ	O
+(	PUN	O
+339	NUM	O
+av.	ABR	O
+
+J.	ABR	O
+-C	ADJ	O
+.	SENT	O

@@ -1,0 +1,14 @@
+Texte	NOM	O
+liturgique	ADJ	O
+,	PUN	O
+sans	PRP	O
+doute	NOM	O
+médiéval	ADJ	O
+,	PUN	O
+attribué	VER:pper	O
+à	PRP	O
+Éphrem	NAM	O
+(	PUN	O
+CPG	NAM	O
+4086	NUM	O
+)	PUN	O

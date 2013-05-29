@@ -1,0 +1,49 @@
+Dall'	PRE:det	O
+esame	NOM	O
+autoptico	ADJ	O
+del	PRE:det	O
+capostipite	NOM	O
+(	PON	O
+Vaticano	NOM	O
+,	PON	O
+BAV	NOM	O
+,	PON	O
+Vat.	ABR	O
+
+Arch	NOM	O
+.	SENT	O
+
+S.	NOM	O
+Pietro	NPR	O
+H.	ABR	O
+
+25	NUM	O
+)	PON	O
+risultano	VER:pres	O
+altre	PRO:indef	O
+glosse	NOM	O
+oltre	CON	O
+a	PRE	O
+quelle	PRO:demo	O
+individuate	VER:pper	O
+dagli	PRE:det	O
+editori	NOM	O
+.	SENT	O
+
+Esame	NOM	O
+di	PRE	O
+passi	NOM	O
+in	PRE	O
+cui	PRO:rela	O
+il	DET:def	O
+mancato	ADJ	O
+riconoscimento	NOM	O
+della	PRE:det	O
+glossa	NOM	O
+ha	VER:pres	O
+influito	VER:pper	O
+negativamente	ADV	O
+sulla	PRE:det	O
+costituzione	NOM	O
+del	PRE:det	O
+testo	NOM	O

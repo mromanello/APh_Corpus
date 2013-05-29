@@ -1,0 +1,25 @@
+Analisi	NOM	O
+della	PRE:det	O
+fortuna	NOM	O
+del	PRE:det	O
+«	PON	O
+Dyskolos	NOM	O
+»	PON	O
+menandreo	VER:geru	O
+in	PRE	O
+Eliano	NOM	O
+,	PON	O
+epist.	NOM	O
+
+13-16	NUM	O
+,	PON	O
+e	CON	O
+in	PRE	O
+vari	ADJ	O
+passi	NOM	O
+del	PRE:det	O
+«	PON	B-AWORK
+Misopogon	NOM	I-AWORK
+»	PON	I-AWORK
+di	PRE	O
+Giuliano	NOM	B-AAUTHOR

@@ -1,0 +1,13 @@
+Travaux	NOM	O
+en	PRP	O
+Italie	NAM	O
+et	KON	O
+en	PRP	O
+Tunisie	NAM	O
+.	SENT	O
+
+Dépouillé	VER:pper	O
+dans	PRP	O
+le	DET:ART	O
+tome	NOM	O
+75	NUM	O

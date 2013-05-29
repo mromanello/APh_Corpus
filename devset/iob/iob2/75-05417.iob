@@ -1,0 +1,39 @@
+Étude	NOM	O
+et	KON	O
+traduction	NOM	O
+partielle	ADJ	O
+en	PRP	O
+anglais	ADJ	O
+de	PRP	O
+P.	NAM	O
+Lond	NAM	O
+.	SENT	O
+
+Christ	NAM	O
+.	SENT	O
+
+1	NUM	O
+(	PUN	O
+=	NOM	O
+P.	NAM	O
+Egerton	NAM	O
+2	NUM	O
+)	PUN	O
+datant	VER:ppre	O
+du	PRP:det	O
+milieu	NOM	O
+du	PRP:det	O
+2e	NUM	O
+s.	ABR	O
+apr.	ABR	O
+
+J.	ABR	O
+-C	ADJ	O
+.	SENT	O
+
+et	KON	O
+relatif	ADJ	O
+principalement	ADV	O
+à	PRP	O
+Jn	NAM	O
+5,39	NUM	O

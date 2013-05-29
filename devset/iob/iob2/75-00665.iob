@@ -1,0 +1,16 @@
+In	PRE	O
+margine	NOM	O
+allo	PRE:det	O
+studio	NOM	O
+di	PRE	O
+F.	NPR	O
+Lo	VER:impe	O
+Piparo	NOM	O
+sul	PRE:det	O
+linguaggio	NOM	O
+in	PRE	O
+Aristotele	NPR	B-AAUTHOR
+(	PON	O
+=>	NOM	O
+75-00638	NUM	O
+)	PON	O

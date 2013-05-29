@@ -1,0 +1,47 @@
+Nella	PRE:det	O
+trattazione	NOM	O
+del	PRE:det	O
+culto	NOM	O
+dei	PRE:det	O
+Salii	NOM	O
+in	PRE	O
+Fast	NOM	O
+.	SENT	O
+
+3	NUM	O
+,	PON	O
+259	NUM	O
+ss.	ABR	O
+
+Ovidio	NOM	O
+rielabora	VER:pres	O
+accortamente	VER:impe	O
+la	DET:def	O
+tradizione	NOM	O
+,	PON	O
+riecheggiando	VER:geru	O
+Ennio	NOM	O
+,	PON	O
+ann	NOM	O
+.	SENT	O
+
+72-91	NUM	O
+;	PON	O
+446-447	NUM	O
+e	CON	O
+forse	ADV	O
+541	NUM	O
+Skutsch	NOM	O
+,	PON	O
+ma	CON	O
+al	PRE:det	O
+contempo	NOM	O
+valorizzando	VER:geru	O
+la	DET:def	O
+funzione	NOM	O
+di	PRE	O
+Numa	NOM	O
+come	PRE	O
+ri-fondatore	NOM	O
+di	PRE	O
+Roma	NPR	O

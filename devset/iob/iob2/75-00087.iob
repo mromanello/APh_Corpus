@@ -1,0 +1,32 @@
+Analisi	NOM	O
+testuale	ADJ	O
+ed	CON	O
+esegetica	ADJ	O
+della	PRE:det	O
+fine	NOM	O
+del	PRE:det	O
+cosiddetto	ADJ	O
+«	PON	B-AWORK
+Inno	VER:futu	I-AWORK
+a	PRE	I-AWORK
+Zeus	NOM	I-AWORK
+»	PON	I-AWORK
+in	PRE	O
+Ag.	NOM	O
+
+173-185	NUM	O
+e	CON	O
+del	PRE:det	O
+brano	NOM	O
+che	PRO:rela	O
+rievoca	VER:pres	O
+l'	DET:def	O
+empia	ADJ	O
+decisione	NOM	O
+ad	PRE	O
+Aulide	NOM	O
+(	PON	O
+v.	NOM	O
+
+205-217	NUM	O
+)	PON	O

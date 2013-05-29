@@ -1,0 +1,25 @@
+Analisi	NOM	O
+codicologica	ADJ	O
+e	CON	O
+paleografica	ADJ	O
+del	PRE:det	O
+ms.	NOM	O
+
+miscellaneo	ADJ	O
+Vaticano	NOM	O
+,	PON	O
+BAV	NOM	O
+,	PON	O
+Vat.	ABR	O
+
+1257	NUM	O
+;	PON	O
+edizione	NOM	O
+critica	ADJ	O
+di	PRE	O
+un	DET:indef	O
+componimento	NOM	O
+del	PRE:det	O
+Damasceno	NOM	O
+sulla	PRE:det	O
+Trinità	NOM	O
