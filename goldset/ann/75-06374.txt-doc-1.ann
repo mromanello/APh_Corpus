@@ -12,5 +12,6 @@ T11	AAUTHOR 731 740	Herodotus
 T12	AAUTHOR 803 813	Thucydides
 T13	AAUTHOR 919 928	Xenophon,
 R1	Scope Arg1:T2 Arg2:T3	
-R2	Scope Arg1:T2 Arg2:T4	
 R3	authorOf Arg1:T7 Arg2:T8	
+R2	Scope Arg1:T2 Arg2:T4	
+#1	AnnotatorNotes R1	http://cwkb.webfactional.com/cwkb/works/4025/7.1.44-7.1.46
