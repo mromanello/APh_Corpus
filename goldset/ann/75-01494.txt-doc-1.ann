@@ -5,6 +5,8 @@ T4	REFAUWORK 76 88	Verg. Georg.
 T5	REFSCOPE 89 99	3, 414-439
 T6	REFAUWORK 102 114	Aemil. Macr.
 T7	REFSCOPE 115 120	8 Bl.
-R1	Scope Arg1:T2 Arg2:T3	
-R2	Scope Arg1:T4 Arg2:T5	
-R3	Scope Arg1:T6 Arg2:T7	
+R1	Scope Arg1:T2 Arg2:T3
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+#0	AnnotatorNotes R1	urn:cts:cwkb:998.3421:469-473
+#1	AnnotatorNotes R2	urn:cts:latinLit:phi0690.phi002:3.414-3.439

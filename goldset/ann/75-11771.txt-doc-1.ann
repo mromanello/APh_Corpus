@@ -3,3 +3,8 @@ T2	REFAUWORK 144 151	(Eroico
 T3	REFSCOPE 152 161	28,7-12 ;
 T4	REFAUWORK 162 179	Vita di Apollonio
 T5	REFSCOPE 180 186	4,14).
+R1	Scope Arg1:T2 Arg2:T3
+R2	Scope Arg1:T4 Arg2:T5
+#0	AnnotatorNotes R1	urn:cts:TODO:None
+#1	AnnotatorNotes R2	urn:cts:TODO:4.14
+#2	AnnotatorNotes T1	urn:cts:cwkb:812

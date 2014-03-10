@@ -2,3 +2,9 @@ T1	REFAUWORK 119 124	Thuc.
 T2	REFSCOPE 125 138	1, 126, 12, e
 T3	REFSCOPE 215 226	5, 111, 4 ;
 T4	REFSCOPE 227 235	111, 2-3
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T1 Arg2:T3
+R3	Scope Arg1:T1 Arg2:T4
+#0	AnnotatorNotes R1	urn:cts:TODO:None
+#1	AnnotatorNotes R2	urn:cts:TODO:None
+#2	AnnotatorNotes R3	urn:cts:TODO:111.2-111.3

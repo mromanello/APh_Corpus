@@ -2,3 +2,6 @@ T1	REFSCOPE 9 16	chap. 5
 T2	AAUTHOR 53 61	Lactance
 T3	AWORK 348 368	« De natura deorum »
 T4	AAUTHOR 372 379	Cicéron
+#0	AnnotatorNotes T4	urn:cts:cwkb:431
+#1	AnnotatorNotes T2	urn:cts:cwkb:2733
+#2	AnnotatorNotes T3	urn:cts:cwkb:956.3282

@@ -1,4 +1,9 @@
 T1	REFAUWORK 3 8	carm.
 T2	REFSCOPE 9 11	2,
-T3	REFSCOPE 12 34	2, 5, 116-157 Gregorio
-T4	AAUTHOR 35 40	offre
+T3	REFSCOPE 12 25	2, 5, 116-157
+T5	AAUTHOR 26 34	Gregorio
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T1 Arg2:T3
+#0	AnnotatorNotes R1	urn:cts:cwkb:472.995:2
+#1	AnnotatorNotes R2	urn:cts:cwkb:472.995:2.5.116-2.5.157
+#2	AnnotatorNotes T5	urn:cts:cwkb:896

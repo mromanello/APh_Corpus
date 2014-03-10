@@ -4,3 +4,8 @@ T3	REFAUWORK 262 264	l.
 T4	REFSCOPE 265 268	13,
 T5	AWORK 273 283	« Xenia »,
 T6	AAUTHOR 330 338	Marziale
+R1	Scope Arg1:T3 Arg2:T4
+#0	AnnotatorNotes R1	urn:cts:TODO:13
+#1	AnnotatorNotes T6	urn:cts:cwkb:539
+#2	AnnotatorNotes T5	urn:cts:cwkb:897.2657
+#3	AnnotatorNotes T1	urn:cts:cwkb:539

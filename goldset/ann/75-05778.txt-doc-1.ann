@@ -1,2 +1,4 @@
 T1	REFAUWORK 703 713	Apocalypse
 T2	REFSCOPE 714 716	11
+R1	Scope Arg1:T1 Arg2:T2
+#0	AnnotatorNotes R1	urn:cts:TODO:11

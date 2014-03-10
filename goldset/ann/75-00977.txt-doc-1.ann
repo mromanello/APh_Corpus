@@ -1,3 +1,5 @@
 T1	REFSCOPE 108 115	v. 7-10
 T3	REFAUWORK 255 258	(O.
 T4	REFSCOPE 259 267	12, 14),
+R1	Scope Arg1:T3 Arg2:T4	
+#1	AnnotatorNotes R1	urn:cts:greekLit:tlg0033.tlg001:12.14

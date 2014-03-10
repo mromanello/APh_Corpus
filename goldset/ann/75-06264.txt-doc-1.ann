@@ -8,3 +8,14 @@ T7	REFSCOPE 483 490	205 and
 T8	REFSCOPE 491 503	244-245 ; it
 T9	REFAUWORK 563 564	4
 T10	REFSCOPE 564 574	, 457-459.
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T4 Arg2:T5
+R3	Scope Arg1:T6 Arg2:T7
+R4	Scope Arg1:T6 Arg2:T8
+R5	Scope Arg1:T9 Arg2:T10
+#0	AnnotatorNotes R4	urn:cts:TODO:None
+#1	AnnotatorNotes R5	urn:cts:TODO:None
+#2	AnnotatorNotes R1	urn:cts:cwkb:625.1305:4.234
+#3	AnnotatorNotes R2	urn:cts:TODO:None
+#4	AnnotatorNotes R3	urn:cts:TODO:205
+#5	AnnotatorNotes T3	urn:cts:latinLit:phi0690

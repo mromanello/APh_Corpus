@@ -3,3 +3,8 @@ T2	AWORK 63 77	(« Fenicias »)
 T3	AAUTHOR 114 122	Sófocles
 T4	AWORK 123 137	(« Antígona »,
 T5	AWORK 138 158	« Edipo en Colono »)
+#0	AnnotatorNotes T4	urn:cts:cwkb:775.1774
+#1	AnnotatorNotes T5	urn:cts:greekLit:tlg0011.tlg007
+#2	AnnotatorNotes T2	urn:cts:cwkb:620.1277
+#3	AnnotatorNotes T3	urn:cts:greekLit:tlg0011
+#4	AnnotatorNotes T1	urn:cts:greekLit:tlg0006

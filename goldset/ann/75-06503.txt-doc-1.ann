@@ -6,3 +6,11 @@ T5	REFAUWORK 353 360	(Lucan.
 T6	REFSCOPE 361 372	6, 413-830)
 T7	REFAUWORK 384 397	(Stat., Theb.
 T8	REFSCOPE 398 409	4, 406-645)
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+#0	AnnotatorNotes R4	urn:cts:TODO:4.406-4.645
+#1	AnnotatorNotes R1	urn:cts:TODO:4.474
+#2	AnnotatorNotes R2	urn:cts:TODO:1.70-1.139
+#3	AnnotatorNotes R3	urn:cts:TODO:6.413-6.830

@@ -1,3 +1,6 @@
 T1	AWORK 58 70	« Homélies »
 T2	AAUTHOR 74 80	Sévère
 T3	AAUTHOR 81 92	d' Antioche
+#0	AnnotatorNotes T2	urn:cts:cwkb:620
+#1	AnnotatorNotes T3	urn:cts:greekLit:tlg0028
+#2	AnnotatorNotes T1	urn:cts:cwkb:807.1937

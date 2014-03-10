@@ -8,7 +8,13 @@ T7	REFAUWORK 449 455	Thesm.
 T8	REFSCOPE 456 464	855-919.
 T9	AAUTHOR 569 583	Aristophanes '
 T10	AAUTHOR 635 646	Euripides '
-R1	Scope Arg1:T1 Arg2:T2	
-R2	Scope Arg1:T3 Arg2:T4	
-R3	Scope Arg1:T5 Arg2:T6	
-R4	Scope Arg1:T7 Arg2:T8	
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T5 Arg2:T6
+R4	Scope Arg1:T7 Arg2:T8
+#0	AnnotatorNotes R4	urn:cts:greekLit:tlg0019.tlg008:855-919
+#1	AnnotatorNotes R1	urn:cts:greekLit:tlg0019.tlg006:904-957
+#2	AnnotatorNotes R2	urn:cts:greekLit:tlg0019.tlg001:395-413
+#3	AnnotatorNotes R3	urn:cts:greekLit:tlg0019.tlg008:101-129
+#4	AnnotatorNotes T9	urn:cts:greekLit:tlg0019
+#5	AnnotatorNotes T10	urn:cts:greekLit:tlg0006

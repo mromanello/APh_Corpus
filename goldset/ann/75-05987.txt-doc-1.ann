@@ -3,3 +3,9 @@ T2	REFSCOPE 11 13	25
 T3	REFSCOPE 91 98	(1-83 ;
 T4	REFSCOPE 99 116	84-152 ; 153-281)
 T5	REFSCOPE 540 549	(280-281)
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T1 Arg2:T3
+R3	Scope Arg1:T1 Arg2:T4
+#0	AnnotatorNotes R1	urn:cts:TODO:25
+#1	AnnotatorNotes R2	urn:cts:TODO:None
+#2	AnnotatorNotes R3	urn:cts:TODO:84-152

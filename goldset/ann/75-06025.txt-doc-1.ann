@@ -5,3 +5,9 @@ T4	AAUTHOR 224 226	da
 T5	REFSCOPE 381 392	(4, 14, 2),
 T6	REFAUWORK 421 422	4
 T7	REFSCOPE 422 429	, 14, 2
+R1	Scope Arg1:T6 Arg2:T7
+#0	AnnotatorNotes R1	urn:cts:TODO:None
+#1	AnnotatorNotes T4	urn:cts:greekLit:tlg0014
+#2	AnnotatorNotes T2	urn:cts:cwkb:949
+#3	AnnotatorNotes T3	urn:cts:cwkb:478.1023
+#4	AnnotatorNotes T1	urn:cts:cwkb:478.1023

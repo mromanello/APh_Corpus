@@ -5,3 +5,11 @@ T4	REFSCOPE 301 311	2, 173-176
 T5	REFSCOPE 312 324	et 467-471 ;
 T6	REFAUWORK 325 333	Juvénal,
 T7	REFSCOPE 334 344	16, 13-19.
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T3 Arg2:T5
+R4	Scope Arg1:T6 Arg2:T7
+#0	AnnotatorNotes R4	urn:cts:TODO:16.13-16.19
+#1	AnnotatorNotes R1	urn:cts:TODO:None
+#2	AnnotatorNotes R2	urn:cts:TODO:2.173-2.176
+#3	AnnotatorNotes R3	urn:cts:TODO:None

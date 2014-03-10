@@ -4,3 +4,8 @@ T3	REFSCOPE 269 280	(5, 46-50),
 T4	AAUTHOR 353 358	gives
 T5	REFAUWORK 364 365	5
 T6	REFSCOPE 366 368	an
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T5 Arg2:T6
+#0	AnnotatorNotes R1	urn:cts:latinLit:phi0690.phi003:5
+#1	AnnotatorNotes R2	urn:cts:TODO:None
+#2	AnnotatorNotes T4	urn:cts:cwkb:524

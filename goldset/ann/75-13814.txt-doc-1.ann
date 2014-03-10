@@ -6,8 +6,13 @@ T5	REFSCOPE 340 347	2, 69 ;
 T6	REFSCOPE 348 359	4, 101ff. ;
 T7	REFAUWORK 360 372	Caesar, ciu.
 T8	REFSCOPE 373 381	3, 6-8).
-R1	Scope Arg1:T3 Arg2:T4	
-R2	Scope Arg1:T3 Arg2:T5	
-R3	Scope Arg1:T3 Arg2:T6	
-R4	Scope Arg1:T7 Arg2:T8	
-R5	Scope Arg1:T1 Arg2:T2	
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T3 Arg2:T4
+R3	Scope Arg1:T3 Arg2:T5
+R4	Scope Arg1:T3 Arg2:T6
+R5	Scope Arg1:T7 Arg2:T8
+#0	AnnotatorNotes R4	urn:cts:TODO:None
+#1	AnnotatorNotes R5	urn:cts:TODO:3.6-3.8
+#2	AnnotatorNotes R1	urn:cts:greekLit:tlg0007.tlg054:56.30
+#3	AnnotatorNotes R2	urn:cts:TODO:None
+#4	AnnotatorNotes R3	urn:cts:TODO:None

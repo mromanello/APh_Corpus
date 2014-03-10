@@ -8,3 +8,13 @@ T7	AAUTHOR 475 483	Plato 's
 T8	AWORK 521 533	« Republic »
 T9	AWORK 607 619	« Phaedrus »
 T10	REFSCOPE 620 634	(269 D-279 B).
+R1	Scope Arg1:T4 Arg2:T5
+R2	Scope Arg1:T9 Arg2:T10
+#0	AnnotatorNotes R1	urn:cts:TODO:331
+#1	AnnotatorNotes R2	urn:cts:TODO:269
+#2	AnnotatorNotes T8	urn:cts:cwkb:2589.8239
+#3	AnnotatorNotes T9	urn:cts:greekLit:tlg0059.tlg012
+#4	AnnotatorNotes T7	urn:cts:greekLit:tlg0059
+#5	AnnotatorNotes T4	urn:cts:cwkb:2589.8239
+#6	AnnotatorNotes T2	urn:cts:greekLit:tlg0540
+#7	AnnotatorNotes T3	urn:cts:greekLit:tlg0059

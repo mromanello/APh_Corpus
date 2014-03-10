@@ -2,3 +2,10 @@ T1	REFAUWORK 117 119	AP
 T2	REFSCOPE 120 126	10, 45
 T3	REFSCOPE 127 136	e 11, 340
 T4	AAUTHOR 162 170	Temistio
+T5	AAUTHOR 39 46	Pallada
+R1	Scope Arg1:T1 Arg2:T2
+R2	Scope Arg1:T1 Arg2:T3
+#0	AnnotatorNotes R1	urn:cts:TODO:10.45
+#1	AnnotatorNotes R2	urn:cts:TODO:11.340
+#2	AnnotatorNotes T4	urn:cts:cwkb:1100
+#3	AnnotatorNotes T5	urn:cts:cwkb:1019

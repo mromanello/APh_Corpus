@@ -2,3 +2,7 @@ T1	AAUTHOR 52 59	Virgile
 T2	REFSCOPE 105 112	chant 4
 T3	AWORK 121 127	Énéide
 T4	REFSCOPE 487 494	livre 4
+R1	Scope Arg1:T1 Arg2:T2
+#0	AnnotatorNotes R1	urn:cts:TODO:4
+#1	AnnotatorNotes T3	urn:cts:latinLit:phi0690.phi003
+#2	AnnotatorNotes T1	urn:cts:latinLit:phi0690

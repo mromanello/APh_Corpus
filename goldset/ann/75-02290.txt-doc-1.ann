@@ -1,3 +1,6 @@
 T1	AAUTHOR 0 9	Hesiod 's
 T2	REFAUWORK 36 40	(Op.
 T3	REFSCOPE 41 48	47-211)
+R1	Scope Arg1:T2 Arg2:T3
+#0	AnnotatorNotes R1	urn:cts:greekLit:tlg0020.tlg002:47-211
+#1	AnnotatorNotes T1	urn:cts:greekLit:tlg0020
