@@ -12,5 +12,5 @@ R2	Scope Arg1:T7 Arg2:T8
 #1	AnnotatorNotes R2	urn:cts:TODO:12
 #2	AnnotatorNotes T6	urn:cts:greekLit:tlg0012
 #3	AnnotatorNotes T5	urn:cts:greekLit:tlg0525
-#4	AnnotatorNotes T3	urn:cts:greekLit:tlg0525
-#5	AnnotatorNotes T1	urn:cts:greekLit:tlg0033
+#4	AnnotatorNotes T2	urn:cts:greekLit:tlg0033.tlg001
+#5	AnnotatorNotes T3	urn:cts:greekLit:tlg0525

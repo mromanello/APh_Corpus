@@ -8,8 +8,11 @@ T7	AWORK 370 386	« Periphyseon »,
 T8	AAUTHOR 460 468	Proclus,
 T9	AAUTHOR 469 478	Jean Scot
 T10	AWORK 513 527	l' « Isagoge »
-#0	AnnotatorNotes T8	urn:cts:cwkb:1059
-#1	AnnotatorNotes T9	urn:cts:cwkb:775
-#2	AnnotatorNotes T4	urn:cts:greekLit:tlg0086
-#3	AnnotatorNotes T3	urn:cts:cwkb:766.1621
-#4	AnnotatorNotes T1	urn:cts:cwkb:1056
+#0	AnnotatorNotes T8	urn:cts:cwkb:1181
+#1	AnnotatorNotes T9	urn:cts:cwkb:2561
+#2	AnnotatorNotes T7	urn:cts:greekLit:tlg0086.tlg025
+#3	AnnotatorNotes T5	urn:cts:greekLit:tlg0081.tlg005
+#4	AnnotatorNotes T2	urn:cts:greekLit:tlg0081.tlg005
+#5	AnnotatorNotes T3	urn:cts:cwkb:766.1621
+#6	AnnotatorNotes T1	urn:cts:cwkb:1056
+#7	AnnotatorNotes T10	urn:cts:greekLit:tlg0081.tlg005

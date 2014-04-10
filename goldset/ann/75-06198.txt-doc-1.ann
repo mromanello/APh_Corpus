@@ -4,5 +4,5 @@ T3	AAUTHOR 31 40	Vergil 's
 T4	REFSCOPE 243 246	(6)
 T5	REFSCOPE 495 498	(7)
 R1	Scope Arg1:T1 Arg2:T2
-#0	AnnotatorNotes R1	urn:cts:cwkb:625.1304:8
+#0	AnnotatorNotes R1	urn:cts:cwkb:415.829:8
 #1	AnnotatorNotes T3	urn:cts:latinLit:phi0690

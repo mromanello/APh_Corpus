@@ -13,7 +13,9 @@ T14	REFAUWORK 263 270	(Epist.
 T15	REFSCOPE 271 274	17)
 T16	AWORK 296 315	« Apocolocyntosis »
 #0	AnnotatorNotes T4	urn:cts:cwkb:638
-#1	AnnotatorNotes T2	urn:cts:greekLit:tlg2003
-#2	AnnotatorNotes T3	urn:cts:latinLit:phi0972
-#3	AnnotatorNotes T1	urn:cts:cwkb:508
-#4	AnnotatorNotes T13	urn:cts:cwkb:2468
+#1	AnnotatorNotes T5	urn:cts:cwkb:415
+#2	AnnotatorNotes T2	urn:cts:cwkb:948
+#3	AnnotatorNotes T3	urn:cts:latinLit:phi0972
+#4	AnnotatorNotes T1	urn:cts:cwkb:508
+#5	AnnotatorNotes T16	urn:cts:latinLit:phi1017.phi011
+#6	AnnotatorNotes T13	urn:cts:cwkb:2468

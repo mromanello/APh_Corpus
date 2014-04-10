@@ -8,5 +8,5 @@ R1	Scope Arg1:T3 Arg2:T4
 R2	Scope Arg1:T3 Arg2:T5
 #0	AnnotatorNotes R1	urn:cts:TODO:2.3
 #1	AnnotatorNotes R2	urn:cts:TODO:4
-#2	AnnotatorNotes T2	urn:cts:cwkb:1315
-#3	AnnotatorNotes T1	urn:cts:cwkb:2752.8753
+#2	AnnotatorNotes T2	urn:cts:cwkb:2486
+#3	AnnotatorNotes T1	urn:cts:cwkb:2879.9142

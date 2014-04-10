@@ -7,9 +7,9 @@ T6	AWORK 591 601	« Aeneid »
 T7	AAUTHOR 610 619	Lucretius
 T8	REFSCOPE 787 799	2, 604-623),
 R1	Scope Arg1:T3 Arg2:T4
-#0	AnnotatorNotes R1	urn:cts:TODO:2.464-2.465
+#0	AnnotatorNotes R1	urn:cts:latinLit:phi0550.phi001:2.464-2.465
 #1	AnnotatorNotes T6	urn:cts:latinLit:phi0690.phi003
-#2	AnnotatorNotes T7	urn:cts:cwkb:458
+#2	AnnotatorNotes T7	urn:cts:cwkb:527
 #3	AnnotatorNotes T5	urn:cts:latinLit:phi0690
 #4	AnnotatorNotes T2	urn:cts:latinLit:phi0690
-#5	AnnotatorNotes T1	urn:cts:cwkb:637
+#5	AnnotatorNotes T1	urn:cts:cwkb:527

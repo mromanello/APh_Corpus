@@ -5,5 +5,5 @@ T4	REFSCOPE 245 251	5, 32)
 R1	Scope Arg1:T1 Arg2:T2
 R2	Scope Arg1:T3 Arg2:T4
 #0	AnnotatorNotes R1	urn:cts:TODO:1.25-1.135
-#1	AnnotatorNotes R2	urn:cts:TODO:5.32
+#1	AnnotatorNotes R2	urn:cts:greekLit:tlg0016.tlg001:5.32
 #2	AnnotatorNotes T3	urn:cts:greekLit:tlg0016

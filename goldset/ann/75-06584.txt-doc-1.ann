@@ -10,9 +10,9 @@ T9	AAUTHOR 514 526	Philoxenus '
 R1	Scope Arg1:T1 Arg2:T2
 R2	Scope Arg1:T3 Arg2:T4
 R3	Scope Arg1:T5 Arg2:T6
-#0	AnnotatorNotes R1	urn:cts:TODO:None
-#1	AnnotatorNotes R2	urn:cts:TODO:None
-#2	AnnotatorNotes R3	urn:cts:TODO:None
-#3	AnnotatorNotes T8	urn:cts:greekLit:tlg0012
-#4	AnnotatorNotes T9	urn:cts:cwkb:1041
-#5	AnnotatorNotes T7	urn:cts:cwkb:1041
+#0	AnnotatorNotes R1	urn:cts:TODO:121
+#1	AnnotatorNotes R2	urn:cts:greekLit:tlg0005:11.1-11.3
+#2	AnnotatorNotes R3	urn:cts:greekLit:tlg0533.tlg003:46.1-46.6
+#3	AnnotatorNotes T8	urn:cts:cwkb:2499
+#4	AnnotatorNotes T9	urn:cts:cwkb:2441
+#5	AnnotatorNotes T7	urn:cts:cwkb:2441

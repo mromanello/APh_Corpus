@@ -3,3 +3,4 @@ T2	REFSCOPE 284 288	6,33
 T3	AWORK 414 429	« Codex Bezae »
 R1	Scope Arg1:T1 Arg2:T2
 #0	AnnotatorNotes R1	urn:cts:TODO:6.33
+#1	AnnotatorNotes T3	urn:cts:cwkb:981.3355

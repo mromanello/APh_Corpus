@@ -6,7 +6,6 @@ T5	AAUTHOR 363 370	Gregory
 T6	AAUTHOR 398 405	Gregory
 R1	Scope Arg1:T3 Arg2:T4
 #0	AnnotatorNotes R1	urn:cts:cwkb:1314.8977:2.30
-#1	AnnotatorNotes T6	urn:cts:cwkb:2649
-#2	AnnotatorNotes T5	urn:cts:cwkb:2649
+#1	AnnotatorNotes T6	urn:cts:cwkb:897
+#2	AnnotatorNotes T5	urn:cts:cwkb:897
 #3	AnnotatorNotes T2	urn:cts:cwkb:1314
-#4	AnnotatorNotes T1	urn:cts:cwkb:2423

@@ -5,6 +5,7 @@ T4	REFSCOPE 244 252	livre 18
 T5	AWORK 259 276	« Chronographia »
 R1	Scope Arg1:T5 Arg2:T4
 #0	AnnotatorNotes R1	urn:cts:TODO:18
-#1	AnnotatorNotes T5	urn:cts:cwkb:1084.3887
-#2	AnnotatorNotes T3	urn:cts:cwkb:840
-#3	AnnotatorNotes T1	urn:cts:cwkb:972
+#1	AnnotatorNotes T5	urn:cts:cwkb:943.4531
+#2	AnnotatorNotes T2	urn:cts:cwkb:924.2790
+#3	AnnotatorNotes T3	urn:cts:cwkb:1128
+#4	AnnotatorNotes T1	urn:cts:cwkb:2398

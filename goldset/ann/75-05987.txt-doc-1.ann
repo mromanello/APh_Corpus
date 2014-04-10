@@ -6,6 +6,6 @@ T5	REFSCOPE 540 549	(280-281)
 R1	Scope Arg1:T1 Arg2:T2
 R2	Scope Arg1:T1 Arg2:T3
 R3	Scope Arg1:T1 Arg2:T4
-#0	AnnotatorNotes R1	urn:cts:TODO:25
-#1	AnnotatorNotes R2	urn:cts:TODO:None
-#2	AnnotatorNotes R3	urn:cts:TODO:84-152
+#0	AnnotatorNotes R1	urn:cts:greekLit:tlg0005:25
+#1	AnnotatorNotes R2	urn:cts:greekLit:tlg0005:1-83
+#2	AnnotatorNotes R3	urn:cts:greekLit:tlg0005:84-152

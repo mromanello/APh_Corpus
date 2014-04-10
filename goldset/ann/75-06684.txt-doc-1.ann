@@ -22,9 +22,9 @@ R6	Scope Arg1:T12 Arg2:T14
 #1	AnnotatorNotes R5	urn:cts:TODO:1
 #2	AnnotatorNotes R6	urn:cts:TODO:1.3
 #3	AnnotatorNotes R1	urn:cts:greekLit:tlg0020.tlg001:183-187
-#4	AnnotatorNotes R2	urn:cts:TODO:20.322
-#5	AnnotatorNotes R3	urn:cts:TODO:22.225
-#6	AnnotatorNotes T8	urn:cts:cwkb:1059
+#4	AnnotatorNotes R2	urn:cts:cwkb:763.1599:20.322
+#5	AnnotatorNotes R3	urn:cts:cwkb:763.1599:22.225
+#6	AnnotatorNotes T8	urn:cts:cwkb:1181
 #7	AnnotatorNotes T7	urn:cts:greekLit:tlg0020
 #8	AnnotatorNotes T3	urn:cts:greekLit:tlg0012
-#9	AnnotatorNotes T11	urn:cts:cwkb:2580
+#9	AnnotatorNotes T11	urn:cts:cwkb:1427

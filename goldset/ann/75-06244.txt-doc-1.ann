@@ -4,6 +4,6 @@ T3	REFSCOPE 109 116	livre 6
 T4	AWORK 120 133	l' « Énéide »
 R1	Scope Arg1:T2 Arg2:T3
 #0	AnnotatorNotes R1	urn:cts:TODO:6
-#1	AnnotatorNotes T4	urn:cts:latinLit:phi0690.phi003
+#1	AnnotatorNotes T4	urn:cts:cwkb:757.1581
 #2	AnnotatorNotes T2	urn:cts:greekLit:tlg0001
 #3	AnnotatorNotes T1	urn:cts:cwkb:664.1367

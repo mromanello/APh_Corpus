@@ -6,7 +6,5 @@ T5	REFAUWORK 132 136	(Th.
 T6	REFSCOPE 137 146	319-324),
 R1	Scope Arg1:T2 Arg2:T3
 R2	Scope Arg1:T5 Arg2:T6
-#0	AnnotatorNotes R1	urn:cts:TODO:6.179-6.182
-#1	AnnotatorNotes R2	urn:cts:TODO:319-324
-#2	AnnotatorNotes T4	urn:cts:greekLit:tlg0020
-#3	AnnotatorNotes T1	urn:cts:cwkb:1072
+#0	AnnotatorNotes R1	urn:cts:cwkb:763.1599:6.179-6.182
+#1	AnnotatorNotes R2	urn:cts:greekLit:tlg0019.tlg008:319-324

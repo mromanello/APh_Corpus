@@ -10,5 +10,5 @@ R3	Scope Arg1:T3 Arg2:T5
 R4	Scope Arg1:T3 Arg2:T6
 #0	AnnotatorNotes R4	urn:cts:TODO:2.62
 #1	AnnotatorNotes R1	urn:cts:TODO:1.2
-#2	AnnotatorNotes R2	urn:cts:TODO:None
-#3	AnnotatorNotes R3	urn:cts:TODO:None
+#2	AnnotatorNotes R2	urn:cts:TODO:1.142-1.143
+#3	AnnotatorNotes R3	urn:cts:TODO:2.36-2.41

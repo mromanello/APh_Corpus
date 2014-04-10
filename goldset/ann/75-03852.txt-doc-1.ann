@@ -11,10 +11,11 @@ T10	AAUTHOR 621 628	Photios
 R1	Scope Arg1:T2 Arg2:T3
 R2	Scope Arg1:T2 Arg2:T4
 R3	Scope Arg1:T5 Arg2:T6
-#0	AnnotatorNotes R1	urn:cts:cwkb:717.1455:187
-#1	AnnotatorNotes R2	urn:cts:cwkb:717.1455:265
+#0	AnnotatorNotes R1	urn:cts:greekLit:tlg0014.tlg063:187
+#1	AnnotatorNotes R2	urn:cts:greekLit:tlg0014.tlg063:265
 #2	AnnotatorNotes R3	urn:cts:cwkb:871.2315:12.33
 #3	AnnotatorNotes T8	urn:cts:greekLit:tlg2003.tlg017
 #4	AnnotatorNotes T9	urn:cts:greekLit:tlg0548.tlg001
-#5	AnnotatorNotes T1	urn:cts:cwkb:1051
-#6	AnnotatorNotes T10	urn:cts:cwkb:1051
+#5	AnnotatorNotes T7	urn:cts:greekLit:tlg2003
+#6	AnnotatorNotes T1	urn:cts:cwkb:2427
+#7	AnnotatorNotes T10	urn:cts:cwkb:2427

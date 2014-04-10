@@ -37,14 +37,14 @@ R10	Scope Arg1:T17 Arg2:T18
 R11	Scope Arg1:T19 Arg2:T20
 R12	Scope Arg1:T21 Arg2:T22
 R13	Scope Arg1:T23 Arg2:T24
-#0	AnnotatorNotes R4	urn:cts:TODO:None
+#0	AnnotatorNotes R4	urn:cts:cwkb:415:1.11
 #1	AnnotatorNotes R5	urn:cts:TODO:None
-#2	AnnotatorNotes R6	urn:cts:TODO:None
+#2	AnnotatorNotes R6	urn:cts:TODO:2.64
 #3	AnnotatorNotes R7	urn:cts:TODO:None
 #4	AnnotatorNotes R12	urn:cts:TODO:None
-#5	AnnotatorNotes R1	urn:cts:TODO:5.12.1
-#6	AnnotatorNotes R2	urn:cts:TODO:1.1
-#7	AnnotatorNotes R3	urn:cts:TODO:None
+#5	AnnotatorNotes R1	urn:cts:latinLit:phi0690.phi001:5.12.1
+#6	AnnotatorNotes R2	urn:cts:latinLit:phi0690.phi001:1.1
+#7	AnnotatorNotes R3	urn:cts:latinLit:phi0690.phi001:2.3
 #8	AnnotatorNotes R11	urn:cts:TODO:None
 #9	AnnotatorNotes R8	urn:cts:TODO:None
 #10	AnnotatorNotes R9	urn:cts:TODO:None
@@ -52,5 +52,5 @@ R13	Scope Arg1:T23 Arg2:T24
 #12	AnnotatorNotes R13	urn:cts:TODO:None
 #13	AnnotatorNotes T25	urn:cts:greekLit:tlg0005
 #14	AnnotatorNotes T24	urn:cts:latinLit:phi0690
-#15	AnnotatorNotes T27	urn:cts:cwkb:995
-#16	AnnotatorNotes T26	urn:cts:cwkb:482
+#15	AnnotatorNotes T27	urn:cts:cwkb:2886
+#16	AnnotatorNotes T26	urn:cts:cwkb:2543

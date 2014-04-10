@@ -8,6 +8,6 @@ T8	AWORK 329 343	« Posthomerica
 R1	Scope Arg1:T5 Arg2:T6
 #0	AnnotatorNotes R1	urn:cts:TODO:None
 #1	AnnotatorNotes T8	urn:cts:greekLit:tlg2046.tlg001
-#2	AnnotatorNotes T7	urn:cts:latinLit:phi0690
-#3	AnnotatorNotes T2	urn:cts:cwkb:903.2673
-#4	AnnotatorNotes T3	urn:cts:cwkb:972
+#2	AnnotatorNotes T6	urn:cts:greekLit:tlg0036
+#3	AnnotatorNotes T7	urn:cts:latinLit:phi0690
+#4	AnnotatorNotes T2	urn:cts:cwkb:903.2673

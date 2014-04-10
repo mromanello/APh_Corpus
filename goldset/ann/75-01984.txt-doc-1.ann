@@ -1,5 +1,7 @@
 T1	REFSCOPE 26 34	livre 10
 T2	AWORK 38 56	« De usu partium »
+T3	REFAUWORK 81 84	(K.
+T4	REFSCOPE 85 101	3, 820, 821, 839
+R1	Scope Arg1:T3 Arg2:T4
+#0	AnnotatorNotes R1	urn:cts:TODO:3.820.821.839
 #1	AnnotatorNotes T2	urn:cts:cwkb:890.2489
-R1	Scope Arg1:T2 Arg2:T1	
-#2	AnnotatorNotes R1	urn:cts:cwkb:890.2489:10
