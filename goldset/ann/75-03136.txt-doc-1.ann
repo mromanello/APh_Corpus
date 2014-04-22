@@ -6,8 +6,7 @@ T7	REFSCOPE 181 193	(13, 18-25),
 R1	Scope Arg1:T2 Arg2:T1
 R2	Scope Arg1:T2 Arg2:T5
 R3	Scope Arg1:T2 Arg2:T7
-#0	AnnotatorNotes R1	urn:cts:TODO:13
-#1	AnnotatorNotes R2	urn:cts:TODO:13.1-13.14
-#2	AnnotatorNotes R3	urn:cts:TODO:13.18-13.25
-#3	AnnotatorNotes T2	urn:cts:cwkb:2820.9027
-#4	AnnotatorNotes T3	urn:cts:cwkb:1072.3863
+#0	AnnotatorNotes R1	urn:cts:cwkb:943.4531:13
+#1	AnnotatorNotes R2	urn:cts:cwkb:943.4531:13.1-13.14
+#2	AnnotatorNotes R3	urn:cts:cwkb:943.4531:13.18-13.25
+#3	AnnotatorNotes T2	urn:cts:cwkb:943.4531

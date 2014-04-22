@@ -9,8 +9,10 @@ R1	Scope Arg1:T2 Arg2:T3
 R2	Scope Arg1:T2 Arg2:T4
 R3	Scope Arg1:T2 Arg2:T5
 R4	Scope Arg1:T2 Arg2:T6
-#0	AnnotatorNotes R4	urn:cts:TODO:4.683-4.690
-#1	AnnotatorNotes R1	urn:cts:TODO:4.181-4.186
-#2	AnnotatorNotes R2	urn:cts:TODO:249-260
-#3	AnnotatorNotes R3	urn:cts:TODO:4.871-4.876
+#0	AnnotatorNotes R4	urn:cts:cwkb:568.1162:4.683-4.690
+#1	AnnotatorNotes R1	urn:cts:cwkb:568.1162:4.181-4.186
+#2	AnnotatorNotes R2	urn:cts:cwkb:568.1162:249-260
+#3	AnnotatorNotes R3	urn:cts:cwkb:568.1162:4.871-4.876
 #4	AnnotatorNotes T2	urn:cts:cwkb:568.1162
+#5	AnnotatorNotes T1	urn:cts:cwkb:568
+#6	AnnotatorNotes T7	urn:cts:cwkb:568

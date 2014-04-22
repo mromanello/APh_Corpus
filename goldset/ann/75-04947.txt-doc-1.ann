@@ -1,4 +1,3 @@
-T1	AWORK 19 25	Punica
 T2	AAUTHOR 90 96	Silius
 T3	AAUTHOR 227 233	Silius
 T4	REFSCOPE 398 408	7, 166-211
@@ -29,7 +28,6 @@ R6	Scope Arg1:T12 Arg2:T14
 #5	AnnotatorNotes R3	urn:cts:cwkb:568.1162:5.495
 #6	AnnotatorNotes T2	urn:cts:cwkb:1001
 #7	AnnotatorNotes T3	urn:cts:cwkb:1001
-#8	AnnotatorNotes T1	urn:cts:cwkb:568.1164
 #9	AnnotatorNotes T15	urn:cts:cwkb:1001
 #10	AnnotatorNotes T16	urn:cts:cwkb:1001
 #11	AnnotatorNotes T17	urn:cts:latinLit:phi0690

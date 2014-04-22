@@ -12,7 +12,8 @@ T11	AWORK 17 50	« Liber contra haeresim Felicis »
 R1	Scope Arg1:T3 Arg2:T4
 R2	Scope Arg1:T7 Arg2:T8
 #0	AnnotatorNotes R1	urn:cts:cwkb:2796.8952:14.30
-#1	AnnotatorNotes R2	urn:cts:cwkb:2796.8952:187.40
+#1	AnnotatorNotes R2	urn:cts:cwkb:2386.8415:187.40
 #2	AnnotatorNotes T9	urn:cts:cwkb:2796
 #3	AnnotatorNotes T6	urn:cts:cwkb:2386
 #4	AnnotatorNotes T5	urn:cts:cwkb:2796
+R3	Scope Arg1:T11 Arg2:T1	

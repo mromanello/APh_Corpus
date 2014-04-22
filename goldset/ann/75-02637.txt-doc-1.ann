@@ -9,7 +9,7 @@ R1	Scope Arg1:T1 Arg2:T2
 R2	Scope Arg1:T4 Arg2:T5
 R3	Scope Arg1:T4 Arg2:T7
 #0	AnnotatorNotes R1	urn:cts:latinLit:phi0893.phi001:4.15.4
-#1	AnnotatorNotes R2	urn:cts:cwkb:532.1105:4.15
-#2	AnnotatorNotes R3	urn:cts:cwkb:532.1105:25-32
+#1	AnnotatorNotes R2	urn:cts:latinLit:phi0893.phi001:4.15
+#2	AnnotatorNotes R3	urn:cts:latinLit:phi0893.phi001:25-32
 #3	AnnotatorNotes T6	urn:cts:latinLit:phi0690.phi003
 #4	AnnotatorNotes T3	urn:cts:latinLit:phi0893
