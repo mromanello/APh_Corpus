@@ -16,6 +16,6 @@ R6	Scope Arg1:T5 Arg2:T9
 #0	AnnotatorNotes R4	urn:cts:latinLit:phi0690.phi003:9.214
 #1	AnnotatorNotes R5	urn:cts:latinLit:phi0690.phi003:10.366
 #2	AnnotatorNotes R6	urn:cts:latinLit:phi0690.phi003:10.545-10.546
-#3	AnnotatorNotes R1	urn:cts:cwkb:415.829:6.61-6.73
-#4	AnnotatorNotes R2	urn:cts:cwkb:625.1305:4.520-4.521
+#3	AnnotatorNotes R1	urn:cts:latinLit:phi0690.phi001:6.61-6.73
+#4	AnnotatorNotes R2	urn:cts:latinLit:phi0690.phi002:4.520-4.521
 #5	AnnotatorNotes R3	urn:cts:latinLit:phi0690.phi003:7.740-7.741

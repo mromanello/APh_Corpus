@@ -5,6 +5,6 @@ T4	REFSCOPE 184 190	1, 299
 T5	AAUTHOR 248 256	Virgilio
 R1	Scope Arg1:T1 Arg2:T2
 R2	Scope Arg1:T3 Arg2:T4
-#0	AnnotatorNotes R1	urn:cts:TODO:43
-#1	AnnotatorNotes R2	urn:cts:cwkb:625.1305:1.299
-#2	AnnotatorNotes T5	urn:cts:cwkb:3103
+#0	AnnotatorNotes R1	urn:cts:cwkb:1363.4411:43
+#1	AnnotatorNotes R2	urn:cts:latinLit:phi0690.phi002:1.299
+#2	AnnotatorNotes T5	urn:cts:latinLit:phi0690

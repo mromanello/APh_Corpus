@@ -3,6 +3,5 @@ T2	AAUTHOR 35 42	Suétone
 T3	REFAUWORK 43 49	(Caes.
 T4	REFSCOPE 50 53	45)
 R1	Scope Arg1:T3 Arg2:T4
-#0	AnnotatorNotes R1	urn:cts:greekLit:tlg0007.tlg048:45
+#0	AnnotatorNotes R1	urn:cts:cwkb:638.1323:45
 #1	AnnotatorNotes T2	urn:cts:cwkb:638
-#2	AnnotatorNotes T1	urn:cts:cwkb:429

@@ -14,8 +14,16 @@ T15	REFSCOPE 271 274	17)
 T16	AWORK 296 315	« Apocolocyntosis »
 #0	AnnotatorNotes T4	urn:cts:cwkb:638
 #1	AnnotatorNotes T5	urn:cts:cwkb:415
-#2	AnnotatorNotes T2	urn:cts:cwkb:948
 #3	AnnotatorNotes T3	urn:cts:latinLit:phi0972
 #4	AnnotatorNotes T1	urn:cts:cwkb:508
 #5	AnnotatorNotes T16	urn:cts:latinLit:phi1017.phi011
 #6	AnnotatorNotes T13	urn:cts:cwkb:2468
+R1	Scope Arg1:T5 Arg2:T7	
+#2	AnnotatorNotes R1	urn:cts:cwkb:415.829:4.137++
+#7	AnnotatorNotes T8	urn:cts:cwkb:1331
+R2	Scope Arg1:T10 Arg2:T11	
+#8	AnnotatorNotes R2	urn:cts:cwkb:1331.4356:5
+R3	Scope Arg1:T10 Arg2:T12	
+#9	AnnotatorNotes R3	urn:cts:cwkb:1331.4356:7
+R4	Scope Arg1:T14 Arg2:T15	
+#10	AnnotatorNotes R4	urn:cts:cwkb:2468.8534:17

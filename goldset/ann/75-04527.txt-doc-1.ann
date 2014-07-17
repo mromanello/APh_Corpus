@@ -8,8 +8,8 @@ T7	REFAUWORK 143 149	(Poll.
 T8	REFSCOPE 150 156	1, 43)
 T9	AAUTHOR 159 168	Thucydide
 T10	REFAUWORK 169 175	(Poll.
-T11	REFSCOPE 176 196	1, 66-67, 113, 166 ;
-T12	REFSCOPE 197 210	2, 120, 126 ;
+T11	REFSCOPE 176 185	1, 66-67,
+T12	REFSCOPE 197 204	2, 120,
 T13	REFSCOPE 211 216	4, 27
 T14	REFSCOPE 217 225	et 28) ;
 T15	AAUTHOR 226 234	Ménandre
@@ -31,18 +31,28 @@ R7	Scope Arg1:T10 Arg2:T14
 R8	Scope Arg1:T16 Arg2:T17
 R9	Scope Arg1:T19 Arg2:T20
 R10	Scope Arg1:T22 Arg2:T23
-#0	AnnotatorNotes R4	urn:cts:TODO:1.66-166.113.67
-#1	AnnotatorNotes R5	urn:cts:TODO:2.120.126
-#2	AnnotatorNotes R6	urn:cts:TODO:4.27
-#3	AnnotatorNotes R7	urn:cts:TODO:28
-#4	AnnotatorNotes R1	urn:cts:TODO:1.38-1.39
-#5	AnnotatorNotes R2	urn:cts:TODO:4.36
-#6	AnnotatorNotes R3	urn:cts:TODO:1.43
-#7	AnnotatorNotes R8	urn:cts:TODO:2.42
-#8	AnnotatorNotes R9	urn:cts:TODO:6.38
-#9	AnnotatorNotes R10	urn:cts:TODO:8.71
+#0	AnnotatorNotes R4	urn:cts:cwkb:948.3195:1.66-1.67
+#1	AnnotatorNotes R5	urn:cts:cwkb:948.3195:1.113:2.120
+#2	AnnotatorNotes R6	urn:cts:cwkb:948.3195:4.27
+#3	AnnotatorNotes R7	urn:cts:cwkb:948.3195:4.28
+#4	AnnotatorNotes R1	urn:cts:cwkb:948.3195:1.38-1.39
+#5	AnnotatorNotes R2	urn:cts:cwkb:948.3195:4.36
+#6	AnnotatorNotes R3	urn:cts:cwkb:948.3195:1.43
+#7	AnnotatorNotes R8	urn:cts:cwkb:948.3195:2.42
+#8	AnnotatorNotes R9	urn:cts:cwkb:948.3195:6.38
+#9	AnnotatorNotes R10	urn:cts:cwkb:948.3195:8.71
 #10	AnnotatorNotes T15	urn:cts:cwkb:981
 #11	AnnotatorNotes T18	urn:cts:cwkb:3115
 #12	AnnotatorNotes T9	urn:cts:greekLit:tlg0003
-#13	AnnotatorNotes T1	urn:cts:cwkb:871.2328
+#13	AnnotatorNotes T1	urn:cts:cwkb:948.3195
 #14	AnnotatorNotes T21	urn:cts:greekLit:tlg0029
+#15	AnnotatorNotes T2	urn:cts:greekLit:tlg0014
+T24	REFSCOPE 186 190	113,
+T25	REFSCOPE 191 196	166 ;
+T26	REFSCOPE 205 210	126 ;
+R11	Scope Arg1:T10 Arg2:T24	
+R12	Scope Arg1:T10 Arg2:T25	
+R13	Scope Arg1:T10 Arg2:T26	
+#16	AnnotatorNotes R11	urn:cts:cwkb:948.3195:1.113
+#17	AnnotatorNotes R12	urn:cts:cwkb:948.3195:1.166
+#18	AnnotatorNotes R13	urn:cts:cwkb:948.3195:2.126

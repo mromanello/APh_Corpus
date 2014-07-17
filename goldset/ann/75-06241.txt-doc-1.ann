@@ -8,7 +8,9 @@ T7	REFSCOPE 449 460	3, 707-710.
 R1	Scope Arg1:T1 Arg2:T2
 R2	Scope Arg1:T5 Arg2:T6
 #0	AnnotatorNotes R1	urn:cts:latinLit:phi0690.phi003:3
-#1	AnnotatorNotes R2	urn:cts:TODO:3.702
+#1	AnnotatorNotes R2	urn:cts:latinLit:phi0690.phi003:3.702
 #2	AnnotatorNotes T4	urn:cts:cwkb:789.1882
 #3	AnnotatorNotes T5	urn:cts:latinLit:phi0690
 #4	AnnotatorNotes T3	urn:cts:greekLit:tlg0533
+R3	Scope Arg1:T5 Arg2:T7	
+#5	AnnotatorNotes R3	urn:cts:latinLit:phi0690.phi003:3.707-3.710
