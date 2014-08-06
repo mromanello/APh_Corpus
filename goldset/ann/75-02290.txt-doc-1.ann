@@ -1,4 +1,4 @@
-T1	AAUTHOR 0 9	Hesiod 's
+T1	AAUTHOR 0 6	Hesiod
 T2	REFAUWORK 36 40	(Op.
 T3	REFSCOPE 41 48	47-211)
 R1	Scope Arg1:T2 Arg2:T3
@@ -10,3 +10,5 @@ T5	AWORK 320 338	« Works and days »
 #3	AnnotatorNotes T5	urn:cts:greekLit:tlg0020.tlg002
 T6	AWORK 405 416	« Contest »
 #4	AnnotatorNotes T6	urn:cts:cwkb:1398.4477
+T7	AAUTHOR 571 577	Hesiod
+#5	AnnotatorNotes T7	urn:cts:greekLit:tlg0020

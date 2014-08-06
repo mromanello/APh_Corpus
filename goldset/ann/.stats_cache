@@ -100,8 +100,8 @@ aI1
 aI0
 aI0
 aa(lp22
-I3
-aI2
+I2
+aI1
 aI0
 aI0
 aa(lp23
@@ -481,7 +481,7 @@ aI0
 aI0
 aa(lp98
 I8
-aI1
+aI2
 aI0
 aI0
 aa(lp99
@@ -625,7 +625,7 @@ aI0
 aI0
 aI0
 aa(lp127
-I6
+I7
 aI1
 aI0
 aI0
@@ -990,7 +990,7 @@ aI2
 aI0
 aI0
 aa(lp200
-I2
+I3
 aI0
 aI0
 aI0
@@ -1070,7 +1070,7 @@ aI3
 aI0
 aI0
 aa(lp216
-I6
+I5
 aI0
 aI0
 aI0
@@ -1380,7 +1380,7 @@ aI0
 aI0
 aI0
 aa(lp278
-I2
+I0
 aI0
 aI0
 aI0
@@ -1525,8 +1525,8 @@ aI12
 aI0
 aI0
 aa(lp307
-I6
-aI1
+I8
+aI2
 aI0
 aI0
 aa(lp308
