@@ -1,7 +1,4 @@
 T1	REFAUWORK 15 31	Epicteto, Manual
-T2	REFSCOPE 32 35	29,
-T3	REFSCOPE 36 41	2, se
+T2	REFSCOPE 32 38	29, 2,
 R1	Scope Arg1:T1 Arg2:T2
-R2	Scope Arg1:T1 Arg2:T3
-#0	AnnotatorNotes R1	urn:cts:TODO:29
-#1	AnnotatorNotes R2	urn:cts:TODO:None
+#0	AnnotatorNotes R1	urn:cts:greekLit:tlg0557.tlg002:29.2
