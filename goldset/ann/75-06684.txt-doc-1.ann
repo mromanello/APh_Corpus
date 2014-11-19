@@ -15,7 +15,7 @@ R1	Scope Arg1:T1 Arg2:T2
 R2	Scope Arg1:T4 Arg2:T5
 R3	Scope Arg1:T4 Arg2:T6
 R4	Scope Arg1:T9 Arg2:T10
-#0	AnnotatorNotes R4	urn:cts:TODO:2.74-2.75
+#0	AnnotatorNotes R4	urn:cts:cwkb:1059.3818:2.74-2.75
 #3	AnnotatorNotes R1	urn:cts:greekLit:tlg0020.tlg001:183-187
 #4	AnnotatorNotes R2	urn:cts:greekLit:tlg0012.tlg001:20.322
 #5	AnnotatorNotes R3	urn:cts:greekLit:tlg0012.tlg001:22.225
