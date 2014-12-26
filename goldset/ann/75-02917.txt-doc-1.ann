@@ -6,4 +6,4 @@ T4	AAUTHOR 372 379	Cicéron
 #1	AnnotatorNotes T2	urn:cts:cwkb:2733
 #2	AnnotatorNotes T3	urn:cts:cwkb:431.914
 R1	Scope Arg1:T2 Arg2:T1	
-#3	AnnotatorNotes R1	urn:cts:cwkb:2733.8704
+#3	AnnotatorNotes R1	urn:cts:cwkb:2733.8704:5
