@@ -1,7 +1,0 @@
-Analyse	VB	O
-de	NP	O
-Theb.	NP	O
-
-1	CD	B-REFSCOPE
-,	,	I-REFSCOPE
-150	CD	I-REFSCOPE

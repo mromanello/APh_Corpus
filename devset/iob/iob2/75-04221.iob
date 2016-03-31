@@ -1,9 +1,0 @@
-On	IN	O
-S.	NP	O
-R.	NP	O
-Slings	NP	O
-(	(	O
-=>	NP	O
-74-04711	CD	O
-)	)	O
-.	SENT	O
