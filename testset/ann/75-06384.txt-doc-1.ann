@@ -1,6 +1,5 @@
 T1	REFAUWORK 114 119	(Mem.
 T2	REFSCOPE 120 127	3, 11),
-T3	AAUTHOR 293 300	Socrate
 T4	REFAUWORK 459 464	(Mem.
 T5	REFSCOPE 465 475	2, 6, 36 ;
 T6	REFAUWORK 476 480	Oec.
@@ -13,3 +12,4 @@ R3	Scope Arg1:T6 Arg2:T7
 #1	AnnotatorNotes R2	urn:cts:cwkb:766.1635:2.6.36
 #2	AnnotatorNotes R3	urn:cts:greekLit:tlg0032.tlg003:3.14
 #3	AnnotatorNotes T8	urn:cts:cwkb:1186
+T9	AAUTHOR 16 24	Xénophon

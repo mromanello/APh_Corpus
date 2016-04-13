@@ -1,8 +1,6 @@
 Note	NOM
 a	PRE
-Charit	NOM
-.	SENT
-
+Charit.	ABR
 5	NUM
 ,	PON
 5	NUM

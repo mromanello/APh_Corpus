@@ -21,3 +21,5 @@ R7	Scope Arg1:T1 Arg2:T8
 #5	AnnotatorNotes R2	urn:cts:greekLit:tlg0525:1.22.7
 #6	AnnotatorNotes R3	urn:cts:greekLit:tlg0525:1.25.8
 #7	AnnotatorNotes T1	urn:cts:greekLit:tlg0525
+T9	AAUTHOR 128 133	Musée
+T10	AAUTHOR 384 389	Musée

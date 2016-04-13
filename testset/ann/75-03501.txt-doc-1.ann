@@ -1,5 +1,4 @@
 T1	AWORK 19 28	« Fasti »
-T2	AAUTHOR 94 104	Caesaris »
 T3	REFAUWORK 105 111	(fast.
 T4	REFSCOPE 112 119	1, 13),
 T5	REFSCOPE 345 358	(5, 545-598).
@@ -24,5 +23,7 @@ R7	Scope Arg1:T7 Arg2:T11
 #5	AnnotatorNotes R2	urn:cts:cwkb:568.1162:5.545-5.598
 #6	AnnotatorNotes R3	urn:cts:cwkb:568.1162:1.705-1.708
 #7	AnnotatorNotes T7	urn:cts:greekLit:tlg0062
-#8	AnnotatorNotes T2	urn:cts:cwkb:2789
 #9	AnnotatorNotes T1	urn:cts:cwkb:568.1162
+T2	AAUTHOR 0 4	Ovid
+T12	AAUTHOR 371 375	Ovid
+T13	AAUTHOR 633 637	Ovid

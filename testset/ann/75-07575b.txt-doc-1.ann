@@ -1,7 +1,7 @@
 T1	REFSCOPE 15 24	5, 5, 4 ;
 T2	REFSCOPE 25 35	6, 4, 10 ;
 T3	REFSCOPE 36 45	8, 2, 4 ;
-T4	REFAUWORK 46 55	a X. Eph.
+T4	REFAUWORK 48 55	X. Eph.
 T5	REFSCOPE 56 65	1, 9, 5 ;
 T6	REFSCOPE 66 75	2, 7, 4 ;
 T7	REFSCOPE 76 85	3, 2, 7 ;
@@ -30,3 +30,7 @@ R9	Scope Arg1:T11 Arg2:T14
 #6	AnnotatorNotes R3	urn:cts:cwkb:2635:3.2.7
 #7	AnnotatorNotes R8	urn:cts:greekLit:tlg0561:2.23.4
 #8	AnnotatorNotes R9	urn:cts:greekLit:tlg0561:3.16.1
+T15	REFAUWORK 7 14	Charit.
+R10	Scope Arg1:T15 Arg2:T1	
+R11	Scope Arg1:T15 Arg2:T2	
+R12	Scope Arg1:T15 Arg2:T3	
