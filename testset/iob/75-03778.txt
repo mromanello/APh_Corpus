@@ -1,104 +1,103 @@
-Philos	ADJA
-Beschreibung	NN
-der	ART
-Therapeutae	NN
-in	APPR
-sein	PPOSAT
-Werk	NN
-«	$(
-De	NE
-vita	NE
-contemplativa	NE
-»	$(
-liefert	VVFIN
-einen	ART
-Schlüssel	NN
-zum	APPRART
-Verständnis	NN
-seiner	PPOSAT
-zahlreichen	ADJA
-Äusserungen	NN
-über	APPR
-die	ART
-Erschaffung	NN
-des	ART
-Menschen	NN
-in	APPR
-Genesis	NN
-1	CARD
-und	KON
-2	CARD
-;	$.
-seine	PPOSAT
-Beschreibung	NN
-des	ART
-Lebensstils	NN
-der	ART
-Therapeutae	NN
-spiegelt	VVFIN
-die	ART
-Nichtigkeit	NN
-des	ART
-menschlichen	ADJA
-Körpers	NN
-,	$,
-dagegen	PAV
-die	ART
-höchste	ADJA
-Bedeutung	NN
-eines	ART
-gottbezogenen	ADJA
-Geistes	NN
-wider	PTKVZ
-.	$.
+Philos	ADJA	B-AAUTHOR
+Beschreibung	NN	O
+der	ART	O
+Therapeutae	NN	O
+in	APPR	O
+sein	PPOSAT	O
+Werk	NN	O
+«	$(	B-AWORK
+De	NE	I-AWORK
+vita	NE	I-AWORK
+contemplativa	NE	I-AWORK
+»	$(	I-AWORK
+liefert	VVFIN	O
+einen	ART	O
+Schlüssel	NN	O
+zum	APPRART	O
+Verständnis	NN	O
+seiner	PPOSAT	O
+zahlreichen	ADJA	O
+Äusserungen	NN	O
+über	APPR	O
+die	ART	O
+Erschaffung	NN	O
+des	ART	O
+Menschen	NN	O
+in	APPR	O
+Genesis	NN	B-REFAUWORK
+1	CARD	B-REFSCOPE
+und	KON	B-REFSCOPE
+2	CARD	I-REFSCOPE
+;	$.	I-REFSCOPE
+seine	PPOSAT	O
+Beschreibung	NN	O
+des	ART	O
+Lebensstils	NN	O
+der	ART	O
+Therapeutae	NN	O
+spiegelt	VVFIN	O
+die	ART	O
+Nichtigkeit	NN	O
+des	ART	O
+menschlichen	ADJA	O
+Körpers	NN	O
+,	$,	O
+dagegen	PAV	O
+die	ART	O
+höchste	ADJA	O
+Bedeutung	NN	O
+eines	ART	O
+gottbezogenen	ADJA	O
+Geistes	NN	O
+wider	PTKVZ	O
+.	$.	O
 
-Obwohl	KOUS
-es	PPER
-nicht	PTKNEG
-möglich	ADJD
-ist	VAFIN
-zu	PTKZU
-beweisen	VVINF
-,	$,
-dass	KOUS
-Paulus	NE
-aus	APPR
-Philo	NE
-schöpfte	VVFIN
-,	$,
-als	KOUS
-er	PPER
-Jesus	NE
-«	$(
-den	ART
-letzten	ADJA
-Adam	NE
-»	$(
-nannte	VVFIN
-,	$,
-so	ADV
-lassen	VVFIN
-sich	PRF
-doch	ADV
-auffallende	ADJA
-Gemeinsamkeiten	NN
-zwischen	APPR
-1	CARD
-Kor	NN
-15	CARD
-,	$,
-44-49	CARD
-und	KON
-Philos	ADJA
-Äusserungen	NN
-über	APPR
-die	ART
-«	$(
-doppelte	ADJA
-Erschaffung	NN
-des	ART
-Menschen	NN
-»	$(
-feststellen	VVFIN
-.	$.
-
+Obwohl	KOUS	O
+es	PPER	O
+nicht	PTKNEG	O
+möglich	ADJD	O
+ist	VAFIN	O
+zu	PTKZU	O
+beweisen	VVINF	O
+,	$,	O
+dass	KOUS	O
+Paulus	NE	O
+aus	APPR	O
+Philo	NE	O
+schöpfte	VVFIN	O
+,	$,	O
+als	KOUS	O
+er	PPER	O
+Jesus	NE	O
+«	$(	O
+den	ART	O
+letzten	ADJA	O
+Adam	NE	O
+»	$(	O
+nannte	VVFIN	O
+,	$,	O
+so	ADV	O
+lassen	VVFIN	O
+sich	PRF	O
+doch	ADV	O
+auffallende	ADJA	O
+Gemeinsamkeiten	NN	O
+zwischen	APPR	O
+1	CARD	B-REFAUWORK
+Kor	NN	I-REFAUWORK
+15	CARD	B-REFSCOPE
+,	$,	I-REFSCOPE
+44-49	CARD	I-REFSCOPE
+und	KON	O
+Philos	ADJA	B-AAUTHOR
+Äusserungen	NN	O
+über	APPR	O
+die	ART	O
+«	$(	O
+doppelte	ADJA	O
+Erschaffung	NN	O
+des	ART	O
+Menschen	NN	O
+»	$(	O
+feststellen	VVFIN	O
+.	$.	O

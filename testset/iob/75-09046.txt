@@ -1,57 +1,52 @@
-1.	ADV
+Veröffentlichung	NN	O
+von	APPR	O
+sechs	CARD	O
+griechischen	ADJA	O
+Inschriften	NN	O
+aus	APPR	O
+Karien	NN	O
+und	KON	O
+Lydien	NN	O
+mit	APPR	O
+englischer	ADJA	O
+und	KON	O
+türkischer	ADJA	O
+Übersetzung	NN	O
+.	$.	O
 
-Veröffentlichung	NN
-von	APPR
-sechs	CARD
-griechischen	ADJA
-Inschriften	NN
-aus	APPR
-Karien	NN
-und	KON
-Lydien	NN
-mit	APPR
-englischer	ADJA
-und	KON
-türkischer	ADJA
-Übersetzung	NN
-.	$.
+Es	PPER	O
+handelt	VVFIN	O
+sich	PRF	O
+um	APPR	O
+Weihungen	NN	O
+,	$,	O
+Ehreninschriften	NN	O
+(	$(	O
+unter	APPR	O
+anderem	PIS	O
+für	APPR	O
+L.	NE	O
+Aelius	NE	O
+Tubero	NN	O
+und	KON	O
+Livia	NE	O
+Drusilla	NE	O
+)	$(	O
+und	KON	O
+eine	ART	O
+magische	ADJA	O
+Inschrift	NN	O
+auf	APPR	O
+einem	ART	O
+Bronzeblech	NN	O
+.	$.	O
 
-Es	PPER
-handelt	VVFIN
-sich	PRF
-um	APPR
-Weihungen	NN
-,	$,
-Ehreninschriften	NN
-(	$(
-unter	APPR
-anderem	PIS
-für	APPR
-L.	NE
-Aelius	NE
-Tubero	NN
-und	KON
-Livia	NE
-Drusilla	NE
-)	$(
-und	KON
-eine	ART
-magische	ADJA
-Inschrift	NN
-auf	APPR
-einem	ART
-Bronzeblech	NN
-.	$.
-
-2.	ADV
-
-Zu	APPR
-Text	NN
-und	KON
-Verständnis	NN
-einer	ART
-Inschrift	NN
-aus	APPR
-Trapezopolis	NN
-.	$.
-
+Zu	APPR	O
+Text	NN	O
+und	KON	O
+Verständnis	NN	O
+einer	ART	O
+Inschrift	NN	O
+aus	APPR	O
+Trapezopolis	NN	O
+.	$.	O

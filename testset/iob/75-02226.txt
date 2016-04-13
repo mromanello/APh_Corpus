@@ -1,46 +1,45 @@
-Betrachtet	VVFIN
-man	PIS
-die	ART
-dargestellten	ADJA
-Ereignisse	NN
-von	APPR
-der	ART
-in	APPR
-Herodians	NN
-Werk	NN
-insgesamt	ADV
-sichtbaren	ADJA
-Einstellung	NN
-zum	APPRART
-römischen	ADJA
-Staat	NN
-her	PTKVZ
-,	$,
-so	ADV
-wird	VAFIN
-deutlich	ADJD
-,	$,
-dass	KOUS
-alle	PIAT
-Beteiligten	NN
-sich	PRF
-falsch	ADJD
-verhalten	VVPP
-und	KON
-dass	KOUS
-der	ART
-für	APPR
-Herodian	NN
-bereits	ADV
-mit	APPR
-Marc	NE
-Aurel	NE
-beginnende	ADJA
-Niedergang	NN
-hier	ADV
-in	APPR
-besonderem	ADJA
-Masse	NN
-sichtbar	ADJD
-wird	VAFIN
-
+Betrachtet	VVFIN	O
+man	PIS	O
+die	ART	O
+dargestellten	ADJA	O
+Ereignisse	NN	O
+von	APPR	O
+der	ART	O
+in	APPR	O
+Herodians	NN	O
+Werk	NN	O
+insgesamt	ADV	O
+sichtbaren	ADJA	O
+Einstellung	NN	O
+zum	APPRART	O
+römischen	ADJA	O
+Staat	NN	O
+her	PTKVZ	O
+,	$,	O
+so	ADV	O
+wird	VAFIN	O
+deutlich	ADJD	O
+,	$,	O
+dass	KOUS	O
+alle	PIAT	O
+Beteiligten	NN	O
+sich	PRF	O
+falsch	ADJD	O
+verhalten	VVPP	O
+und	KON	O
+dass	KOUS	O
+der	ART	O
+für	APPR	O
+Herodian	NN	O
+bereits	ADV	O
+mit	APPR	O
+Marc	NE	O
+Aurel	NE	O
+beginnende	ADJA	O
+Niedergang	NN	O
+hier	ADV	O
+in	APPR	O
+besonderem	ADJA	O
+Masse	NN	O
+sichtbar	ADJD	O
+wird	VAFIN	O

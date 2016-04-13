@@ -1,52 +1,51 @@
-Im	APPRART
-9.	ADJA
+Im	APPRART	O
+9.	ADJA	O
 
-Märtyrer-Hymnus	NE
-hat	VAFIN
-Prudentius	NN
-auf	APPR
-dem	ART
-relativ	ADJD
-engen	ADJA
-Raum	NN
-von	APPR
-106	CARD
-Versen	NN
-einerseits	ADV
-verschiedene	ADJA
-literarische	ADJA
-Formen	NN
-(	$(
-Anfang	NN
-und	KON
-Ende	NN
-entsprechen	VVFIN
-einem	ART
-Reisegedicht	NN
--	$(
-«	$(
-iter	ADJD
-»	$(
--	$(
-,	$,
-sie	PPER
-umschliessen	VVFIN
-zwei	CARD
-Ekphraseis	NN
-)	$(
-zu	APPR
-einem	ART
-geschlossenen	ADJA
-Ganzen	NN
-zusammengefügt	VVPP
-,	$,
-andererseits	ADV
-auch	ADV
-einen	ART
-eigenen	ADJA
-inneren	ADJA
-Wandel	NN
-aufscheinen	VVINF
-lassen	VVFIN
-.	$.
-
+Märtyrer-Hymnus	NE	O
+hat	VAFIN	O
+Prudentius	NN	O
+auf	APPR	O
+dem	ART	O
+relativ	ADJD	O
+engen	ADJA	O
+Raum	NN	O
+von	APPR	O
+106	CARD	O
+Versen	NN	O
+einerseits	ADV	O
+verschiedene	ADJA	O
+literarische	ADJA	O
+Formen	NN	O
+(	$(	O
+Anfang	NN	O
+und	KON	O
+Ende	NN	O
+entsprechen	VVFIN	O
+einem	ART	O
+Reisegedicht	NN	O
+-	$(	O
+«	$(	O
+iter	ADJD	O
+»	$(	O
+-	$(	O
+,	$,	O
+sie	PPER	O
+umschliessen	VVFIN	O
+zwei	CARD	O
+Ekphraseis	NN	O
+)	$(	O
+zu	APPR	O
+einem	ART	O
+geschlossenen	ADJA	O
+Ganzen	NN	O
+zusammengefügt	VVPP	O
+,	$,	O
+andererseits	ADV	O
+auch	ADV	O
+einen	ART	O
+eigenen	ADJA	O
+inneren	ADJA	O
+Wandel	NN	O
+aufscheinen	VVINF	O
+lassen	VVFIN	O
+.	$.	O

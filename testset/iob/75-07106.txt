@@ -1,8 +1,7 @@
-Studio	NOM
-della	PRE:det
-forma	NOM
-verbale	ADJ
-nei	PRE:det
-poemi	NOM
-omerici	ADJ
-
+Studio	NOM	O
+della	PRE:det	O
+forma	NOM	O
+verbale	ADJ	O
+nei	PRE:det	O
+poemi	NOM	O
+omerici	ADJ	O

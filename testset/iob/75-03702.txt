@@ -1,117 +1,116 @@
-Analyse	NOM
-des	PRP:det
-sept	NUM
-fragments	NOM
-cités	VER:pper
-chez	PRP
-Pausanias	NOM
-(	PUN
-1	NUM
-,	PUN
-14	NUM
-,	PUN
-3	NUM
-;	PUN
-1	NUM
-,	PUN
-22	NUM
-,	PUN
-7	NUM
-;	PUN
-1	NUM
-,	PUN
-25	NUM
-,	PUN
-8	NUM
-;	PUN
-4	NUM
-,	PUN
-1	NUM
-,	PUN
-5	NUM
-;	PUN
-10	NUM
-,	PUN
-5	NUM
-,	PUN
-6-8	NUM
-;	PUN
-10	NUM
-,	PUN
-7	NUM
-,	PUN
-2	NUM
-;	PUN
-10	NUM
-,	PUN
-9	NUM
-,	PUN
-11	NUM
-)	PUN
-.	SENT
+Analyse	NOM	O
+des	PRP:det	O
+sept	NUM	O
+fragments	NOM	O
+cités	VER:pper	O
+chez	PRP	O
+Pausanias	NOM	B-AAUTHOR
+(	PUN	B-REFSCOPE
+1	NUM	I-REFSCOPE
+,	PUN	I-REFSCOPE
+14	NUM	I-REFSCOPE
+,	PUN	I-REFSCOPE
+3	NUM	I-REFSCOPE
+;	PUN	I-REFSCOPE
+1	NUM	B-REFSCOPE
+,	PUN	I-REFSCOPE
+22	NUM	I-REFSCOPE
+,	PUN	I-REFSCOPE
+7	NUM	I-REFSCOPE
+;	PUN	I-REFSCOPE
+1	NUM	B-REFSCOPE
+,	PUN	I-REFSCOPE
+25	NUM	I-REFSCOPE
+,	PUN	I-REFSCOPE
+8	NUM	I-REFSCOPE
+;	PUN	I-REFSCOPE
+4	NUM	B-REFSCOPE
+,	PUN	I-REFSCOPE
+1	NUM	I-REFSCOPE
+,	PUN	I-REFSCOPE
+5	NUM	I-REFSCOPE
+;	PUN	I-REFSCOPE
+10	NUM	B-REFSCOPE
+,	PUN	I-REFSCOPE
+5	NUM	I-REFSCOPE
+,	PUN	I-REFSCOPE
+6-8	NUM	I-REFSCOPE
+;	PUN	I-REFSCOPE
+10	NUM	B-REFSCOPE
+,	PUN	I-REFSCOPE
+7	NUM	I-REFSCOPE
+,	PUN	I-REFSCOPE
+2	NUM	I-REFSCOPE
+;	PUN	I-REFSCOPE
+10	NUM	B-REFSCOPE
+,	PUN	I-REFSCOPE
+9	NUM	I-REFSCOPE
+,	PUN	I-REFSCOPE
+11	NUM	I-REFSCOPE
+)	PUN	I-REFSCOPE
+.	SENT	I-REFSCOPE
 
-Musée	NOM
-y	PRO:PER
-apparaît	VER:pres
-à	PRP
-la	DET:ART
-fois	NOM
-comme	KON
-un	DET:ART
-poète	NOM
-oraculaire	ADJ
-et	KON
-comme	ADV
-un	DET:ART
-poète	NOM
-de	PRP
-Déméter	NAM
-,	PUN
-de	PRP
-Triptolème	NAM
-et	KON
-des	PRP:det
-Mystères	NAM
-,	PUN
-chanté	VER:pper
-par	PRP
-les	DET:ART
-prêtres	NOM
-officiants	ADJ
-de	PRP
-Phlya	NOM
-en	PRP
-Attique	NAM
-.	SENT
+Musée	NOM	B-AAUTHOR
+y	PRO:PER	O
+apparaît	VER:pres	O
+à	PRP	O
+la	DET:ART	O
+fois	NOM	O
+comme	KON	O
+un	DET:ART	O
+poète	NOM	O
+oraculaire	ADJ	O
+et	KON	O
+comme	ADV	O
+un	DET:ART	O
+poète	NOM	O
+de	PRP	O
+Déméter	NAM	O
+,	PUN	O
+de	PRP	O
+Triptolème	NAM	O
+et	KON	O
+des	PRP:det	O
+Mystères	NAM	O
+,	PUN	O
+chanté	VER:pper	O
+par	PRP	O
+les	DET:ART	O
+prêtres	NOM	O
+officiants	ADJ	O
+de	PRP	O
+Phlya	NOM	O
+en	PRP	O
+Attique	NAM	O
+.	SENT	O
 
-Ces	PRO:DEM
-citations	NOM
-ne	ADV
-sont	VER:pres
-pas	ADV
-un	DET:ART
-gage	NOM
-d'	PRP
-authenticité	NOM
-ni	KON
-un	DET:ART
-témoignage	NOM
-sur	PRP
-l'	DET:ART
-existence	NOM
-de	PRP
-Musée	NAM
-.	SENT
+Ces	PRO:DEM	O
+citations	NOM	O
+ne	ADV	O
+sont	VER:pres	O
+pas	ADV	O
+un	DET:ART	O
+gage	NOM	O
+d'	PRP	O
+authenticité	NOM	O
+ni	KON	O
+un	DET:ART	O
+témoignage	NOM	O
+sur	PRP	O
+l'	DET:ART	O
+existence	NOM	O
+de	PRP	O
+Musée	NAM	B-AAUTHOR
+.	SENT	O
 
-On	PRO:PER
-assiste	VER:pres
-plutôt	ADV
-à	PRP
-l'	DET:ART
-élaboration	NOM
-d'	PRP
-une	DET:ART
-figure	NOM
-de	PRP
-locuteur	NOM
-
+On	PRO:PER	O
+assiste	VER:pres	O
+plutôt	ADV	O
+à	PRP	O
+l'	DET:ART	O
+élaboration	NOM	O
+d'	PRP	O
+une	DET:ART	O
+figure	NOM	O
+de	PRP	O
+locuteur	NOM	O

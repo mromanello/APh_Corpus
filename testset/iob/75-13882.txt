@@ -1,48 +1,47 @@
-Die	ART
-Einschätzung	NN
-des	ART
-Blutes	NN
-als	KOKOM
-besonders	ADV
-hochwertiges	ADJA
-Heilmittel	NN
-gegen	APPR
-Augenleiden	NN
-belegt	VVFIN
-beispielhaft	ADJD
-,	$,
-dass	KOUS
-die	ART
-antike	ADJA
-Tradition	NN
-der	ART
-Heilkunst	NN
-im	APPRART
-Mittelalter	NN
-nicht	PTKNEG
-nur	ADV
-unter	APPR
-gebildeten	ADJA
-Eliteschichten	NN
-weitergegeben	VVPP
-wurde	VAFIN
-,	$,
-sondern	KON
-dass	KOUS
-sie	PPER
-,	$,
-angereichert	VVPP
-mit	APPR
-christlichen	ADJA
-Vorstellungen	NN
-von	APPR
-Märtyrern	NN
-etc.	ADV
-,	$,
-das	ART
-Alltagsleben	NN
-breiter	ADJA
-Schichten	NN
-beeinflusste	VVFIN
-.	$.
-
+Die	ART	O
+Einschätzung	NN	O
+des	ART	O
+Blutes	NN	O
+als	KOKOM	O
+besonders	ADV	O
+hochwertiges	ADJA	O
+Heilmittel	NN	O
+gegen	APPR	O
+Augenleiden	NN	O
+belegt	VVFIN	O
+beispielhaft	ADJD	O
+,	$,	O
+dass	KOUS	O
+die	ART	O
+antike	ADJA	O
+Tradition	NN	O
+der	ART	O
+Heilkunst	NN	O
+im	APPRART	O
+Mittelalter	NN	O
+nicht	PTKNEG	O
+nur	ADV	O
+unter	APPR	O
+gebildeten	ADJA	O
+Eliteschichten	NN	O
+weitergegeben	VVPP	O
+wurde	VAFIN	O
+,	$,	O
+sondern	KON	O
+dass	KOUS	O
+sie	PPER	O
+,	$,	O
+angereichert	VVPP	O
+mit	APPR	O
+christlichen	ADJA	O
+Vorstellungen	NN	O
+von	APPR	O
+Märtyrern	NN	O
+etc.	ADV	O
+,	$,	O
+das	ART	O
+Alltagsleben	NN	O
+breiter	ADJA	O
+Schichten	NN	O
+beeinflusste	VVFIN	O
+.	$.	O

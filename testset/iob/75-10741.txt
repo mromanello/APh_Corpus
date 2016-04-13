@@ -1,69 +1,68 @@
-Aspects	NOM
-administratifs	ADJ
-liés	VER:pper
-au	PRP:det
-réseau	NOM
-routier	ADJ
-dans	PRP
-les	DET:ART
-provinces	NOM
-occidentales	ADJ
-de	PRP
-l'	DET:ART
-Empire	NAM
-,	PUN
-de	PRP
-l'	DET:ART
-époque	NOM
-d'	PRP
-Auguste	NAM
-à	PRP
-celle	PRO:DEM
-de	PRP
-Dioclétien	NAM
-.	SENT
+Aspects	NOM	O
+administratifs	ADJ	O
+liés	VER:pper	O
+au	PRP:det	O
+réseau	NOM	O
+routier	ADJ	O
+dans	PRP	O
+les	DET:ART	O
+provinces	NOM	O
+occidentales	ADJ	O
+de	PRP	O
+l'	DET:ART	O
+Empire	NAM	O
+,	PUN	O
+de	PRP	O
+l'	DET:ART	O
+époque	NOM	O
+d'	PRP	O
+Auguste	NAM	O
+à	PRP	O
+celle	PRO:DEM	O
+de	PRP	O
+Dioclétien	NAM	O
+.	SENT	O
 
-Répertoire	NOM
-des	PRP:det
-«	PUN:cit
-capita	VER:simp
-uiarum	NOM
-»	PUN:cit
-,	PUN
-en	PRP
-particulier	ADJ
-d'	PRP
-après	PRP
-les	DET:ART
-inscriptions	NOM
-.	SENT
+Répertoire	NOM	O
+des	PRP:det	O
+«	PUN:cit	O
+capita	VER:simp	O
+uiarum	NOM	O
+»	PUN:cit	O
+,	PUN	O
+en	PRP	O
+particulier	ADJ	O
+d'	PRP	O
+après	PRP	O
+les	DET:ART	O
+inscriptions	NOM	O
+.	SENT	O
 
-Il	PRO:PER
-semble	VER:pres
-que	KON
-les	DET:ART
-routes	NOM
-ne	ADV
-demandaient	VER:impf
-pas	ADV
-un	DET:ART
-très	ADV
-grand	ADJ
-entretien	NOM
-,	PUN
-ce	PRO:DEM
-qui	PRO:REL
-explique	VER:pres
-le	DET:ART
-relatif	ADJ
-silence	NOM
-des	PRP:det
-sources	NOM
-sur	PRP
-les	DET:ART
-fonctionnaires	NOM
-chargés	VER:pper
-de	PRP
-cette	PRO:DEM
-tâche	NOM
-
+Il	PRO:PER	O
+semble	VER:pres	O
+que	KON	O
+les	DET:ART	O
+routes	NOM	O
+ne	ADV	O
+demandaient	VER:impf	O
+pas	ADV	O
+un	DET:ART	O
+très	ADV	O
+grand	ADJ	O
+entretien	NOM	O
+,	PUN	O
+ce	PRO:DEM	O
+qui	PRO:REL	O
+explique	VER:pres	O
+le	DET:ART	O
+relatif	ADJ	O
+silence	NOM	O
+des	PRP:det	O
+sources	NOM	O
+sur	PRP	O
+les	DET:ART	O
+fonctionnaires	NOM	O
+chargés	VER:pper	O
+de	PRP	O
+cette	PRO:DEM	O
+tâche	NOM	O

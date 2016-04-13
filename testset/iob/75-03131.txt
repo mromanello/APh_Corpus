@@ -1,47 +1,46 @@
-Présentation	NOM
-du	PRP:det
-passage	NOM
-qui	PRO:REL
-montre	VER:pres
-Pierre	NAM
-et	KON
-Simon	NAM
-s'	PRO:PER
-affrontant	VER:ppre
-en	PRP
-présence	NOM
-de	PRP
-Néron	NAM
-(	PUN
-10	NUM
-,	PUN
-30-40	NUM
-)	PUN
-:	PUN
-caractéristiques	NOM
-littéraires	ADJ
-;	PUN
-distorsions	NOM
-et	KON
-incongruités	NOM
-historiques	ADJ
-.	SENT
+Présentation	NOM	O
+du	PRP:det	O
+passage	NOM	O
+qui	PRO:REL	O
+montre	VER:pres	O
+Pierre	NAM	O
+et	KON	O
+Simon	NAM	O
+s'	PRO:PER	O
+affrontant	VER:ppre	O
+en	PRP	O
+présence	NOM	O
+de	PRP	O
+Néron	NAM	O
+(	PUN	O
+10	NUM	O
+,	PUN	O
+30-40	NUM	O
+)	PUN	O
+:	PUN	O
+caractéristiques	NOM	O
+littéraires	ADJ	O
+;	PUN	O
+distorsions	NOM	O
+et	KON	O
+incongruités	NOM	O
+historiques	ADJ	O
+.	SENT	O
 
-Si	KON
-ce	PRO:DEM
-récit	NOM
-s'	PRO:PER
-écarte	VER:pres
-absolument	ADV
-du	PRP:det
-roman	NOM
-pseudo-clémentin	ADJ
-,	PUN
-il	PRO:PER
-emprunte	VER:pres
-à	PRP
-d'	PRP
-autres	ADJ
-sources	NOM
-apocryphes	ADJ
-
+Si	KON	O
+ce	PRO:DEM	O
+récit	NOM	O
+s'	PRO:PER	O
+écarte	VER:pres	O
+absolument	ADV	O
+du	PRP:det	O
+roman	NOM	O
+pseudo-clémentin	ADJ	O
+,	PUN	O
+il	PRO:PER	O
+emprunte	VER:pres	O
+à	PRP	O
+d'	PRP	O
+autres	ADJ	O
+sources	NOM	O
+apocryphes	ADJ	O

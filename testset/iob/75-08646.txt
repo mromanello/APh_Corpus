@@ -1,41 +1,40 @@
-Travaux	NOM
-de	PRP
-la	DET:ART
-mission	NOM
-franco-yougoslave	ADJ
-,	PUN
-dans	PRP
-les	DET:ART
-quartiers	NOM
-d'	PRP
-habitation	NOM
-et	KON
-le	DET:ART
-rempart	NOM
-de	PRP
-la	DET:ART
-ville	NOM
-basse	ADJ
-(	PUN
-6e-7e	VER:pres
-s.	VER:pper
-)	PUN
-.	SENT
+Travaux	NOM	O
+de	PRP	O
+la	DET:ART	O
+mission	NOM	O
+franco-yougoslave	ADJ	O
+,	PUN	O
+dans	PRP	O
+les	DET:ART	O
+quartiers	NOM	O
+d'	PRP	O
+habitation	NOM	O
+et	KON	O
+le	DET:ART	O
+rempart	NOM	O
+de	PRP	O
+la	DET:ART	O
+ville	NOM	O
+basse	ADJ	O
+(	PUN	O
+6e-7e	VER:pres	O
+s.	VER:pper	O
+)	PUN	O
+.	SENT	O
 
-À	PRP
-noter	VER:infi
-,	PUN
-parmi	PRP
-l'	DET:ART
-outillage	NOM
-et	KON
-les	DET:ART
-armes	NOM
-retrouvés	VER:pper
-,	PUN
-un	DET:ART
-étrier	NOM
-et	KON
-un	DET:ART
-casque	NOM
-
+À	PRP	O
+noter	VER:infi	O
+,	PUN	O
+parmi	PRP	O
+l'	DET:ART	O
+outillage	NOM	O
+et	KON	O
+les	DET:ART	O
+armes	NOM	O
+retrouvés	VER:pper	O
+,	PUN	O
+un	DET:ART	O
+étrier	NOM	O
+et	KON	O
+un	DET:ART	O
+casque	NOM	O

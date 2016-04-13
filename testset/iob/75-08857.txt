@@ -1,3 +1,2 @@
-Approche	NOM
-typologique	ADJ
-
+Approche	NOM	O
+typologique	ADJ	O

@@ -1,151 +1,150 @@
-On	IN
-political	JJ
-developments	NNS
-on	IN
-Crete	NP
-in	IN
-the	DT
-Final	JJ
-and	CC
-Postpalatial	JJ
-periods	NNS
-(	(
-the	DT
-ceramic	JJ
-phases	NNS
-LM	NP
-II	NP
-to	TO
-IIIB	NP
-)	)
-seen	VBN
-through	IN
-the	DT
-lens	NN
-of	IN
-high-status	NN
-mortuary	NN
-practices	NNS
-.	SENT
+On	IN	O
+political	JJ	O
+developments	NNS	O
+on	IN	O
+Crete	NP	O
+in	IN	O
+the	DT	O
+Final	JJ	O
+and	CC	O
+Postpalatial	JJ	O
+periods	NNS	O
+(	(	O
+the	DT	O
+ceramic	JJ	O
+phases	NNS	O
+LM	NP	O
+II	NP	O
+to	TO	O
+IIIB	NP	O
+)	)	O
+seen	VBN	O
+through	IN	O
+the	DT	O
+lens	NN	O
+of	IN	O
+high-status	NN	O
+mortuary	NN	O
+practices	NNS	O
+.	SENT	O
 
-Patterns	NNS
-in	IN
-tomb	NN
-architecture	NN
-,	,
-burial	NN
-assemblages	NNS
-,	,
-and	CC
-cemetery	NN
-distributions	NNS
-provide	VBP
-insights	NNS
-into	IN
-changes	NNS
-in	IN
-elite	JJ
-ideologies	NNS
-and	CC
-political	JJ
-geography	NN
-.	SENT
+Patterns	NNS	O
+in	IN	O
+tomb	NN	O
+architecture	NN	O
+,	,	O
+burial	NN	O
+assemblages	NNS	O
+,	,	O
+and	CC	O
+cemetery	NN	O
+distributions	NNS	O
+provide	VBP	O
+insights	NNS	O
+into	IN	O
+changes	NNS	O
+in	IN	O
+elite	JJ	O
+ideologies	NNS	O
+and	CC	O
+political	JJ	O
+geography	NN	O
+.	SENT	O
 
-At	IN
-the	DT
-start	NN
-of	IN
-the	DT
-Final	JJ
-Palatial	NP
-period	NN
-,	,
-new	JJ
-burial	NN
-customs	NNS
-were	VBD
-introduced	VBN
-in	IN
-Knossos	NP
-that	WDT
-functioned	VBD
-as	IN
-a	DT
-medium	NN
-for	IN
-status	NN
-competition	NN
-.	SENT
+At	IN	O
+the	DT	O
+start	NN	O
+of	IN	O
+the	DT	O
+Final	JJ	O
+Palatial	NP	O
+period	NN	O
+,	,	O
+new	JJ	O
+burial	NN	O
+customs	NNS	O
+were	VBD	O
+introduced	VBN	O
+in	IN	O
+Knossos	NP	O
+that	WDT	O
+functioned	VBD	O
+as	IN	O
+a	DT	O
+medium	NN	O
+for	IN	O
+status	NN	O
+competition	NN	O
+.	SENT	O
 
-Changes	NNS
-in	IN
-the	DT
-later	RBR
-Final	JJ
-Palatial	NP
-period	NN
-suggest	VBP
-a	DT
-standardization	NN
-in	IN
-mortuary	JJ
-self-representation	NN
-.	SENT
+Changes	NNS	O
+in	IN	O
+the	DT	O
+later	RBR	O
+Final	JJ	O
+Palatial	NP	O
+period	NN	O
+suggest	VBP	O
+a	DT	O
+standardization	NN	O
+in	IN	O
+mortuary	JJ	O
+self-representation	NN	O
+.	SENT	O
 
-Beyond	IN
-Knossos	NP
-,	,
-similar	JJ
-tomb	NN
-practices	NNS
-began	VBD
-to	TO
-occur	VB
-,	,
-but	CC
-an	DT
-increase	NN
-in	IN
-mortuary	JJ
-display	NN
-in	IN
-the	DT
-early	JJ
-Postpalatial	NP
-phase	NN
-indicates	VBZ
-resurgent	JJ
-regional	JJ
-elites	NNS
-seizing	VBG
-the	DT
-political	JJ
-opportunities	NNS
-attendant	JJ
-upon	IN
-Knossos	NP
-'s	POS
-collapse	NN
-.	SENT
+Beyond	IN	O
+Knossos	NP	O
+,	,	O
+similar	JJ	O
+tomb	NN	O
+practices	NNS	O
+began	VBD	O
+to	TO	O
+occur	VB	O
+,	,	O
+but	CC	O
+an	DT	O
+increase	NN	O
+in	IN	O
+mortuary	JJ	O
+display	NN	O
+in	IN	O
+the	DT	O
+early	JJ	O
+Postpalatial	NP	O
+phase	NN	O
+indicates	VBZ	O
+resurgent	JJ	O
+regional	JJ	O
+elites	NNS	O
+seizing	VBG	O
+the	DT	O
+political	JJ	O
+opportunities	NNS	O
+attendant	JJ	O
+upon	IN	O
+Knossos	NP	O
+'s	POS	O
+collapse	NN	O
+.	SENT	O
 
-The	DT
-Postpalatial	NP
-phase	NN
-also	RB
-sees	VBZ
-a	DT
-shift	NN
-in	IN
-focus	NN
-of	IN
-mortuary	JJ
-ostentation	NN
-toward	IN
-the	DT
-far	RB
-west	JJ
-of	IN
-the	DT
-island	NN
-.	SENT
-
+The	DT	O
+Postpalatial	NP	O
+phase	NN	O
+also	RB	O
+sees	VBZ	O
+a	DT	O
+shift	NN	O
+in	IN	O
+focus	NN	O
+of	IN	O
+mortuary	JJ	O
+ostentation	NN	O
+toward	IN	O
+the	DT	O
+far	RB	O
+west	JJ	O
+of	IN	O
+the	DT	O
+island	NN	O
+.	SENT	O

@@ -1,70 +1,69 @@
-Se	SE
-estudia	VLfin
-en	PREP
-la	ART
-párodo	NC
-del	PDEL
-«	SYM
-Agamenón	NC
-»	SYM
-de	CSUBI
-Esquilo	VLinf
-el	ART
-tema	NC
-de	PREP
-lo	ART
-real	ADJ
-como	CSUBX
-contradicción	NC
-.	FS
+Se	SE	O
+estudia	VLfin	O
+en	PREP	O
+la	ART	O
+párodo	NC	O
+del	PDEL	O
+«	SYM	B-AWORK
+Agamenón	NC	I-AWORK
+»	SYM	I-AWORK
+de	CSUBI	O
+Esquilo	VLinf	B-AAUTHOR
+el	ART	O
+tema	NC	O
+de	PREP	O
+lo	ART	O
+real	ADJ	O
+como	CSUBX	O
+contradicción	NC	O
+.	FS	O
 
-La	ART
-realidad	NC
-en	PREP
-la	ART
-tragedia	NC
-se	SE
-revela	VLfin
-,	CM
-en	PREP
-distintos	QU
-momentos	NC
-,	CM
-como	CSUBX
-contradictoria	ADJ
-.	FS
+La	ART	O
+realidad	NC	O
+en	PREP	O
+la	ART	O
+tragedia	NC	O
+se	SE	O
+revela	VLfin	O
+,	CM	O
+en	PREP	O
+distintos	QU	O
+momentos	NC	O
+,	CM	O
+como	CSUBX	O
+contradictoria	ADJ	O
+.	FS	O
 
-Se	SE
-subraya	VLfin
-en	PREP
-este	DM
-mismo	ADJ
-sentido	NC
-el	ART
-uso	NC
-de	PREP
-oposiciones	NC
-binarias	ADJ
-y	CC
-de	PREP
-un	ART
-discurso	NC
-ambiguo	ADJ
-.	FS
+Se	SE	O
+subraya	VLfin	O
+en	PREP	O
+este	DM	O
+mismo	ADJ	O
+sentido	NC	O
+el	ART	O
+uso	NC	O
+de	PREP	O
+oposiciones	NC	O
+binarias	ADJ	O
+y	CC	O
+de	PREP	O
+un	ART	O
+discurso	NC	O
+ambiguo	ADJ	O
+.	FS	O
 
-Se	SE
-analiza	VLfin
-,	CM
-por	PREP
-otro	QU
-lado	NC
-,	CM
-un	ART
-problema	NC
-textual	ADJ
-en	PREP
-los	ART
-v.	NC
-214-217	CODE
-.	FS
-
+Se	SE	O
+analiza	VLfin	O
+,	CM	O
+por	PREP	O
+otro	QU	O
+lado	NC	O
+,	CM	O
+un	ART	O
+problema	NC	O
+textual	ADJ	O
+en	PREP	O
+los	ART	O
+v.	NC	O
+214-217	CODE	B-REFSCOPE
+.	FS	I-REFSCOPE

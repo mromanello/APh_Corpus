@@ -1,100 +1,99 @@
-Wie	KOUS
-seine	PPOSAT
-Vorgänger	NN
-verfolgt	VVFIN
-auch	ADV
-Ammianus	NN
-die	ART
-didaktische	ADJA
-Absicht	NN
-,	$,
-am	APPRART
-berichteten	ADJA
-Geschehen	NN
-das	ART
-Beispielhafte	NN
-im	APPRART
-doppelten	ADJA
-Sinne	NN
-zu	PTKZU
-zeigen	VVINF
-:	$.
-es	PPER
-lässt	VVFIN
-einerseits	ADV
-Strukturen	NN
-des	ART
-Faktischen	NN
-erkennen	VVINF
-,	$,
-andererseits	ADV
-stellt	VVFIN
-es	PPER
-Muster	NN
-auf	APPR
-für	APPR
-das	PDS
-,	$,
-was	PWS
-nachzuahmen	VVIZU
-oder	KON
-zu	PTKZU
-vermeiden	VVINF
-ist	VAFIN
-.	$.
+Wie	KOUS	O
+seine	PPOSAT	O
+Vorgänger	NN	O
+verfolgt	VVFIN	O
+auch	ADV	O
+Ammianus	NN	O
+die	ART	O
+didaktische	ADJA	O
+Absicht	NN	O
+,	$,	O
+am	APPRART	O
+berichteten	ADJA	O
+Geschehen	NN	O
+das	ART	O
+Beispielhafte	NN	O
+im	APPRART	O
+doppelten	ADJA	O
+Sinne	NN	O
+zu	PTKZU	O
+zeigen	VVINF	O
+:	$.	O
+es	PPER	O
+lässt	VVFIN	O
+einerseits	ADV	O
+Strukturen	NN	O
+des	ART	O
+Faktischen	NN	O
+erkennen	VVINF	O
+,	$,	O
+andererseits	ADV	O
+stellt	VVFIN	O
+es	PPER	O
+Muster	NN	O
+auf	APPR	O
+für	APPR	O
+das	PDS	O
+,	$,	O
+was	PWS	O
+nachzuahmen	VVIZU	O
+oder	KON	O
+zu	PTKZU	O
+vermeiden	VVINF	O
+ist	VAFIN	O
+.	$.	O
 
-Ammians	NE
-historische	ADJA
-Weltsicht	NN
-ist	VAFIN
-ein	ART
-stoischer	ADJA
-Schicksalsglaube	NN
-;	$.
-seine	PPOSAT
-Ethik	NN
-ist	VAFIN
-der	ART
-traditionellen	ADJA
-Humanität	NN
-verpflichtet	VVPP
-,	$,
-wobei	PWAV
-er	PPER
-trotz	APPR
-seiner	PPOSAT
-kritischen	ADJA
-Grundhaltung	NN
-um	APPR
-die	ART
-Probleme	NN
-der	ART
-Männer	NN
-an	APPR
-der	ART
-Spitze	NN
-weiss	VVFIN
-.	$.
+Ammians	NE	B-AAUTHOR
+historische	ADJA	O
+Weltsicht	NN	O
+ist	VAFIN	O
+ein	ART	O
+stoischer	ADJA	O
+Schicksalsglaube	NN	O
+;	$.	O
+seine	PPOSAT	O
+Ethik	NN	O
+ist	VAFIN	O
+der	ART	O
+traditionellen	ADJA	O
+Humanität	NN	O
+verpflichtet	VVPP	O
+,	$,	O
+wobei	PWAV	O
+er	PPER	O
+trotz	APPR	O
+seiner	PPOSAT	O
+kritischen	ADJA	O
+Grundhaltung	NN	O
+um	APPR	O
+die	ART	O
+Probleme	NN	O
+der	ART	O
+Männer	NN	O
+an	APPR	O
+der	ART	O
+Spitze	NN	O
+weiss	VVFIN	O
+.	$.	O
 
-Die	ART
-Bemerkungen	NN
-zur	APPRART
-Lebensweisheit	NN
-betreffen	VVFIN
-häufig	ADJD
-die	ART
-Bedingungen	NN
-erfolgreichen	ADJA
-Handelns	NN
-;	$.
-die	ART
-Kenntnis	NN
-der	ART
-Vergangenheit	NN
-lehrt	VVFIN
-ihn	PPER
-Vertrauen	NN
-auf	APPR
-die	ART
-Zukunft	NN
-
+Die	ART	O
+Bemerkungen	NN	O
+zur	APPRART	O
+Lebensweisheit	NN	O
+betreffen	VVFIN	O
+häufig	ADJD	O
+die	ART	O
+Bedingungen	NN	O
+erfolgreichen	ADJA	O
+Handelns	NN	O
+;	$.	O
+die	ART	O
+Kenntnis	NN	O
+der	ART	O
+Vergangenheit	NN	O
+lehrt	VVFIN	O
+ihn	PPER	O
+Vertrauen	NN	O
+auf	APPR	O
+die	ART	O
+Zukunft	NN	O

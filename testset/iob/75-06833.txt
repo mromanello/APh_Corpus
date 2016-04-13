@@ -1,25 +1,24 @@
-Se	SE
-estudia	VLfin
-el	ART
-papel	NC
-de	PREP
-las	ART
-madres	NC
-en	PREP
-la	ART
-tragedia	NC
-,	CM
-entendida	VLadj
-ésta	DM
-como	ADV
-forma	NC
-de	PREP
-expresión	NC
-de	PREP
-la	ART
-ideología	NC
-de	PREP
-la	ART
-ciudad	NC
-.	FS
-
+Se	SE	O
+estudia	VLfin	O
+el	ART	O
+papel	NC	O
+de	PREP	O
+las	ART	O
+madres	NC	O
+en	PREP	O
+la	ART	O
+tragedia	NC	O
+,	CM	O
+entendida	VLadj	O
+ésta	DM	O
+como	ADV	O
+forma	NC	O
+de	PREP	O
+expresión	NC	O
+de	PREP	O
+la	ART	O
+ideología	NC	O
+de	PREP	O
+la	ART	O
+ciudad	NC	O
+.	FS	O

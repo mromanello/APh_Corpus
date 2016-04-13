@@ -1,82 +1,81 @@
-Lecture	NOM
-critique	ADJ
-du	PRP:det
-témoignage	NOM
-d'	PRP
-Ammien	NAM
-Marcellin	NAM
-sur	PRP
-le	DET:ART
-conflit	NOM
-entre	PRP
-les	DET:ART
-citoyens	NOM
-de	PRP
-Lepcis	NAM
-Magna	NAM
-et	KON
-le	DET:ART
-«	PUN:cit
-comes	NOM
-rei	ADJ
-militaris	NOM
-per	VER:subi
-Africam	NAM
-»	PUN:cit
-Romanus	NAM
-(	PUN
-RG	NAM
-28	NUM
-,	PUN
-6	NUM
-,	PUN
-1-29	NUM
-;	PUN
-27	NUM
-,	PUN
-9	NUM
-,	PUN
-1-4	NUM
-;	PUN
-30	NUM
-,	PUN
-2	NUM
-,	PUN
-9-12	NUM
-)	PUN
-.	SENT
+Lecture	NOM	O
+critique	ADJ	O
+du	PRP:det	O
+témoignage	NOM	O
+d'	PRP	O
+Ammien	NAM	B-AAUTHOR
+Marcellin	NAM	I-AAUTHOR
+sur	PRP	O
+le	DET:ART	O
+conflit	NOM	O
+entre	PRP	O
+les	DET:ART	O
+citoyens	NOM	O
+de	PRP	O
+Lepcis	NAM	O
+Magna	NAM	O
+et	KON	O
+le	DET:ART	O
+«	PUN:cit	O
+comes	NOM	O
+rei	ADJ	O
+militaris	NOM	O
+per	VER:subi	O
+Africam	NAM	O
+»	PUN:cit	O
+Romanus	NAM	O
+(	PUN	B-REFAUWORK
+RG	NAM	I-REFAUWORK
+28	NUM	B-REFSCOPE
+,	PUN	I-REFSCOPE
+6	NUM	I-REFSCOPE
+,	PUN	I-REFSCOPE
+1-29	NUM	I-REFSCOPE
+;	PUN	I-REFSCOPE
+27	NUM	B-REFSCOPE
+,	PUN	I-REFSCOPE
+9	NUM	I-REFSCOPE
+,	PUN	I-REFSCOPE
+1-4	NUM	I-REFSCOPE
+;	PUN	I-REFSCOPE
+30	NUM	B-REFSCOPE
+,	PUN	I-REFSCOPE
+2	NUM	I-REFSCOPE
+,	PUN	I-REFSCOPE
+9-12	NUM	I-REFSCOPE
+)	PUN	I-REFSCOPE
+.	SENT	I-REFSCOPE
 
-L'	DET:ART
-épisode	NOM
-révèle	VER:pres
-en	PRP
-fait	NOM
-les	DET:ART
-oppositions	NOM
-factionnelles	ADJ
-qui	PRO:REL
-régnaient	VER:impf
-à	PRP
-la	DET:ART
-cour	NOM
-.	SENT
+L'	DET:ART	O
+épisode	NOM	O
+révèle	VER:pres	O
+en	PRP	O
+fait	NOM	O
+les	DET:ART	O
+oppositions	NOM	O
+factionnelles	ADJ	O
+qui	PRO:REL	O
+régnaient	VER:impf	O
+à	PRP	O
+la	DET:ART	O
+cour	NOM	O
+.	SENT	O
 
-Ammien	NOM
-ne	ADV
-saurait	VER:cond
-dissimuler	VER:infi
-,	PUN
-d'	PRP
-autre	ADJ
-part	NOM
-,	PUN
-que	KON
-Romanus	NAM
-était	VER:impf
-innocent	ADJ
-de	PRP
-l'	DET:ART
-usurpation	NOM
-de	PRP
-Firmus	NAM
-
+Ammien	NOM	O
+ne	ADV	O
+saurait	VER:cond	O
+dissimuler	VER:infi	O
+,	PUN	O
+d'	PRP	O
+autre	ADJ	O
+part	NOM	O
+,	PUN	O
+que	KON	O
+Romanus	NAM	O
+était	VER:impf	O
+innocent	ADJ	O
+de	PRP	O
+l'	DET:ART	O
+usurpation	NOM	O
+de	PRP	O
+Firmus	NAM	O

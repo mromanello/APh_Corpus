@@ -1,118 +1,117 @@
-Analyse	VER:pres
-l'	DET:ART
-écart	NOM
-qui	PRO:REL
-sépare	VER:pres
-les	DET:ART
-récits	NOM
-de	PRP
-Tite-Live	NAM
-(	PUN
-1	NUM
-,	PUN
-39-48	NUM
-;	PUN
-1	NUM
-,	PUN
-49-60	NUM
-)	PUN
-et	KON
-de	PRP
-Denys	NAM
-(	PUN
-AR	ABR
-4	NUM
-,	PUN
-1-40	NUM
-;	PUN
-4	NUM
-,	PUN
-41-85	NUM
-)	PUN
-.	SENT
+Analyse	VER:pres	O
+l'	DET:ART	O
+écart	NOM	O
+qui	PRO:REL	O
+sépare	VER:pres	O
+les	DET:ART	O
+récits	NOM	O
+de	PRP	O
+Tite-Live	NAM	B-AAUTHOR
+(	PUN	B-REFSCOPE
+1	NUM	I-REFSCOPE
+,	PUN	I-REFSCOPE
+39-48	NUM	I-REFSCOPE
+;	PUN	I-REFSCOPE
+1	NUM	B-REFSCOPE
+,	PUN	I-REFSCOPE
+49-60	NUM	I-REFSCOPE
+)	PUN	I-REFSCOPE
+et	KON	O
+de	PRP	O
+Denys	NAM	B-AAUTHOR
+(	PUN	B-REFAUWORK
+AR	ABR	I-REFAUWORK
+4	NUM	B-REFSCOPE
+,	PUN	I-REFSCOPE
+1-40	NUM	I-REFSCOPE
+;	PUN	I-REFSCOPE
+4	NUM	B-REFSCOPE
+,	PUN	I-REFSCOPE
+41-85	NUM	I-REFSCOPE
+)	PUN	I-REFSCOPE
+.	SENT	I-REFSCOPE
 
-Chez	PRP
-Tite-Live	NAM
-,	PUN
-les	DET:ART
-deux	NUM
-derniers	ADJ
-règnes	NOM
-sont	VER:pres
-confondus	VER:pper
-dans	PRP
-une	DET:ART
-même	ADJ
-vision	NOM
-tragique	ADJ
-qui	PRO:REL
-ménage	VER:pres
-une	DET:ART
-grande	ADJ
-place	NOM
-au	PRP:det
-divin	NOM
-dans	PRP
-la	DET:ART
-succession	NOM
-des	PRP:det
-événements	NOM
-historiques	ADJ
-.	SENT
+Chez	PRP	O
+Tite-Live	NAM	B-AAUTHOR
+,	PUN	O
+les	DET:ART	O
+deux	NUM	O
+derniers	ADJ	O
+règnes	NOM	O
+sont	VER:pres	O
+confondus	VER:pper	O
+dans	PRP	O
+une	DET:ART	O
+même	ADJ	O
+vision	NOM	O
+tragique	ADJ	O
+qui	PRO:REL	O
+ménage	VER:pres	O
+une	DET:ART	O
+grande	ADJ	O
+place	NOM	O
+au	PRP:det	O
+divin	NOM	O
+dans	PRP	O
+la	DET:ART	O
+succession	NOM	O
+des	PRP:det	O
+événements	NOM	O
+historiques	ADJ	O
+.	SENT	O
 
-Chez	PRP
-Denys	NAM
-,	PUN
-au	PRP:det
-contraire	NOM
-,	PUN
-ils	PRO:PER
-sont	VER:pres
-délibérément	ADV
-individualisés	VER:pper
-au	PRP:det
-plan	NOM
-politique	ADJ
-et	KON
-conçus	ADJ
-comme	KON
-antithèse	NOM
-l'	DET:ART
-un	NOM
-de	PRP
-l'	DET:ART
-autre	ADJ
-.	SENT
+Chez	PRP	O
+Denys	NAM	B-AAUTHOR
+,	PUN	O
+au	PRP:det	O
+contraire	NOM	O
+,	PUN	O
+ils	PRO:PER	O
+sont	VER:pres	O
+délibérément	ADV	O
+individualisés	VER:pper	O
+au	PRP:det	O
+plan	NOM	O
+politique	ADJ	O
+et	KON	O
+conçus	ADJ	O
+comme	KON	O
+antithèse	NOM	O
+l'	DET:ART	O
+un	NOM	O
+de	PRP	O
+l'	DET:ART	O
+autre	ADJ	O
+.	SENT	O
 
-Examen	NOM
-précis	ADJ
-de	PRP
-trois	NUM
-points	NOM
-:	PUN
-le	DET:ART
-problème	NOM
-de	PRP
-la	DET:ART
-légitimité	NOM
-de	PRP
-Servius	NAM
-Tullius	NAM
-,	PUN
-l'	DET:ART
-assassinat	NOM
-de	PRP
-ce	PRO:DEM
-roi	NOM
-par	PRP
-Tarquin	NAM
-,	PUN
-et	KON
-enfin	ADV
-la	DET:ART
-figure	NOM
-de	PRP
-Tarquin	NAM
-le	DET:ART
-Superbe	NAM
-
+Examen	NOM	O
+précis	ADJ	O
+de	PRP	O
+trois	NUM	O
+points	NOM	O
+:	PUN	O
+le	DET:ART	O
+problème	NOM	O
+de	PRP	O
+la	DET:ART	O
+légitimité	NOM	O
+de	PRP	O
+Servius	NAM	O
+Tullius	NAM	O
+,	PUN	O
+l'	DET:ART	O
+assassinat	NOM	O
+de	PRP	O
+ce	PRO:DEM	O
+roi	NOM	O
+par	PRP	O
+Tarquin	NAM	O
+,	PUN	O
+et	KON	O
+enfin	ADV	O
+la	DET:ART	O
+figure	NOM	O
+de	PRP	O
+Tarquin	NAM	O
+le	DET:ART	O
+Superbe	NAM	O

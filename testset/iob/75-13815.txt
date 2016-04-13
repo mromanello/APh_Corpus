@@ -1,66 +1,65 @@
-Étude	NOM
-du	PRP:det
-concept	NOM
-de	PRP
-«	PUN:cit
-uia	NOM
-militaris	NOM
-»	PUN:cit
-d'	PRP
-après	PRP
-les	DET:ART
-sources	NOM
-littéraires	ADJ
-et	KON
-les	DET:ART
-inscriptions	NOM
-.	SENT
+Étude	NOM	O
+du	PRP:det	O
+concept	NOM	O
+de	PRP	O
+«	PUN:cit	O
+uia	NOM	O
+militaris	NOM	O
+»	PUN:cit	O
+d'	PRP	O
+après	PRP	O
+les	DET:ART	O
+sources	NOM	O
+littéraires	ADJ	O
+et	KON	O
+les	DET:ART	O
+inscriptions	NOM	O
+.	SENT	O
 
-Ce	PRO:DEM
-nom	NOM
-ne	ADV
-désigne	VER:pres
-pas	ADV
-de	PRP
-façon	NOM
-restrictive	ADJ
-des	PRP:det
-routes	NOM
-réservées	VER:pper
-aux	PRP:det
-déplacements	NOM
-de	PRP
-l'	DET:ART
-armée	NOM
-,	PUN
-mais	KON
-des	PRP:det
-voies	NOM
-d'	PRP
-intérêt	NOM
-général	ADJ
-fréquentées	VER:pper
-notamment	ADV
-par	PRP
-les	DET:ART
-«	PUN:cit
-militantes	ADJ
-»	PUN:cit
-,	PUN
-des	PRP:det
-chargés	VER:pper
-de	PRP
-missions	NOM
-au	PRP:det
-service	NOM
-de	PRP
-l'	DET:ART
-État	NAM
-organisant	VER:ppre
-l'	DET:ART
-infrastructure	NOM
-logistique	NOM
-de	PRP
-l'	DET:ART
-armée	NOM
-
+Ce	PRO:DEM	O
+nom	NOM	O
+ne	ADV	O
+désigne	VER:pres	O
+pas	ADV	O
+de	PRP	O
+façon	NOM	O
+restrictive	ADJ	O
+des	PRP:det	O
+routes	NOM	O
+réservées	VER:pper	O
+aux	PRP:det	O
+déplacements	NOM	O
+de	PRP	O
+l'	DET:ART	O
+armée	NOM	O
+,	PUN	O
+mais	KON	O
+des	PRP:det	O
+voies	NOM	O
+d'	PRP	O
+intérêt	NOM	O
+général	ADJ	O
+fréquentées	VER:pper	O
+notamment	ADV	O
+par	PRP	O
+les	DET:ART	O
+«	PUN:cit	O
+militantes	ADJ	O
+»	PUN:cit	O
+,	PUN	O
+des	PRP:det	O
+chargés	VER:pper	O
+de	PRP	O
+missions	NOM	O
+au	PRP:det	O
+service	NOM	O
+de	PRP	O
+l'	DET:ART	O
+État	NAM	O
+organisant	VER:ppre	O
+l'	DET:ART	O
+infrastructure	NOM	O
+logistique	NOM	O
+de	PRP	O
+l'	DET:ART	O
+armée	NOM	O

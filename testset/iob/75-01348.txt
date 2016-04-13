@@ -1,24 +1,23 @@
-Testo	NOM
-e	CON
-traduzione	NOM
-dei	PRE:det
-paragrafi	NOM
-28-30	NUM
-,	PON
-con	PRE
-osservazioni	NOM
-sulla	PRE:det
-distinzione	NOM
-tra	PRE
-«	PON
-partitio	NOM
-»	PON
-e	CON
-«	PON
-diuisio	ADJ
-»	PON
-applicata	VER:pper
-al	PRE:det
-diritto	NOM
-civile	ADJ
-
+Testo	NOM	O
+e	CON	O
+traduzione	NOM	O
+dei	PRE:det	O
+paragrafi	NOM	O
+28-30	NUM	O
+,	PON	O
+con	PRE	O
+osservazioni	NOM	O
+sulla	PRE:det	O
+distinzione	NOM	O
+tra	PRE	O
+«	PON	O
+partitio	NOM	O
+»	PON	O
+e	CON	O
+«	PON	O
+diuisio	ADJ	O
+»	PON	O
+applicata	VER:pper	O
+al	PRE:det	O
+diritto	NOM	O
+civile	ADJ	O

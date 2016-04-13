@@ -1,110 +1,109 @@
-Si	PRO:pers
-congettura	VER:pres
-«	PON
-candentior	ADJ
-»	PON
-in	PRE
-luogo	NOM
-di	PRE
-«	PON
-patentior	ADJ
-»	PON
-in	PRE
-Prop.	ABR
-1	NUM
-,	PON
-16	NUM
-,	PON
-29	NUM
-e	CON
-si	PRO:refl
-propone	VER:pres
-di	PRE
-leggere	VER:infi
-a	PRE
-1	NUM
-,	PON
-16	NUM
-,	PON
-38	NUM
-«	PON
-quae	ADJ
-solet	NOM
-ingrato	ADJ
-dicere	NOM
-iura	VER:pres
-foro	NOM
-»	PON
-,	PON
-facendo	VER:geru
-così	ADV
-del	PRE:det
-protagonista	NOM
-«	PON
-exclusus	NOM
-amator	NOM
-»	PON
-un	DET:indef
-giudice	NOM
-e	CON
-scartandone	VER:geru
-perciò	ADV
-l'	DET:def
-identificazione	NOM
-con	PRE
-Properzio	NOM
-stesso	ADJ
-.	SENT
+Si	PRO:pers	O
+congettura	VER:pres	O
+«	PON	O
+candentior	ADJ	O
+»	PON	O
+in	PRE	O
+luogo	NOM	O
+di	PRE	O
+«	PON	O
+patentior	ADJ	O
+»	PON	O
+in	PRE	O
+Prop.	ABR	B-REFAUWORK
+1	NUM	B-REFSCOPE
+,	PON	I-REFSCOPE
+16	NUM	I-REFSCOPE
+,	PON	I-REFSCOPE
+29	NUM	I-REFSCOPE
+e	CON	O
+si	PRO:refl	O
+propone	VER:pres	O
+di	PRE	O
+leggere	VER:infi	O
+a	PRE	O
+1	NUM	B-REFSCOPE
+,	PON	I-REFSCOPE
+16	NUM	I-REFSCOPE
+,	PON	I-REFSCOPE
+38	NUM	I-REFSCOPE
+«	PON	O
+quae	ADJ	O
+solet	NOM	O
+ingrato	ADJ	O
+dicere	NOM	O
+iura	VER:pres	O
+foro	NOM	O
+»	PON	O
+,	PON	O
+facendo	VER:geru	O
+così	ADV	O
+del	PRE:det	O
+protagonista	NOM	O
+«	PON	O
+exclusus	NOM	O
+amator	NOM	O
+»	PON	O
+un	DET:indef	O
+giudice	NOM	O
+e	CON	O
+scartandone	VER:geru	O
+perciò	ADV	O
+l'	DET:def	O
+identificazione	NOM	O
+con	PRE	O
+Properzio	NOM	O
+stesso	ADJ	O
+.	SENT	O
 
-A	PRE
-4	NUM
-,	PON
-3	NUM
-,	PON
-47-48	NUM
-si	PRO:pers
-riconosce	VER:pres
-un'	DET:indef
-allusione	NOM
-al	PRE:det
-Ponto	NOM
-Eusino	NOM
-,	PON
-intendendo	VER:geru
-«	PON
-pater	NOM
-»	PON
-come	PRE
-corruzione	NOM
-di	PRE
-«	PON
-fretus	NOM
-»	PON
-e	CON
-«	PON
-africus	NOM
-»	PON
-di	PRE
-«	PON
-adstricto	VER:infi
-»	PON
-.	SENT
+A	PRE	O
+4	NUM	B-REFSCOPE
+,	PON	I-REFSCOPE
+3	NUM	I-REFSCOPE
+,	PON	I-REFSCOPE
+47-48	NUM	I-REFSCOPE
+si	PRO:pers	O
+riconosce	VER:pres	O
+un'	DET:indef	O
+allusione	NOM	O
+al	PRE:det	O
+Ponto	NOM	O
+Eusino	NOM	O
+,	PON	O
+intendendo	VER:geru	O
+«	PON	O
+pater	NOM	O
+»	PON	O
+come	PRE	O
+corruzione	NOM	O
+di	PRE	O
+«	PON	O
+fretus	NOM	O
+»	PON	O
+e	CON	O
+«	PON	O
+africus	NOM	O
+»	PON	O
+di	PRE	O
+«	PON	O
+adstricto	VER:infi	O
+»	PON	O
+.	SENT	O
 
-A	PRE
-4	NUM
-,	PON
-3	NUM
-,	PON
-51	NUM
-si	PRO:pers
-risolve	VER:pres
-la	DET:def
-crux	NOM
-«	PON
-te	PRO:pers
-»	PON
-leggendovi	VER:geru
-«	PON
-mea	NOM
-»	PON
-
+A	PRE	O
+4	NUM	B-REFSCOPE
+,	PON	I-REFSCOPE
+3	NUM	I-REFSCOPE
+,	PON	I-REFSCOPE
+51	NUM	I-REFSCOPE
+si	PRO:pers	O
+risolve	VER:pres	O
+la	DET:def	O
+crux	NOM	O
+«	PON	O
+te	PRO:pers	O
+»	PON	O
+leggendovi	VER:geru	O
+«	PON	O
+mea	NOM	O
+»	PON	O

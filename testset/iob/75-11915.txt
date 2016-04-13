@@ -1,54 +1,53 @@
-Consacrazione	NOM
-del	PRE:det
-sacello	NOM
-di	PRE
-Asclepio	NOM
-in	PRE
-Epidauro	NOM
-a	PRE
-santuario	NOM
-vero	ADJ
-e	CON
-proprio	ADJ
-(	PON
-6°	NOM
-s.	NOM
-a.	NOM
-C.	NPR
-)	PON
-e	CON
-diffusione	NOM
-del	PRE:det
-culto	NOM
-dell'	PRE:det
-eroe	NOM
-in	PRE
-Grecia	NPR
-(	PON
-specie	ADV
-ad	PRE
-Atene	NPR
-)	PON
-;	PON
-eroi	NOM
-patroni	NOM
-della	PRE:det
-salute	NOM
-in	PRE
-Beozia	NOM
-,	PON
-e	CON
-risvolti	NOM
-religiosi	ADJ
-e	CON
-politici	ADJ
-della	PRE:det
-rivalità	NOM
-tra	PRE
-i	DET:def
-vari	ADJ
-culti	NOM
-sul	PRE:det
-territorio	NOM
-greco	ADJ
-
+Consacrazione	NOM	O
+del	PRE:det	O
+sacello	NOM	O
+di	PRE	O
+Asclepio	NOM	O
+in	PRE	O
+Epidauro	NOM	O
+a	PRE	O
+santuario	NOM	O
+vero	ADJ	O
+e	CON	O
+proprio	ADJ	O
+(	PON	O
+6°	NOM	O
+s.	NOM	O
+a.	NOM	O
+C.	NPR	O
+)	PON	O
+e	CON	O
+diffusione	NOM	O
+del	PRE:det	O
+culto	NOM	O
+dell'	PRE:det	O
+eroe	NOM	O
+in	PRE	O
+Grecia	NPR	O
+(	PON	O
+specie	ADV	O
+ad	PRE	O
+Atene	NPR	O
+)	PON	O
+;	PON	O
+eroi	NOM	O
+patroni	NOM	O
+della	PRE:det	O
+salute	NOM	O
+in	PRE	O
+Beozia	NOM	O
+,	PON	O
+e	CON	O
+risvolti	NOM	O
+religiosi	ADJ	O
+e	CON	O
+politici	ADJ	O
+della	PRE:det	O
+rivalità	NOM	O
+tra	PRE	O
+i	DET:def	O
+vari	ADJ	O
+culti	NOM	O
+sul	PRE:det	O
+territorio	NOM	O
+greco	ADJ	O

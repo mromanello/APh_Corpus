@@ -14,7 +14,7 @@ import re
 import os
 import codecs
 from citation_extractor.Utils import IO
-from citation_extractor.process import read_ann_file
+from citation_extractor.pipeline import read_ann_file
 
 INPUT_ENCODING = "UTF-8"
 OUTPUT_ENCODING = "UTF-8"

@@ -1,104 +1,103 @@
-On	PRO:PER
-trouve	VER:pres
-dans	PRP
-la	DET:ART
-trilogie	NOM
-huit	NUM
-termes	NOM
-distincts	ADJ
-pour	PRP
-désigner	VER:infi
-le	DET:ART
-filet	NOM
-.	SENT
+On	PRO:PER	O
+trouve	VER:pres	O
+dans	PRP	O
+la	DET:ART	O
+trilogie	NOM	O
+huit	NUM	O
+termes	NOM	O
+distincts	ADJ	O
+pour	PRP	O
+désigner	VER:infi	O
+le	DET:ART	O
+filet	NOM	O
+.	SENT	O
 
-Il	PRO:PER
-s'	PRO:PER
-agit	VER:pres
-soit	KON
-d'	PRP
-abstractions	NOM
-(	PUN
-avec	PRP
-le	DET:ART
-sens	NOM
-de	PRP
-machination	NOM
-ou	KON
-de	PRP
-piège	NOM
-)	PUN
-,	PUN
-soit	KON
-de	PRP
-termes	NOM
-techniques	ADJ
-très	ADV
-souvent	ADV
-ambigus	ADJ
-,	PUN
-puisqu'ils	NOM
-nomment	VER:pres
-aussi	ADV
-des	PRP:det
-vêtements	NOM
-et	KON
-des	PRP:det
-accessoires	NOM
-funéraires	ADJ
-,	PUN
-empruntés	VER:pper
-au	PRP:det
-vocabulaire	NOM
-de	PRP
-la	DET:ART
-cynégétique	NOM
-,	PUN
-de	PRP
-l'	DET:ART
-halieutique	ADJ
-et	KON
-de	PRP
-l'	DET:ART
-incarcération	NOM
-.	SENT
+Il	PRO:PER	O
+s'	PRO:PER	O
+agit	VER:pres	O
+soit	KON	O
+d'	PRP	O
+abstractions	NOM	O
+(	PUN	O
+avec	PRP	O
+le	DET:ART	O
+sens	NOM	O
+de	PRP	O
+machination	NOM	O
+ou	KON	O
+de	PRP	O
+piège	NOM	O
+)	PUN	O
+,	PUN	O
+soit	KON	O
+de	PRP	O
+termes	NOM	O
+techniques	ADJ	O
+très	ADV	O
+souvent	ADV	O
+ambigus	ADJ	O
+,	PUN	O
+puisqu'ils	NOM	O
+nomment	VER:pres	O
+aussi	ADV	O
+des	PRP:det	O
+vêtements	NOM	O
+et	KON	O
+des	PRP:det	O
+accessoires	NOM	O
+funéraires	ADJ	O
+,	PUN	O
+empruntés	VER:pper	O
+au	PRP:det	O
+vocabulaire	NOM	O
+de	PRP	O
+la	DET:ART	O
+cynégétique	NOM	O
+,	PUN	O
+de	PRP	O
+l'	DET:ART	O
+halieutique	ADJ	O
+et	KON	O
+de	PRP	O
+l'	DET:ART	O
+incarcération	NOM	O
+.	SENT	O
 
-Chaque	PRO:IND
-personnage	NOM
-,	PUN
-dans	PRP
-des	PRP:det
-prémonitions	NOM
-et	KON
-des	PRP:det
-réminiscences	NOM
-,	PUN
-emploie	VER:pres
-des	PRP:det
-termes	NOM
-propres	ADJ
-,	PUN
-révélateurs	ADJ
-de	PRP
-ses	DET:POS
-affects	NOM
-,	PUN
-justifiant	VER:ppre
-ainsi	ADV
-l'	DET:ART
-exécution	NOM
-punitive	ADJ
-d'	PRP
-Agamemnon	NAM
-ou	KON
-condamnant	VER:ppre
-,	PUN
-au	PRP:det
-contraire	NOM
-,	PUN
-l'	DET:ART
-iniquité	NOM
-de	PRP
-ce	PRO:DEM
-meurtre	NOM
-
+Chaque	PRO:IND	O
+personnage	NOM	O
+,	PUN	O
+dans	PRP	O
+des	PRP:det	O
+prémonitions	NOM	O
+et	KON	O
+des	PRP:det	O
+réminiscences	NOM	O
+,	PUN	O
+emploie	VER:pres	O
+des	PRP:det	O
+termes	NOM	O
+propres	ADJ	O
+,	PUN	O
+révélateurs	ADJ	O
+de	PRP	O
+ses	DET:POS	O
+affects	NOM	O
+,	PUN	O
+justifiant	VER:ppre	O
+ainsi	ADV	O
+l'	DET:ART	O
+exécution	NOM	O
+punitive	ADJ	O
+d'	PRP	O
+Agamemnon	NAM	O
+ou	KON	O
+condamnant	VER:ppre	O
+,	PUN	O
+au	PRP:det	O
+contraire	NOM	O
+,	PUN	O
+l'	DET:ART	O
+iniquité	NOM	O
+de	PRP	O
+ce	PRO:DEM	O
+meurtre	NOM	O

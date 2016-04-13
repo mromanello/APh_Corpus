@@ -1,57 +1,56 @@
-Dépôt	NOM
-trouvé	VER:pper
-en	PRP
-1985.	DET:POS
+Dépôt	NOM	O
+trouvé	VER:pper	O
+en	PRP	O
+1985.	DET:POS	O
 
-Il	PRO:PER
-provient	VER:pres
-d'	PRP
-un	DET:ART
-quartier	NOM
-périurbain	ADJ
-de	PRP
-la	DET:ART
-ville	NOM
-antique	ADJ
-qui	PRO:REL
-se	PRO:PER
-développe	VER:pres
-à	PRP
-partir	VER:infi
-du	PRP:det
-milieu	NOM
-du	PRP:det
-1er	NUM
-s.	ABR
-apr.	ABR
-J.	ABR
--C	ADJ
-.	SENT
+Il	PRO:PER	O
+provient	VER:pres	O
+d'	PRP	O
+un	DET:ART	O
+quartier	NOM	O
+périurbain	ADJ	O
+de	PRP	O
+la	DET:ART	O
+ville	NOM	O
+antique	ADJ	O
+qui	PRO:REL	O
+se	PRO:PER	O
+développe	VER:pres	O
+à	PRP	O
+partir	VER:infi	O
+du	PRP:det	O
+milieu	NOM	O
+du	PRP:det	O
+1er	NUM	O
+s.	ABR	O
+apr.	ABR	O
+J.	ABR	O
+-C	ADJ	O
+.	SENT	O
 
-Ce	PRO:DEM
-sont	VER:pres
-des	PRP:det
-éléments	NOM
-de	PRP
-décoration	NOM
-architectonique	ADJ
-et	KON
-pariétale	ADJ
-,	PUN
-des	PRP:det
-pavements	NOM
-et	KON
-des	PRP:det
-revêtements	NOM
-de	PRP
-maçonneries	NOM
-extérieures	ADJ
-.	SENT
+Ce	PRO:DEM	O
+sont	VER:pres	O
+des	PRP:det	O
+éléments	NOM	O
+de	PRP	O
+décoration	NOM	O
+architectonique	ADJ	O
+et	KON	O
+pariétale	ADJ	O
+,	PUN	O
+des	PRP:det	O
+pavements	NOM	O
+et	KON	O
+des	PRP:det	O
+revêtements	NOM	O
+de	PRP	O
+maçonneries	NOM	O
+extérieures	ADJ	O
+.	SENT	O
 
-Étude	NOM
-de	PRP
-l'	DET:ART
-origine	NOM
-du	PRP:det
-marbre	NOM
-
+Étude	NOM	O
+de	PRP	O
+l'	DET:ART	O
+origine	NOM	O
+du	PRP:det	O
+marbre	NOM	O

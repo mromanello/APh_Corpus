@@ -1,25 +1,24 @@
-Traduction	NOM
-d'	PRP
-Élien	NAM
-,	PUN
-Histoire	NAM
-variée	VER:pper
-12	NUM
-,	PUN
-1	NUM
-:	PUN
-l'	DET:ART
-histoire	NOM
-d'	PRP
-Aspasie	NAM
-,	PUN
-maîtresse	NOM
-de	PRP
-Cyrus	NAM
-le	DET:ART
-Jeune	NAM
-et	KON
-favorite	ADJ
-d'	PRP
-Artaxerxes	NAM
-
+Traduction	NOM	O
+d'	PRP	O
+Élien	NAM	B-REFAUWORK
+,	PUN	I-REFAUWORK
+Histoire	NAM	I-REFAUWORK
+variée	VER:pper	I-REFAUWORK
+12	NUM	B-REFSCOPE
+,	PUN	I-REFSCOPE
+1	NUM	I-REFSCOPE
+:	PUN	O
+l'	DET:ART	O
+histoire	NOM	O
+d'	PRP	O
+Aspasie	NAM	O
+,	PUN	O
+maîtresse	NOM	O
+de	PRP	O
+Cyrus	NAM	O
+le	DET:ART	O
+Jeune	NAM	O
+et	KON	O
+favorite	ADJ	O
+d'	PRP	O
+Artaxerxes	NAM	O

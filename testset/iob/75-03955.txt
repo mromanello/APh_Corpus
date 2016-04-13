@@ -1,7 +1,6 @@
-Mit	APPR
-Resümees	NN
-der	ART
-Beiträge	NN
-des	ART
-Bandes	NN
-
+Mit	APPR	O
+Resümees	NN	O
+der	ART	O
+Beiträge	NN	O
+des	ART	O
+Bandes	NN	O

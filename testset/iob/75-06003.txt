@@ -1,52 +1,51 @@
-Se	SE
-proponen	VLfin
-nuevas	ADJ
-interpretaciones	NC
-y	CC
-lecturas	NC
-de	PREP
-treinta	CARD
-y	CC
-dos	CARD
-pasajes	NC
-de	PREP
-los	ART
-Idilios	NC
-13	CARD
-,	CM
-14	CARD
-,	CM
-15	CARD
-,	CM
-16	CARD
-,	CM
-18	CARD
-,	CM
-22	CARD
-,	CM
-26	CARD
-y	CC
-28	CARD
-,	CM
-los	ART
-cuales	REL
-presentan	VLfin
-problemas	NC
-textuales	ADJ
-no	NEG
-resueltos	VLadj
-satisfactoriamente	ADV
-en	PREP
-la	ART
-edición	NC
-de	PREP
-Gow	NP
-(	LP
-=>	NC
-APh	NC
-21	CODE
-,	CM
-p.	ALFS
-131	CARD
-)	RP
-
+Se	SE	O
+proponen	VLfin	O
+nuevas	ADJ	O
+interpretaciones	NC	O
+y	CC	O
+lecturas	NC	O
+de	PREP	O
+treinta	CARD	O
+y	CC	O
+dos	CARD	O
+pasajes	NC	O
+de	PREP	O
+los	ART	O
+Idilios	NC	B-REFAUWORK
+13	CARD	B-REFSCOPE
+,	CM	I-REFSCOPE
+14	CARD	I-REFSCOPE
+,	CM	I-REFSCOPE
+15	CARD	I-REFSCOPE
+,	CM	I-REFSCOPE
+16	CARD	I-REFSCOPE
+,	CM	I-REFSCOPE
+18	CARD	I-REFSCOPE
+,	CM	I-REFSCOPE
+22	CARD	I-REFSCOPE
+,	CM	I-REFSCOPE
+26	CARD	I-REFSCOPE
+y	CC	O
+28	CARD	B-REFSCOPE
+,	CM	I-REFSCOPE
+los	ART	O
+cuales	REL	O
+presentan	VLfin	O
+problemas	NC	O
+textuales	ADJ	O
+no	NEG	O
+resueltos	VLadj	O
+satisfactoriamente	ADV	O
+en	PREP	O
+la	ART	O
+edición	NC	O
+de	PREP	O
+Gow	NP	O
+(	LP	O
+=>	NC	O
+APh	NC	O
+21	CODE	O
+,	CM	O
+p.	ALFS	O
+131	CARD	O
+)	RP	O

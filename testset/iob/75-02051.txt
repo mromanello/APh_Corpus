@@ -1,23 +1,22 @@
-A	PRE
-proposito	NOM
-dell'	PRE:det
-Uomo	NOM
-originario	ADJ
-,	PON
-elemento	NOM
-della	PRE:det
-dottrina	NOM
-gnostica	ADJ
-,	PON
-confrontato	VER:pper
-con	PRE
-un	DET:indef
-altro	ADJ
-essere	NOM
-mitico	ADJ
-con	PRE
-tre	ADJ
-corpi	NOM
-,	PON
-Gerione	NOM
-
+A	PRE	O
+proposito	NOM	O
+dell'	PRE:det	O
+Uomo	NOM	O
+originario	ADJ	O
+,	PON	O
+elemento	NOM	O
+della	PRE:det	O
+dottrina	NOM	O
+gnostica	ADJ	O
+,	PON	O
+confrontato	VER:pper	O
+con	PRE	O
+un	DET:indef	O
+altro	ADJ	O
+essere	NOM	O
+mitico	ADJ	O
+con	PRE	O
+tre	ADJ	O
+corpi	NOM	O
+,	PON	O
+Gerione	NOM	O

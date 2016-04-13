@@ -1,39 +1,38 @@
-El	ART
-balance	PE
-general	NC
-de	PREP
-la	ART
-carrera	NC
-militar	ADJ
-de	PREP
-Q.	NC
-Petillius	NP
-Cerialis	NP
-Caesius	NP
-Rufus	NP
-es	VSfin
-positivo	ADJ
-para	PREP
-él	PPX
-,	CM
-pues	CSUBF
-las	ART
-operaciones	NC
-militares	ADJ
-en	PREP
-las	ART
-que	CQUE
-participó	VLfin
-y	CC
-de	PREP
-las	ART
-que	CQUE
-se	SE
-tienen	VLfin
-noticias	VLfin
-siempre	ADV
-acabaron	VLfin
-en	PREP
-victoria	NC
-.	FS
-
+El	ART	O
+balance	PE	O
+general	NC	O
+de	PREP	O
+la	ART	O
+carrera	NC	O
+militar	ADJ	O
+de	PREP	O
+Q.	NC	O
+Petillius	NP	O
+Cerialis	NP	O
+Caesius	NP	O
+Rufus	NP	O
+es	VSfin	O
+positivo	ADJ	O
+para	PREP	O
+él	PPX	O
+,	CM	O
+pues	CSUBF	O
+las	ART	O
+operaciones	NC	O
+militares	ADJ	O
+en	PREP	O
+las	ART	O
+que	CQUE	O
+participó	VLfin	O
+y	CC	O
+de	PREP	O
+las	ART	O
+que	CQUE	O
+se	SE	O
+tienen	VLfin	O
+noticias	VLfin	O
+siempre	ADV	O
+acabaron	VLfin	O
+en	PREP	O
+victoria	NC	O
+.	FS	O

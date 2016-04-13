@@ -1,78 +1,77 @@
-Note	NOM
-sulla	PRE:det
-polemica	NOM
-anticristiana	ADJ
-di	PRE
-Celso	NOM
-,	PON
-riportata	VER:pper
-e	CON
-confutata	VER:pper
-da	PRE
-Origene	NOM
-(	PON
-Cels.	ABR
-2	NUM
-,	PON
-36	NUM
-)	PON
-,	PON
-riguardo	NOM
-al	PRE:det
-passo	NOM
-evangelico	ADJ
-(	PON
-Ioh	NOM
-.	SENT
-19,34	NUM
-)	PON
-in	PRE
-cui	PRO:rela
-dal	PRE:det
-costato	NOM
-ferito	VER:pper
-di	PRE
-Cristo	NOM
-esce	VER:pres
-sangue	ADJ
-misto	NOM
-a	PRE
-acqua	NOM
-;	PON
-secondo	PRE
-Celso	NOM
-il	DET:def
-Vangelo	NOM
-di	PRE
-Giovanni	NPR
-riutilizza	VER:pres
-abilmente	ADV
-,	PON
-per	PRE
-una	DET:indef
-mitizzazione	NOM
-della	PRE:det
-divinità	NOM
-di	PRE
-Gesù	NOM
-,	PON
-un	DET:indef
-passo	NOM
-omerico	ADJ
-(	PON
-Il.	ABR
-5	NUM
-,	PON
-335-342	NUM
-)	PON
-già	ADV
-sfruttato	VER:pper
-in	PRE
-un	DET:indef
-noto	ADJ
-aneddoto	NOM
-della	PRE:det
-vita	NOM
-di	PRE
-Alessandro	NPR
-
+Note	NOM	O
+sulla	PRE:det	O
+polemica	NOM	O
+anticristiana	ADJ	O
+di	PRE	O
+Celso	NOM	B-AAUTHOR
+,	PON	O
+riportata	VER:pper	O
+e	CON	O
+confutata	VER:pper	O
+da	PRE	O
+Origene	NOM	B-AAUTHOR
+(	PON	B-REFAUWORK
+Cels.	ABR	I-REFAUWORK
+2	NUM	B-REFSCOPE
+,	PON	I-REFSCOPE
+36	NUM	I-REFSCOPE
+)	PON	I-REFSCOPE
+,	PON	I-REFSCOPE
+riguardo	NOM	O
+al	PRE:det	O
+passo	NOM	O
+evangelico	ADJ	O
+(	PON	B-REFAUWORK
+Ioh	NOM	I-REFAUWORK
+.	SENT	I-REFAUWORK
+19,34	NUM	B-REFSCOPE
+)	PON	I-REFSCOPE
+in	PRE	O
+cui	PRO:rela	O
+dal	PRE:det	O
+costato	NOM	O
+ferito	VER:pper	O
+di	PRE	O
+Cristo	NOM	O
+esce	VER:pres	O
+sangue	ADJ	O
+misto	NOM	O
+a	PRE	O
+acqua	NOM	O
+;	PON	O
+secondo	PRE	O
+Celso	NOM	O
+il	DET:def	O
+Vangelo	NOM	O
+di	PRE	O
+Giovanni	NPR	O
+riutilizza	VER:pres	O
+abilmente	ADV	O
+,	PON	O
+per	PRE	O
+una	DET:indef	O
+mitizzazione	NOM	O
+della	PRE:det	O
+divinità	NOM	O
+di	PRE	O
+Gesù	NOM	O
+,	PON	O
+un	DET:indef	O
+passo	NOM	O
+omerico	ADJ	O
+(	PON	B-REFAUWORK
+Il.	ABR	I-REFAUWORK
+5	NUM	B-REFSCOPE
+,	PON	I-REFSCOPE
+335-342	NUM	I-REFSCOPE
+)	PON	I-REFSCOPE
+già	ADV	O
+sfruttato	VER:pper	O
+in	PRE	O
+un	DET:indef	O
+noto	ADJ	O
+aneddoto	NOM	O
+della	PRE:det	O
+vita	NOM	O
+di	PRE	O
+Alessandro	NPR	O

@@ -1,45 +1,44 @@
-Étude	NOM
-de	PRP
-l'	DET:ART
-image	NOM
-du	PRP:det
-princeps	ADJ
-idéal	ADJ
-,	PUN
-de	PRP
-l'	DET:ART
-attitude	NOM
-des	PRP:det
-auteurs	NOM
-latins	ADJ
-face	NOM
-à	PRP
-l'	DET:ART
-opposition	NOM
-au	PRP:det
-principat	NOM
-,	PUN
-et	KON
-à	PRP
-la	DET:ART
-notion	NOM
-d'	PRP
-Empire	NOM
-universel	ADJ
-.	SENT
+Étude	NOM	O
+de	PRP	O
+l'	DET:ART	O
+image	NOM	O
+du	PRP:det	O
+princeps	ADJ	O
+idéal	ADJ	O
+,	PUN	O
+de	PRP	O
+l'	DET:ART	O
+attitude	NOM	O
+des	PRP:det	O
+auteurs	NOM	O
+latins	ADJ	O
+face	NOM	O
+à	PRP	O
+l'	DET:ART	O
+opposition	NOM	O
+au	PRP:det	O
+principat	NOM	O
+,	PUN	O
+et	KON	O
+à	PRP	O
+la	DET:ART	O
+notion	NOM	O
+d'	PRP	O
+Empire	NOM	O
+universel	ADJ	O
+.	SENT	O
 
-Voulue	VER:pper
-par	PRP
-les	DET:ART
-dieux	NOM
-,	PUN
-la	DET:ART
-domination	NOM
-romaine	ADJ
-assure	VER:pres
-le	DET:ART
-bonheur	NOM
-du	PRP:det
-genre	NOM
-humain	ADJ
-
+Voulue	VER:pper	O
+par	PRP	O
+les	DET:ART	O
+dieux	NOM	O
+,	PUN	O
+la	DET:ART	O
+domination	NOM	O
+romaine	ADJ	O
+assure	VER:pres	O
+le	DET:ART	O
+bonheur	NOM	O
+du	PRP:det	O
+genre	NOM	O
+humain	ADJ	O

@@ -1,6 +1,5 @@
-Auch	ADV
-in	APPR
-der	ART
-Situlenkunst	NN
-Italiens	NE
-
+Auch	ADV	O
+in	APPR	O
+der	ART	O
+Situlenkunst	NN	O
+Italiens	NE	O

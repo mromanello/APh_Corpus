@@ -1,72 +1,71 @@
-Teniéndose	VCLIger
-en	PREP
-cuenta	NC
-el	ART
-marco	NC
-geográfico	ADJ
-y	CC
-étnico	ADJ
-de	PREP
-la	ART
-Hispania	NP
-indoeuropea	ADJ
-,	CM
-y	CC
-partiéndose	VLadj
-de	PREP
-la	ART
-documentación	NC
-epigráfica	ADJ
-latina	ADJ
-,	CM
-se	SE
-ofrece	VLfin
-un	ART
-esbozo	NC
-sobre	PREP
-la	ART
-tipología	NC
-y	CC
-la	ART
-geografía	NC
-cultual	ADJ
-de	PREP
-las	ART
-divinidades	NC
-indígenas	ADJ
-hispanas	ADJ
-.	FS
+Teniéndose	VCLIger	O
+en	PREP	O
+cuenta	NC	O
+el	ART	O
+marco	NC	O
+geográfico	ADJ	O
+y	CC	O
+étnico	ADJ	O
+de	PREP	O
+la	ART	O
+Hispania	NP	O
+indoeuropea	ADJ	O
+,	CM	O
+y	CC	O
+partiéndose	VLadj	O
+de	PREP	O
+la	ART	O
+documentación	NC	O
+epigráfica	ADJ	O
+latina	ADJ	O
+,	CM	O
+se	SE	O
+ofrece	VLfin	O
+un	ART	O
+esbozo	NC	O
+sobre	PREP	O
+la	ART	O
+tipología	NC	O
+y	CC	O
+la	ART	O
+geografía	NC	O
+cultual	ADJ	O
+de	PREP	O
+las	ART	O
+divinidades	NC	O
+indígenas	ADJ	O
+hispanas	ADJ	O
+.	FS	O
 
-Por	PREP
-otra	QU
-parte	NC
-,	CM
-se	SE
-reflexiona	VLfin
-acerca de	PREP
-cómo	ADV
-la	ART
-implantación	NC
-y	CC
-la	ART
-extensión	NC
-del	PDEL
-modelo	NC
-de	PREP
-la	ART
-«	SYM
-ciuitas	NC
-»	SYM
-romana	VLfin
-transformó	VLfin
-la	ART
-organización	NC
-social	ADJ
-y	CC
-el	ART
-panteón	NC
-de	PREP
-los	ART
-pueblos	NC
-indígenas	ADJ
-
+Por	PREP	O
+otra	QU	O
+parte	NC	O
+,	CM	O
+se	SE	O
+reflexiona	VLfin	O
+acerca	PREP	O
+cómo	ADV	O
+la	ART	O
+implantación	NC	O
+y	CC	O
+la	ART	O
+extensión	NC	O
+del	PDEL	O
+modelo	NC	O
+de	PREP	O
+la	ART	O
+«	SYM	O
+ciuitas	NC	O
+»	SYM	O
+romana	VLfin	O
+transformó	VLfin	O
+la	ART	O
+organización	NC	O
+social	ADJ	O
+y	CC	O
+el	ART	O
+panteón	NC	O
+de	PREP	O
+los	ART	O
+pueblos	NC	O
+indígenas	ADJ	O

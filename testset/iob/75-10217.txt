@@ -1,149 +1,148 @@
-The	DT
-historiographical	JJ
-tradition	NN
-preserved	VBN
-in	IN
-Nicolaus	NP
-of	IN
-Damascus	NP
-,	,
-FGrHist	NN
-.	SENT
+The	DT	O
+historiographical	JJ	O
+tradition	NN	O
+preserved	VBN	O
+in	IN	O
+Nicolaus	NP	O
+of	IN	O
+Damascus	NP	O
+,	,	O
+FGrHist	NN	O
+.	SENT	O
 
-90	CD
-F	NN
-130	CD
-;	:
-Velleius	NP
-2	CD
-,	,
-59	CD
-;	:
-Appian	NP
-3	CD
-,	,
-28	CD
-;	:
-Dio	NP
-45	CD
-,	,
-5	CD
-;	:
-and	CC
-elsewhere	RB
-knows	VBZ
-nothing	NN
-of	IN
-Octavian	NP
-'s	POS
-residence	NN
-in	IN
-Puteoli	NP
-during	IN
-April	NP
-and	CC
-May	NP
-,	,
-44	CD
-B.	NP
-C.	NP
-Only	RB
-Cicero	NP
-'s	POS
-correspondence	NN
-preserves	VBZ
-this	DT
-information	NN
-(	(
-Att.	NP
-14	CD
-,	,
-5	CD
-,	,
-3	CD
-;	:
-14	CD
-,	,
-6	CD
-,	,
-1	CD
-;	:
-14	CD
-,	,
-10	CD
-,	,
-3	CD
-)	)
-.	SENT
+90	CD	O
+F	NN	O
+130	CD	O
+;	:	O
+Velleius	NP	B-REFAUWORK
+2	CD	B-REFSCOPE
+,	,	I-REFSCOPE
+59	CD	I-REFSCOPE
+;	:	I-REFSCOPE
+Appian	NP	B-REFAUWORK
+3	CD	B-REFSCOPE
+,	,	I-REFSCOPE
+28	CD	I-REFSCOPE
+;	:	I-REFSCOPE
+Dio	NP	B-REFAUWORK
+45	CD	B-REFSCOPE
+,	,	I-REFSCOPE
+5	CD	I-REFSCOPE
+;	:	I-REFSCOPE
+and	CC	O
+elsewhere	RB	O
+knows	VBZ	O
+nothing	NN	O
+of	IN	O
+Octavian	NP	O
+'s	POS	O
+residence	NN	O
+in	IN	O
+Puteoli	NP	O
+during	IN	O
+April	NP	O
+and	CC	O
+May	NP	O
+,	,	O
+44	CD	O
+B.	NP	O
+C.	NP	O
+Only	RB	O
+Cicero	NP	O
+'s	POS	O
+correspondence	NN	O
+preserves	VBZ	O
+this	DT	O
+information	NN	O
+(	(	B-REFAUWORK
+Att.	NP	I-REFAUWORK
+14	CD	B-REFSCOPE
+,	,	I-REFSCOPE
+5	CD	I-REFSCOPE
+,	,	I-REFSCOPE
+3	CD	I-REFSCOPE
+;	:	I-REFSCOPE
+14	CD	B-REFSCOPE
+,	,	I-REFSCOPE
+6	CD	I-REFSCOPE
+,	,	I-REFSCOPE
+1	CD	I-REFSCOPE
+;	:	I-REFSCOPE
+14	CD	B-REFSCOPE
+,	,	I-REFSCOPE
+10	CD	I-REFSCOPE
+,	,	I-REFSCOPE
+3	CD	I-REFSCOPE
+)	)	I-REFSCOPE
+.	SENT	I-REFSCOPE
 
-The	DT
-reason	NN
-for	IN
-its	PP$
-absence	NN
-in	IN
-the	DT
-historians	NNS
-is	VBZ
-not	RB
-difficult	JJ
-to	TO
-discern	VB
-:	:
-Any	DT
-historian	NN
-of	IN
-the	DT
-earliest	JJS
-days	NNS
-of	IN
-Octavian	NP
-'s	POS
-career	NN
-must	MD
-have	VB
-depended	VBN
-on	IN
-his	PP$
-«	)
-res	NN
-gestae	NNS
-»	(
-.	SENT
+The	DT	O
+reason	NN	O
+for	IN	O
+its	PP$	O
+absence	NN	O
+in	IN	O
+the	DT	O
+historians	NNS	O
+is	VBZ	O
+not	RB	O
+difficult	JJ	O
+to	TO	O
+discern	VB	O
+:	:	O
+Any	DT	O
+historian	NN	O
+of	IN	O
+the	DT	O
+earliest	JJS	O
+days	NNS	O
+of	IN	O
+Octavian	NP	O
+'s	POS	O
+career	NN	O
+must	MD	O
+have	VB	O
+depended	VBN	O
+on	IN	O
+his	PP$	O
+«	)	O
+res	NN	O
+gestae	NNS	O
+»	(	O
+.	SENT	O
 
-The	DT
-retreat	NN
-to	TO
-Campania	NP
-fitted	VBN
-awkwardly	RB
-with	IN
-the	DT
-autobiography	NN
-'s	POS
-portrait	NN
-of	IN
-a	DT
-courageous	JJ
-but	CC
-inexperienced	JJ
-heir	NN
-.	SENT
+The	DT	O
+retreat	NN	O
+to	TO	O
+Campania	NP	O
+fitted	VBN	O
+awkwardly	RB	O
+with	IN	O
+the	DT	O
+autobiography	NN	O
+'s	POS	O
+portrait	NN	O
+of	IN	O
+a	DT	O
+courageous	JJ	O
+but	CC	O
+inexperienced	JJ	O
+heir	NN	O
+.	SENT	O
 
-The	DT
-evidence	NN
-suggests	VBZ
-an	DT
-impetuous	JJ
-youth	NN
-who	WP
-trusted	VBD
-to	TO
-rash	VB
-decision	NN
-and	CC
-so	RB
-encountered	VBD
-embarrassment	NN
-.	SENT
-
+The	DT	O
+evidence	NN	O
+suggests	VBZ	O
+an	DT	O
+impetuous	JJ	O
+youth	NN	O
+who	WP	O
+trusted	VBD	O
+to	TO	O
+rash	VB	O
+decision	NN	O
+and	CC	O
+so	RB	O
+encountered	VBD	O
+embarrassment	NN	O
+.	SENT	O

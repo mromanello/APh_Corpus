@@ -1,148 +1,147 @@
-The	DT
-15	CD
-books	NNS
-of	IN
-the	DT
-«	)
-Metamorphoses	NNS
-»	(
-are	VBP
-themselves	PP
-an	DT
-expression	NN
-of	IN
-programmatic	JJ
-meaning	NN
-.	SENT
+The	DT	O
+15	CD	O
+books	NNS	O
+of	IN	O
+the	DT	O
+«	)	B-AWORK
+Metamorphoses	NNS	I-AWORK
+»	(	I-AWORK
+are	VBP	O
+themselves	PP	O
+an	DT	O
+expression	NN	O
+of	IN	O
+programmatic	JJ	O
+meaning	NN	O
+.	SENT	O
 
-The	DT
-poetry	NN
-book	NN
-of	IN
-the	DT
-Augustan	JJ
-age	NN
-shows	VBZ
-a	DT
-predilection	NN
-for	IN
-multiples	NNS
-of	IN
-5	CD
-(	(
-Vergil	NP
-'s	POS
-«	)
-Eclogues	NNS
-»	(
-;	:
-Tibullus	NP
-,	,
-Book	NP
-1	CD
-;	:
-Horace	NP
-,	,
-Satires	NP
-1	CD
-,	,
-Odes	NP
-2-4	CD
-,	,
-and	CC
-Epistles	NP
-1	CD
-)	)
-.	SENT
+The	DT	O
+poetry	NN	O
+book	NN	O
+of	IN	O
+the	DT	O
+Augustan	JJ	O
+age	NN	O
+shows	VBZ	O
+a	DT	O
+predilection	NN	O
+for	IN	O
+multiples	NNS	O
+of	IN	O
+5	CD	O
+(	(	O
+Vergil	NP	B-AAUTHOR
+'s	POS	I-AAUTHOR
+«	)	B-AWORK
+Eclogues	NNS	I-AWORK
+»	(	I-AWORK
+;	:	I-AWORK
+Tibullus	NP	B-REFAUWORK
+,	,	I-REFAUWORK
+Book	NP	B-REFSCOPE
+1	CD	I-REFSCOPE
+;	:	I-REFSCOPE
+Horace	NP	B-REFAUWORK
+,	,	I-REFAUWORK
+Satires	NP	I-REFAUWORK
+1	CD	B-REFSCOPE
+,	,	I-REFSCOPE
+Odes	NP	B-REFAUWORK
+2-4	CD	B-REFSCOPE
+,	,	I-REFSCOPE
+and	CC	O
+Epistles	NP	B-REFAUWORK
+1	CD	B-REFSCOPE
+)	)	I-REFSCOPE
+.	SENT	I-REFSCOPE
 
-This	DT
-preference	NN
-is	VBZ
-repeated	VBN
-in	IN
-the	DT
-Ovidian	JJ
-elegiac	JJ
-collections	NNS
-.	SENT
+This	DT	O
+preference	NN	O
+is	VBZ	O
+repeated	VBN	O
+in	IN	O
+the	DT	O
+Ovidian	JJ	O
+elegiac	JJ	O
+collections	NNS	O
+.	SENT	O
 
-The	DT
-first	JJ
-book	NN
-of	IN
-each	DT
-of	IN
-the	DT
-three	CD
-collections	NNS
-of	IN
-elegies	NNS
-divided	VBN
-into	IN
-several	JJ
-books	NNS
-(	(
-i.	FW
-e.	FW
-,	,
-«	)
-Amores	NP
-»	(
-,	,
-15	CD
-elegies	NNS
-;	:
-«	)
-Tristia	NP
-»	(
-,	,
-10	CD
-;	:
-and	CC
-«	)
-Ex	NP
-Ponto	NP
-»	(
-,	,
-10	CD
-)	)
-seems	VBZ
-to	TO
-be	VB
-based	VBN
-upon	IN
-this	DT
-principle	NN
-.	SENT
+The	DT	O
+first	JJ	O
+book	NN	O
+of	IN	O
+each	DT	O
+of	IN	O
+the	DT	O
+three	CD	O
+collections	NNS	O
+of	IN	O
+elegies	NNS	O
+divided	VBN	O
+into	IN	O
+several	JJ	O
+books	NNS	O
+(	(	O
+i.	FW	O
+e.	FW	O
+,	,	O
+«	)	B-AWORK
+Amores	NP	I-AWORK
+»	(	I-AWORK
+,	,	I-AWORK
+15	CD	O
+elegies	NNS	O
+;	:	O
+«	)	B-AWORK
+Tristia	NP	I-AWORK
+»	(	I-AWORK
+,	,	I-AWORK
+10	CD	O
+;	:	O
+and	CC	O
+«	)	B-AWORK
+Ex	NP	I-AWORK
+Ponto	NP	I-AWORK
+»	(	I-AWORK
+,	,	I-AWORK
+10	CD	O
+)	)	O
+seems	VBZ	O
+to	TO	O
+be	VB	O
+based	VBN	O
+upon	IN	O
+this	DT	O
+principle	NN	O
+.	SENT	O
 
-The	DT
-division	NN
-of	IN
-the	DT
-«	)
-Metamorphoses	NNS
-»	(
-into	IN
-15	CD
-books	NNS
-signals	VBZ
-its	PP$
-distance	NN
-from	IN
-the	DT
-traditional	JJ
-epic	NN
-,	,
-which	WDT
-is	VBZ
-characterized	VBN
-by	IN
-a	DT
-number	NN
-corresponding	JJ
-to	TO
-a	DT
-multiple	NN
-of	IN
-6.	CD
-
+The	DT	O
+division	NN	O
+of	IN	O
+the	DT	O
+«	)	B-AWORK
+Metamorphoses	NNS	I-AWORK
+»	(	I-AWORK
+into	IN	O
+15	CD	O
+books	NNS	O
+signals	VBZ	O
+its	PP$	O
+distance	NN	O
+from	IN	O
+the	DT	O
+traditional	JJ	O
+epic	NN	O
+,	,	O
+which	WDT	O
+is	VBZ	O
+characterized	VBN	O
+by	IN	O
+a	DT	O
+number	NN	O
+corresponding	JJ	O
+to	TO	O
+a	DT	O
+multiple	NN	O
+of	IN	O
+6.	CD	O

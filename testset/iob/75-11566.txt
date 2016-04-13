@@ -1,78 +1,77 @@
-La	ART
-mujer	NC
-del	PDEL
-estado	NC
-helenístico	ADJ
-del	PDEL
-Bósforo	NC
-disfrutaba	VLfin
-de	PREP
-una	ART
-buena	ADJ
-consideración	NC
-social	ADJ
-como	ADV
-buena	ADJ
-hija	NC
-de	PREP
-sus	PPO
-padres	NC
-,	CM
-respetada	VLadj
-esposa	NC
-y	CC
-honrada	ADJ
-madre	NC
-de	PREP
-su	PPO
-prole	NC
-.	FS
+La	ART	O
+mujer	NC	O
+del	PDEL	O
+estado	NC	O
+helenístico	ADJ	O
+del	PDEL	O
+Bósforo	NC	O
+disfrutaba	VLfin	O
+de	PREP	O
+una	ART	O
+buena	ADJ	O
+consideración	NC	O
+social	ADJ	O
+como	ADV	O
+buena	ADJ	O
+hija	NC	O
+de	PREP	O
+sus	PPO	O
+padres	NC	O
+,	CM	O
+respetada	VLadj	O
+esposa	NC	O
+y	CC	O
+honrada	ADJ	O
+madre	NC	O
+de	PREP	O
+su	PPO	O
+prole	NC	O
+.	FS	O
 
-La	ART
-mujer	NC
-libre	ADJ
-tenía	VLfin
-derechos	NC
-civiles	ADJ
-y	CC
-socio-económicos	ADJ
-y	CC
-de	PREP
-su	PPO
-estado	NC
-civil	ADJ
-dependía	VLfin
-la	ART
-ciudadanía	NC
-de	PREP
-sus	PPO
-hijos	NC
-.	FS
+La	ART	O
+mujer	NC	O
+libre	ADJ	O
+tenía	VLfin	O
+derechos	NC	O
+civiles	ADJ	O
+y	CC	O
+socio-económicos	ADJ	O
+y	CC	O
+de	PREP	O
+su	PPO	O
+estado	NC	O
+civil	ADJ	O
+dependía	VLfin	O
+la	ART	O
+ciudadanía	NC	O
+de	PREP	O
+sus	PPO	O
+hijos	NC	O
+.	FS	O
 
-Las	ART
-aristócratas	NC
-participaban	VLfin
-con	PREP
-el	ART
-rango	NC
-de	PREP
-sacerdotisas	NC
-en	PREP
-el	ART
-culto	ADJ
-de	PREP
-distintas	QU
-divinidades	NC
-femeninas	ADJ
-locales	ADJ
-e	CC
-incluso	ADV
-tuvieron	VLfin
-el	ART
-derecho	NC
-de	CSUBI
-gobernar	VLinf
-el	ART
-estado	NC
-.	FS
-
+Las	ART	O
+aristócratas	NC	O
+participaban	VLfin	O
+con	PREP	O
+el	ART	O
+rango	NC	O
+de	PREP	O
+sacerdotisas	NC	O
+en	PREP	O
+el	ART	O
+culto	ADJ	O
+de	PREP	O
+distintas	QU	O
+divinidades	NC	O
+femeninas	ADJ	O
+locales	ADJ	O
+e	CC	O
+incluso	ADV	O
+tuvieron	VLfin	O
+el	ART	O
+derecho	NC	O
+de	CSUBI	O
+gobernar	VLinf	O
+el	ART	O
+estado	NC	O
+.	FS	O

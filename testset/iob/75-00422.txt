@@ -1,85 +1,84 @@
-Plusieurs	PRO:IND
-indices	NOM
-textuels	ADJ
-suggèrent	VER:pres
-la	DET:ART
-présence	NOM
-sur	PRP
-scène	NOM
-de	PRP
-choreutes	NOM
-déguisés	VER:pper
-en	PRP
-chevaux	NOM
-.	SENT
+Plusieurs	PRO:IND	O
+indices	NOM	O
+textuels	ADJ	O
+suggèrent	VER:pres	O
+la	DET:ART	O
+présence	NOM	O
+sur	PRP	O
+scène	NOM	O
+de	PRP	O
+choreutes	NOM	O
+déguisés	VER:pper	O
+en	PRP	O
+chevaux	NOM	O
+.	SENT	O
 
-Une	DET:ART
-telle	NOM
-mise	VER:pper
-en	PRP
-scène	NOM
-est	VER:pres
-conforme	ADJ
-à	PRP
-la	DET:ART
-longue	ADJ
-tradition	NOM
-des	PRP:det
-chœurs	NOM
-zoomorphes	ADJ
-,	PUN
-attestée	VER:pper
-par	PRP
-la	DET:ART
-céramique	NOM
-attique	ADJ
-dès	PRP
-la	DET:ART
-seconde	NUM
-moitié	NOM
-du	PRP:det
-6e	NUM
-s.	ABR
-av	NOM
-.	SENT
+Une	DET:ART	O
+telle	NOM	O
+mise	VER:pper	O
+en	PRP	O
+scène	NOM	O
+est	VER:pres	O
+conforme	ADJ	O
+à	PRP	O
+la	DET:ART	O
+longue	ADJ	O
+tradition	NOM	O
+des	PRP:det	O
+chœurs	NOM	O
+zoomorphes	ADJ	O
+,	PUN	O
+attestée	VER:pper	O
+par	PRP	O
+la	DET:ART	O
+céramique	NOM	O
+attique	ADJ	O
+dès	PRP	O
+la	DET:ART	O
+seconde	NUM	O
+moitié	NOM	O
+du	PRP:det	O
+6e	NUM	O
+s.	ABR	O
+av	NOM	O
+.	SENT	O
 
-J.	ABR
--C	ADJ
-.	SENT
+J.	ABR	O
+-C	ADJ	O
+.	SENT	O
 
-On	PRO:PER
-peut	VER:pres
-notamment	ADV
-la	DET:ART
-rapprocher	VER:infi
-d'	PRP
-un	DET:ART
-chœur	NOM
-de	PRP
-Cavaliers	NOM
-représenté	VER:pper
-par	PRP
-le	DET:ART
-peintre	NOM
-de	PRP
-Berlin	NAM
-1686	NUM
-sur	PRP
-une	DET:ART
-amphore	NOM
-à	PRP
-figures	NOM
-noires	ADJ
-datant	VER:ppre
-de	PRP
-540-530	NUM
-(	PUN
-Berlin	NAM
-,	PUN
-Staatliche	NAM
-Museum	NAM
-,	PUN
-F	ABR
-1697	NUM
-)	PUN
-
+On	PRO:PER	O
+peut	VER:pres	O
+notamment	ADV	O
+la	DET:ART	O
+rapprocher	VER:infi	O
+d'	PRP	O
+un	DET:ART	O
+chœur	NOM	O
+de	PRP	O
+Cavaliers	NOM	O
+représenté	VER:pper	O
+par	PRP	O
+le	DET:ART	O
+peintre	NOM	O
+de	PRP	O
+Berlin	NAM	O
+1686	NUM	O
+sur	PRP	O
+une	DET:ART	O
+amphore	NOM	O
+à	PRP	O
+figures	NOM	O
+noires	ADJ	O
+datant	VER:ppre	O
+de	PRP	O
+540-530	NUM	O
+(	PUN	O
+Berlin	NAM	O
+,	PUN	O
+Staatliche	NAM	O
+Museum	NAM	O
+,	PUN	O
+F	ABR	O
+1697	NUM	O
+)	PUN	O

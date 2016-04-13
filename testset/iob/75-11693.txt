@@ -1,8 +1,7 @@
-Sources	NOM
-littéraires	ADJ
-et	KON
-documentaires	ADJ
-,	PUN
-notamment	ADV
-papyrologiques	ADJ
-
+Sources	NOM	O
+littéraires	ADJ	O
+et	KON	O
+documentaires	ADJ	O
+,	PUN	O
+notamment	ADV	O
+papyrologiques	ADJ	O

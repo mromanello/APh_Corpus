@@ -1,72 +1,71 @@
-Architectural	JJ
-and	CC
-structural	JJ
-consideration	NN
-of	IN
-the	DT
-Gallo-Roman	JJ
-theater	NN
-at	IN
-Lugdunum	NP
-Conuenarum	NP
-.	SENT
+Architectural	JJ	O
+and	CC	O
+structural	JJ	O
+consideration	NN	O
+of	IN	O
+the	DT	O
+Gallo-Roman	JJ	O
+theater	NN	O
+at	IN	O
+Lugdunum	NP	O
+Conuenarum	NP	O
+.	SENT	O
 
-Built	VBN
-in	IN
-the	DT
-late	JJ
-1st	JJ
-cent	NN
-.	SENT
+Built	VBN	O
+in	IN	O
+the	DT	O
+late	JJ	O
+1st	JJ	O
+cent	NN	O
+.	SENT	O
 
-B.	NP
-C.	NP
-or	CC
-early	JJ
-1st	JJ
-cent	NN
-.	SENT
+B.	NP	O
+C.	NP	O
+or	CC	O
+early	JJ	O
+1st	JJ	O
+cent	NN	O
+.	SENT	O
 
-A.	NP
-D.	NP
-,	,
-the	DT
-theater	NN
-follows	VBZ
-the	DT
-North-South	JJ
-axis	NN
-of	IN
-the	DT
-colline	JJ
-Saint-Bertrand	NP
-.	SENT
+A.	NP	O
+D.	NP	O
+,	,	O
+the	DT	O
+theater	NN	O
+follows	VBZ	O
+the	DT	O
+North-South	JJ	O
+axis	NN	O
+of	IN	O
+the	DT	O
+colline	JJ	O
+Saint-Bertrand	NP	O
+.	SENT	O
 
-As	IN
-a	DT
-result	NN
-of	IN
-this	DT
-analysis	NN
-,	,
-it	PP
-can	MD
-no	RB
-longer	RBR
-be	VB
-assumed	VBN
-that	IN
-cable-based	JJ
-«	)
-uela	NNS
-»	(
-(	(
-awning	NN
-)	)
-frames	NNS
-were	VBD
-used	VBN
-throughout	IN
-Gaul	NP
-.	SENT
-
+As	IN	O
+a	DT	O
+result	NN	O
+of	IN	O
+this	DT	O
+analysis	NN	O
+,	,	O
+it	PP	O
+can	MD	O
+no	RB	O
+longer	RBR	O
+be	VB	O
+assumed	VBN	O
+that	IN	O
+cable-based	JJ	O
+«	)	O
+uela	NNS	O
+»	(	O
+(	(	O
+awning	NN	O
+)	)	O
+frames	NNS	O
+were	VBD	O
+used	VBN	O
+throughout	IN	O
+Gaul	NP	O
+.	SENT	O

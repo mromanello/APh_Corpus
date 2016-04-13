@@ -1,70 +1,69 @@
-Die	ART
-Prophezeiungen	NN
-in	APPR
-Met.	NE
-2	CARD
-,	$,
-643-648	CARD
-und	KON
-649-654	CARD
-zeigen	VVFIN
-im	APPRART
-Vergleich	NN
-mit	APPR
-ihren	PPOSAT
-«	$(
-Erfüllungen	NN
-»	$(
-in	APPR
-Fast	ADV
-.	$.
+Die	ART	O
+Prophezeiungen	NN	O
+in	APPR	O
+Met.	NE	B-REFAUWORK
+2	CARD	B-REFSCOPE
+,	$,	I-REFSCOPE
+643-648	CARD	I-REFSCOPE
+und	KON	O
+649-654	CARD	B-REFSCOPE
+zeigen	VVFIN	O
+im	APPRART	O
+Vergleich	NN	O
+mit	APPR	O
+ihren	PPOSAT	O
+«	$(	O
+Erfüllungen	NN	O
+»	$(	O
+in	APPR	O
+Fast	ADV	B-REFAUWORK
+.	$.	I-REFAUWORK
 
-6	CARD
-,	$,
-759-762	CARD
-und	KON
-5	CARD
-,	$,
-397-414	CARD
-neben	APPR
-Gemeinsamkeiten	NN
-auch	ADV
-Differenzen	NN
-,	$,
-die	PRELS
-sich	PRF
-entsprechend	ADJD
-einem	ART
-Vorschlag	NN
-R.	NE
-Heinzes	NE
-in	APPR
-«	$(
-Ovids	NE
-elegische	ADJA
-Erzählung	NN
-»	$(
-(	$(
-Leipzig	NE
-1919	CARD
-)	$(
-aus	APPR
-den	ART
-unterschiedlichen	ADJA
-Gattungen	NN
-erklären	VVINF
-lassen	VVFIN
-:	$.
-Der	ART
-epische	ADJA
-Text	NN
-betont	VVFIN
-das	ART
-Wunderbare	NN
-,	$,
-der	ART
-elegische	ADJA
-das	ART
-Pathetische	NN
-.	$.
-
+6	CARD	B-REFSCOPE
+,	$,	I-REFSCOPE
+759-762	CARD	I-REFSCOPE
+und	KON	O
+5	CARD	B-REFSCOPE
+,	$,	I-REFSCOPE
+397-414	CARD	I-REFSCOPE
+neben	APPR	O
+Gemeinsamkeiten	NN	O
+auch	ADV	O
+Differenzen	NN	O
+,	$,	O
+die	PRELS	O
+sich	PRF	O
+entsprechend	ADJD	O
+einem	ART	O
+Vorschlag	NN	O
+R.	NE	O
+Heinzes	NE	O
+in	APPR	O
+«	$(	O
+Ovids	NE	O
+elegische	ADJA	O
+Erzählung	NN	O
+»	$(	O
+(	$(	O
+Leipzig	NE	O
+1919	CARD	O
+)	$(	O
+aus	APPR	O
+den	ART	O
+unterschiedlichen	ADJA	O
+Gattungen	NN	O
+erklären	VVINF	O
+lassen	VVFIN	O
+:	$.	O
+Der	ART	O
+epische	ADJA	O
+Text	NN	O
+betont	VVFIN	O
+das	ART	O
+Wunderbare	NN	O
+,	$,	O
+der	ART	O
+elegische	ADJA	O
+das	ART	O
+Pathetische	NN	O
+.	$.	O

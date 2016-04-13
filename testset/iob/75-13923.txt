@@ -1,73 +1,72 @@
-Der	ART
-Ofen	NN
-,	$,
-einer	PIS
-der	ART
-wenigen	PIAT
-auf	APPR
-Zypern	NE
-gefundenen	ADJA
-,	$,
-dürfte	VMFIN
-als	KOKOM
-Brennofen	NN
-zu	PTKZU
-deuten	VVINF
-sein	VAINF
-,	$,
-auch	ADV
-wenn	KOUS
-in	APPR
-den	ART
-Ascheschichten	NN
-keine	PIAT
-Reste	NN
-von	APPR
-Fehlbränden	NN
-zu	PTKZU
-finden	VVINF
-sind	VAFIN
-.	$.
+Der	ART	O
+Ofen	NN	O
+,	$,	O
+einer	PIS	O
+der	ART	O
+wenigen	PIAT	O
+auf	APPR	O
+Zypern	NE	O
+gefundenen	ADJA	O
+,	$,	O
+dürfte	VMFIN	O
+als	KOKOM	O
+Brennofen	NN	O
+zu	PTKZU	O
+deuten	VVINF	O
+sein	VAINF	O
+,	$,	O
+auch	ADV	O
+wenn	KOUS	O
+in	APPR	O
+den	ART	O
+Ascheschichten	NN	O
+keine	PIAT	O
+Reste	NN	O
+von	APPR	O
+Fehlbränden	NN	O
+zu	PTKZU	O
+finden	VVINF	O
+sind	VAFIN	O
+.	$.	O
 
-Er	PPER
-könnte	VMFIN
-im	APPRART
-Rahmen	NN
-eines	ART
-Umbaus	NN
-für	APPR
-die	ART
-Produktion	NN
-von	APPR
-Baumaterial	NN
-gedient	VVPP
-haben	VAINF
-.	$.
+Er	PPER	O
+könnte	VMFIN	O
+im	APPRART	O
+Rahmen	NN	O
+eines	ART	O
+Umbaus	NN	O
+für	APPR	O
+die	ART	O
+Produktion	NN	O
+von	APPR	O
+Baumaterial	NN	O
+gedient	VVPP	O
+haben	VAINF	O
+.	$.	O
 
-Die	ART
-Lochtenne	NN
-war	VAFIN
-durch	APPR
-Lehmbalken	NN
-gestützt	VVPP
-.	$.
+Die	ART	O
+Lochtenne	NN	O
+war	VAFIN	O
+durch	APPR	O
+Lehmbalken	NN	O
+gestützt	VVPP	O
+.	$.	O
 
-Vergleiche	NN
-machen	VVFIN
-deutlich	ADJD
-,	$,
-dass	KOUS
-kein	PIAT
-Zusammenhang	NN
-zwischen	APPR
-dem	ART
-Aufbau	NN
-eines	ART
-Ofens	NN
-und	KON
-dem	ART
-produzierten	ADJA
-Material	NN
-besteht	VVFIN
-.	$.
-
+Vergleiche	NN	O
+machen	VVFIN	O
+deutlich	ADJD	O
+,	$,	O
+dass	KOUS	O
+kein	PIAT	O
+Zusammenhang	NN	O
+zwischen	APPR	O
+dem	ART	O
+Aufbau	NN	O
+eines	ART	O
+Ofens	NN	O
+und	KON	O
+dem	ART	O
+produzierten	ADJA	O
+Material	NN	O
+besteht	VVFIN	O
+.	$.	O

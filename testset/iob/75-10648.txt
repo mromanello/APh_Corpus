@@ -1,37 +1,36 @@
-La	DET:def
-titolatura	NOM
-ufficiale	ADJ
-del	PRE:det
-prefetto	NOM
-testimonia	VER:pres
-l'	DET:def
-unione	NOM
-nella	PRE:det
-stessa	ADJ
-persona	NOM
-di	PRE
-due	ADJ
-cariche	NOM
-;	PON
-la	DET:def
-necessità	NOM
-di	PRE
-distinguere	VER:infi
-era	NOM
-in	PRE
-stretto	ADJ
-rapporto	NOM
-con	PRE
-la	DET:def
-perdita	NOM
-di	PRE
-autonomia	NOM
-conseguente	VER:ppre
-alla	PRE:det
-conquista	NOM
-e	CON
-ai	PRE:det
-provvedimenti	NOM
-di	PRE
-Ottaviano	NPR
-
+La	DET:def	O
+titolatura	NOM	O
+ufficiale	ADJ	O
+del	PRE:det	O
+prefetto	NOM	O
+testimonia	VER:pres	O
+l'	DET:def	O
+unione	NOM	O
+nella	PRE:det	O
+stessa	ADJ	O
+persona	NOM	O
+di	PRE	O
+due	ADJ	O
+cariche	NOM	O
+;	PON	O
+la	DET:def	O
+necessità	NOM	O
+di	PRE	O
+distinguere	VER:infi	O
+era	NOM	O
+in	PRE	O
+stretto	ADJ	O
+rapporto	NOM	O
+con	PRE	O
+la	DET:def	O
+perdita	NOM	O
+di	PRE	O
+autonomia	NOM	O
+conseguente	VER:ppre	O
+alla	PRE:det	O
+conquista	NOM	O
+e	CON	O
+ai	PRE:det	O
+provvedimenti	NOM	O
+di	PRE	O
+Ottaviano	NPR	O

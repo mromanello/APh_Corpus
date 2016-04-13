@@ -1,70 +1,69 @@
-Zur	APPRART
-Deutung	NN
-von	APPR
-Ps	NN
-45	CARD
-(	$(
-44	CARD
-)	$(
-,	$,
-2	CARD
-,	$,
-von	APPR
-Joh	NE
-7	CARD
-,	$,
-37-39	CARD
-,	$,
-Ez	NE
-36	CARD
-,	$,
-26-28	CARD
-und	KON
-von	APPR
-Opfervorschriften	NN
-nach	APPR
-Leviticus	NE
-durch	APPR
-die	ART
-Kirchenväter	NN
-sowie	KON
-zu	APPR
-den	ART
-einzelnen	ADJA
-theologischen	ADJA
-Bedeutungen	NN
-des	ART
-Herzens	NN
-als	KOKOM
-Bildbegriff	NN
-(	$(
-Fähigkeiten	NN
-und	KON
-Sinnesorgane	NN
-des	ART
-Herzens	NN
-,	$,
-das	ART
-Herz	NN
-als	KOKOM
-Räumlichkeit	NN
-,	$,
-als	KOKOM
-Acker	NN
-,	$,
-als	KOKOM
-Bild	NN
-für	APPR
-geistliche	ADJA
-Wachsamkeit	NN
-,	$,
-als	KOKOM
-Bild	NN
-für	APPR
-das	ART
-göttliche	ADJA
-Leben	NN
-etc.	ADV
-)	$(
-.	$.
-
+Zur	APPRART	O
+Deutung	NN	O
+von	APPR	O
+Ps	NN	B-REFAUWORK
+45	CARD	B-REFSCOPE
+(	$(	I-REFSCOPE
+44	CARD	I-REFSCOPE
+)	$(	I-REFSCOPE
+,	$,	I-REFSCOPE
+2	CARD	I-REFSCOPE
+,	$,	I-REFSCOPE
+von	APPR	O
+Joh	NE	B-REFAUWORK
+7	CARD	B-REFSCOPE
+,	$,	I-REFSCOPE
+37-39	CARD	I-REFSCOPE
+,	$,	I-REFSCOPE
+Ez	NE	B-REFAUWORK
+36	CARD	B-REFSCOPE
+,	$,	I-REFSCOPE
+26-28	CARD	I-REFSCOPE
+und	KON	O
+von	APPR	O
+Opfervorschriften	NN	O
+nach	APPR	O
+Leviticus	NE	O
+durch	APPR	O
+die	ART	O
+Kirchenväter	NN	O
+sowie	KON	O
+zu	APPR	O
+den	ART	O
+einzelnen	ADJA	O
+theologischen	ADJA	O
+Bedeutungen	NN	O
+des	ART	O
+Herzens	NN	O
+als	KOKOM	O
+Bildbegriff	NN	O
+(	$(	O
+Fähigkeiten	NN	O
+und	KON	O
+Sinnesorgane	NN	O
+des	ART	O
+Herzens	NN	O
+,	$,	O
+das	ART	O
+Herz	NN	O
+als	KOKOM	O
+Räumlichkeit	NN	O
+,	$,	O
+als	KOKOM	O
+Acker	NN	O
+,	$,	O
+als	KOKOM	O
+Bild	NN	O
+für	APPR	O
+geistliche	ADJA	O
+Wachsamkeit	NN	O
+,	$,	O
+als	KOKOM	O
+Bild	NN	O
+für	APPR	O
+das	ART	O
+göttliche	ADJA	O
+Leben	NN	O
+etc.	ADV	O
+)	$(	O
+.	$.	O

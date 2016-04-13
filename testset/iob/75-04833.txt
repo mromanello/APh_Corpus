@@ -1,32 +1,31 @@
-Analyse	NOM
-de	PRP
-la	DET:ART
-composition	NOM
-et	KON
-de	PRP
-la	DET:ART
-sémantique	NOM
-de	PRP
-cette	PRO:DEM
-lettre	NOM
-qui	PRO:REL
-traite	VER:pres
-du	PRP:det
-temps	NOM
-qui	PRO:REL
-passe	VER:pres
-par	PRP
-comparaison	NOM
-avec	PRP
-les	DET:ART
-«	PUN:cit
-realia	NOM
-»	PUN:cit
-des	PRP:det
-règnes	NOM
-végétal	ADJ
-,	PUN
-minéral	ADJ
-ou	KON
-animal	ADJ
-
+Analyse	NOM	O
+de	PRP	O
+la	DET:ART	O
+composition	NOM	O
+et	KON	O
+de	PRP	O
+la	DET:ART	O
+sémantique	NOM	O
+de	PRP	O
+cette	PRO:DEM	O
+lettre	NOM	O
+qui	PRO:REL	O
+traite	VER:pres	O
+du	PRP:det	O
+temps	NOM	O
+qui	PRO:REL	O
+passe	VER:pres	O
+par	PRP	O
+comparaison	NOM	O
+avec	PRP	O
+les	DET:ART	O
+«	PUN:cit	O
+realia	NOM	O
+»	PUN:cit	O
+des	PRP:det	O
+règnes	NOM	O
+végétal	ADJ	O
+,	PUN	O
+minéral	ADJ	O
+ou	KON	O
+animal	ADJ	O

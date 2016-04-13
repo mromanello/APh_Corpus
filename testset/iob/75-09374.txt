@@ -1,51 +1,50 @@
-Étude	NOM
-de	PRP
-deux	NUM
-inscriptions	NOM
-sur	PRP
-milliaires	NOM
-de	PRP
-la	DET:ART
-région	NOM
-de	PRP
-Narbonne	NAM
-(	PUN
-CIL	NAM
-17/2	NUM
-,	PUN
-291	NUM
-et	KON
-298	NUM
-)	PUN
-.	SENT
+Étude	NOM	O
+de	PRP	O
+deux	NUM	O
+inscriptions	NOM	O
+sur	PRP	O
+milliaires	NOM	O
+de	PRP	O
+la	DET:ART	O
+région	NOM	O
+de	PRP	O
+Narbonne	NAM	O
+(	PUN	O
+CIL	NAM	O
+17/2	NUM	O
+,	PUN	O
+291	NUM	O
+et	KON	O
+298	NUM	O
+)	PUN	O
+.	SENT	O
 
-Datant	VER:ppre
-de	PRP
-l'	DET:ART
-époque	NOM
-d'	PRP
-Auguste	NAM
-,	PUN
-elles	PRO:PER
-mentionnent	VER:pres
-non	ADV
-seulement	ADV
-la	DET:ART
-distance	NOM
-depuis	PRP
-la	DET:ART
-«	PUN:cit
-caput	NOM
-uiae	NOM
-»	PUN:cit
-,	PUN
-mais	KON
-encore	ADV
-deux	NUM
-trajets	NOM
-possibles	ADJ
-de	PRP
-Narbonne	NAM
-à	PRP
-Rome	NAM
-
+Datant	VER:ppre	O
+de	PRP	O
+l'	DET:ART	O
+époque	NOM	O
+d'	PRP	O
+Auguste	NAM	O
+,	PUN	O
+elles	PRO:PER	O
+mentionnent	VER:pres	O
+non	ADV	O
+seulement	ADV	O
+la	DET:ART	O
+distance	NOM	O
+depuis	PRP	O
+la	DET:ART	O
+«	PUN:cit	O
+caput	NOM	O
+uiae	NOM	O
+»	PUN:cit	O
+,	PUN	O
+mais	KON	O
+encore	ADV	O
+deux	NUM	O
+trajets	NOM	O
+possibles	ADJ	O
+de	PRP	O
+Narbonne	NAM	O
+à	PRP	O
+Rome	NAM	O

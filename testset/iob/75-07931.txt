@@ -1,65 +1,64 @@
-Includes	VBZ
-work	NN
-from	IN
-the	DT
-Oriental	JJ
-Institute	NP
-of	IN
-the	DT
-University	NP
-of	IN
-Chicago	NP
-'s	POS
-survey	NN
-seasons	NNS
-1992	CD
-,	,
-1993	CD
-,	,
-1996	CD
-,	,
-and	CC
-1997	CD
-in	IN
-addressing	VBG
-how	WRB
-ancient	JJ
-miners	NNS
-won	VBD
-gold	NN
-from	IN
-the	DT
-rocks	NNS
-.	SENT
+Includes	VBZ	O
+work	NN	O
+from	IN	O
+the	DT	O
+Oriental	JJ	O
+Institute	NP	O
+of	IN	O
+the	DT	O
+University	NP	O
+of	IN	O
+Chicago	NP	O
+'s	POS	O
+survey	NN	O
+seasons	NNS	O
+1992	CD	O
+,	,	O
+1993	CD	O
+,	,	O
+1996	CD	O
+,	,	O
+and	CC	O
+1997	CD	O
+in	IN	O
+addressing	VBG	O
+how	WRB	O
+ancient	JJ	O
+miners	NNS	O
+won	VBD	O
+gold	NN	O
+from	IN	O
+the	DT	O
+rocks	NNS	O
+.	SENT	O
 
-Roman	NP
-pottery	NN
-from	IN
-the	DT
-1st-2nd	NP
-cents	NNS
-.	SENT
+Roman	NP	O
+pottery	NN	O
+from	IN	O
+the	DT	O
+1st-2nd	NP	O
+cents	NNS	O
+.	SENT	O
 
-A.	NP
-D.	NP
-has	VBZ
-been	VBN
-found	VBN
-at	IN
-the	DT
-site	NN
-and	CC
-surrounding	VBG
-area	NN
-,	,
-but	CC
-activity	NN
-was	VBD
-minimal	JJ
-until	IN
-the	DT
-late	JJ
-5th-6th	JJ
-cents	NNS
-.	SENT
-
+A.	NP	O
+D.	NP	O
+has	VBZ	O
+been	VBN	O
+found	VBN	O
+at	IN	O
+the	DT	O
+site	NN	O
+and	CC	O
+surrounding	VBG	O
+area	NN	O
+,	,	O
+but	CC	O
+activity	NN	O
+was	VBD	O
+minimal	JJ	O
+until	IN	O
+the	DT	O
+late	JJ	O
+5th-6th	JJ	O
+cents	NNS	O
+.	SENT	O

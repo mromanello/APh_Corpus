@@ -1,63 +1,62 @@
-Nouvelles	ADJ
-fouilles	NOM
-germano-grecques	ADJ
-entreprises	VER:pper
-en	PRP
-1991.	DET:POS
+Nouvelles	ADJ	O
+fouilles	NOM	O
+germano-grecques	ADJ	O
+entreprises	VER:pper	O
+en	PRP	O
+1991.	DET:POS	O
 
-Le	DET:ART
-sanctuaire	NOM
-a	VER:pres
-été	VER:pper
-fondé	VER:pper
-en	PRP
-même	ADJ
-temps	NOM
-que	KON
-la	DET:ART
-stoa	NOM
-de	PRP
-Philippes	NAM
-en	PRP
-340	NUM
-,	PUN
-tous	PRO:IND
-deux	NOM
-faisant	VER:ppre
-partie	NOM
-d'	PRP
-un	DET:ART
-vaste	ADJ
-programme	NOM
-urbanistique	ADJ
-,	PUN
-pour	KON
-lequel	PRO:REL
-des	PRP:det
-sculpteurs	NOM
-athéniens	ADJ
-ont	VER:pres
-été	VER:pper
-convoqués	VER:pper
-.	SENT
+Le	DET:ART	O
+sanctuaire	NOM	O
+a	VER:pres	O
+été	VER:pper	O
+fondé	VER:pper	O
+en	PRP	O
+même	ADJ	O
+temps	NOM	O
+que	KON	O
+la	DET:ART	O
+stoa	NOM	O
+de	PRP	O
+Philippes	NAM	O
+en	PRP	O
+340	NUM	O
+,	PUN	O
+tous	PRO:IND	O
+deux	NOM	O
+faisant	VER:ppre	O
+partie	NOM	O
+d'	PRP	O
+un	DET:ART	O
+vaste	ADJ	O
+programme	NOM	O
+urbanistique	ADJ	O
+,	PUN	O
+pour	KON	O
+lequel	PRO:REL	O
+des	PRP:det	O
+sculpteurs	NOM	O
+athéniens	ADJ	O
+ont	VER:pres	O
+été	VER:pper	O
+convoqués	VER:pper	O
+.	SENT	O
 
-L'	DET:ART
-annexe	NOM
-contre	PRP
-le	DET:ART
-mur	NOM
-nord	ADJ
-n'	ADV
-est	VER:pres
-pas	ADV
-un	DET:ART
-propylon	NOM
-mais	KON
-une	DET:ART
-exèdre	NOM
-.	SENT
+L'	DET:ART	O
+annexe	NOM	O
+contre	PRP	O
+le	DET:ART	O
+mur	NOM	O
+nord	ADJ	O
+n'	ADV	O
+est	VER:pres	O
+pas	ADV	O
+un	DET:ART	O
+propylon	NOM	O
+mais	KON	O
+une	DET:ART	O
+exèdre	NOM	O
+.	SENT	O
 
-Discussion	NOM
-p.	ABR
-190-191	NUM
-
+Discussion	NOM	O
+p.	ABR	O
+190-191	NUM	O

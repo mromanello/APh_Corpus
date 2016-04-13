@@ -1,75 +1,74 @@
-L'	DET:ART
-examen	NOM
-d'	PRP
-un	DET:ART
-ensemble	NOM
-de	PRP
-dix-huit	NUM
-textes	NOM
-épigraphiques	ADJ
-relatifs	ADJ
-à	PRP
-la	DET:ART
-guerre	NOM
-d'	PRP
-Aristonicos	NOM
-,	PUN
-tous	PRO:IND
-rédigés	VER:pper
-après	PRP
-la	DET:ART
-victoire	NOM
-romaine	ADJ
-,	PUN
-mène	VER:pres
-à	PRP
-la	DET:ART
-conclusion	NOM
-que	KON
-les	DET:ART
-cités	NOM
-grecques	ADJ
-d'	PRP
-Asie	NAM
-Mineure	NAM
-occidentale	ADJ
-ont	VER:pres
-bien	ADV
-participé	VER:pper
-activement	ADV
-aux	PRP:det
-hostilités	NOM
-contre	PRP
-le	DET:ART
-prétendant	NOM
-attalide	NOM
-.	SENT
+L'	DET:ART	O
+examen	NOM	O
+d'	PRP	O
+un	DET:ART	O
+ensemble	NOM	O
+de	PRP	O
+dix-huit	NUM	O
+textes	NOM	O
+épigraphiques	ADJ	O
+relatifs	ADJ	O
+à	PRP	O
+la	DET:ART	O
+guerre	NOM	O
+d'	PRP	O
+Aristonicos	NOM	O
+,	PUN	O
+tous	PRO:IND	O
+rédigés	VER:pper	O
+après	PRP	O
+la	DET:ART	O
+victoire	NOM	O
+romaine	ADJ	O
+,	PUN	O
+mène	VER:pres	O
+à	PRP	O
+la	DET:ART	O
+conclusion	NOM	O
+que	KON	O
+les	DET:ART	O
+cités	NOM	O
+grecques	ADJ	O
+d'	PRP	O
+Asie	NAM	O
+Mineure	NAM	O
+occidentale	ADJ	O
+ont	VER:pres	O
+bien	ADV	O
+participé	VER:pper	O
+activement	ADV	O
+aux	PRP:det	O
+hostilités	NOM	O
+contre	PRP	O
+le	DET:ART	O
+prétendant	NOM	O
+attalide	NOM	O
+.	SENT	O
 
-Ce	PRO:DEM
-choix	NOM
-apparemment	ADV
-paradoxal	ADJ
-a	VER:pres
-été	VER:pper
-dicté	VER:pper
-par	PRP
-des	PRP:det
-raisons	NOM
-politiques	ADJ
-et	KON
-l'	DET:ART
-alliance	NOM
-avec	PRP
-Rome	NAM
-semblait	VER:impf
-alors	ADV
-la	DET:ART
-meilleure	ADJ
-solution	NOM
-pour	PRP
-préserver	VER:infi
-la	DET:ART
-liberté	NOM
-des	PRP:det
-cités	NOM
-
+Ce	PRO:DEM	O
+choix	NOM	O
+apparemment	ADV	O
+paradoxal	ADJ	O
+a	VER:pres	O
+été	VER:pper	O
+dicté	VER:pper	O
+par	PRP	O
+des	PRP:det	O
+raisons	NOM	O
+politiques	ADJ	O
+et	KON	O
+l'	DET:ART	O
+alliance	NOM	O
+avec	PRP	O
+Rome	NAM	O
+semblait	VER:impf	O
+alors	ADV	O
+la	DET:ART	O
+meilleure	ADJ	O
+solution	NOM	O
+pour	PRP	O
+préserver	VER:infi	O
+la	DET:ART	O
+liberté	NOM	O
+des	PRP:det	O
+cités	NOM	O

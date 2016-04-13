@@ -1,11 +1,10 @@
-Auch	ADV
-anhand	APPR
-von	APPR
-Beispielen	NN
-aus	APPR
-dem	ART
-Griechischen	NN
-und	KON
-Lateinischen	NN
-.	$.
-
+Auch	ADV	O
+anhand	APPR	O
+von	APPR	O
+Beispielen	NN	O
+aus	APPR	O
+dem	ART	O
+Griechischen	NN	O
+und	KON	O
+Lateinischen	NN	O
+.	$.	O

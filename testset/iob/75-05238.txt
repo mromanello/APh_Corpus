@@ -1,117 +1,116 @@
-The	DT
-speeches	NNS
-in	IN
-Tacitus	NP
-'	POS
-«	)
-Dialogus	NN
-»	(
-(	(
-5	CD
-,	,
-3-10	CD
-,	,
-8	CD
-;	:
-11	CD
-,	,
-1-13	CD
-,	,
-6	CD
-;	:
-16	CD
-,	,
-4-23	CD
-,	,
-6	CD
-;	:
-25	CD
-,	,
-1-26	CD
-,	,
-8	CD
-;	:
-28	CD
-,	,
-1-35	CD
-,	,
-5	CD
-;	:
-36	CD
-,	,
-1-41	CD
-,	,
-5	CD
-)	)
-,	,
-despite	IN
-being	VBG
-at	IN
-variance	NN
-with	IN
-one	CD
-another	DT
-in	IN
-other	JJ
-respects	NNS
-,	,
-develop	VB
-with	IN
-increasing	VBG
-sophistication	NN
-a	DT
-single	JJ
-account	NN
-of	IN
-literary	JJ
-history	NN
-with	IN
-a	DT
-complex	JJ
-interrelation	NN
-of	IN
-aesthetic	JJ
-and	CC
-political	JJ
-factors	NNS
-.	SENT
+The	DT	O
+speeches	NNS	O
+in	IN	O
+Tacitus	NP	B-AAUTHOR
+'	POS	I-AAUTHOR
+«	)	B-AWORK
+Dialogus	NN	I-AWORK
+»	(	I-AWORK
+(	(	B-REFSCOPE
+5	CD	I-REFSCOPE
+,	,	I-REFSCOPE
+3-10	CD	I-REFSCOPE
+,	,	I-REFSCOPE
+8	CD	I-REFSCOPE
+;	:	I-REFSCOPE
+11	CD	B-REFSCOPE
+,	,	I-REFSCOPE
+1-13	CD	I-REFSCOPE
+,	,	I-REFSCOPE
+6	CD	I-REFSCOPE
+;	:	I-REFSCOPE
+16	CD	B-REFSCOPE
+,	,	I-REFSCOPE
+4-23	CD	I-REFSCOPE
+,	,	I-REFSCOPE
+6	CD	I-REFSCOPE
+;	:	I-REFSCOPE
+25	CD	B-REFSCOPE
+,	,	I-REFSCOPE
+1-26	CD	I-REFSCOPE
+,	,	I-REFSCOPE
+8	CD	I-REFSCOPE
+;	:	I-REFSCOPE
+28	CD	B-REFSCOPE
+,	,	I-REFSCOPE
+1-35	CD	I-REFSCOPE
+,	,	I-REFSCOPE
+5	CD	I-REFSCOPE
+;	:	I-REFSCOPE
+36	CD	B-REFSCOPE
+,	,	I-REFSCOPE
+1-41	CD	I-REFSCOPE
+,	,	I-REFSCOPE
+5	CD	I-REFSCOPE
+)	)	I-REFSCOPE
+,	,	I-REFSCOPE
+despite	IN	O
+being	VBG	O
+at	IN	O
+variance	NN	O
+with	IN	O
+one	CD	O
+another	DT	O
+in	IN	O
+other	JJ	O
+respects	NNS	O
+,	,	O
+develop	VB	O
+with	IN	O
+increasing	VBG	O
+sophistication	NN	O
+a	DT	O
+single	JJ	O
+account	NN	O
+of	IN	O
+literary	JJ	O
+history	NN	O
+with	IN	O
+a	DT	O
+complex	JJ	O
+interrelation	NN	O
+of	IN	O
+aesthetic	JJ	O
+and	CC	O
+political	JJ	O
+factors	NNS	O
+.	SENT	O
 
-When	WRB
-one	PP
-seeks	VBZ
-to	TO
-slot	VB
-the	DT
-«	)
-Dialogus	NP
-»	(
-itself	PP
-into	IN
-that	DT
-account	NN
-,	,
-however	RB
-,	,
-one	PP
-finds	VBZ
-that	IN
-the	DT
-form	NN
-in	IN
-which	WDT
-the	DT
-work	NN
-is	VBZ
-written	VBN
-appears	VBZ
-to	TO
-challenge	VB
-the	DT
-very	JJ
-analysis	NN
-that	IN
-it	PP
-has	VBZ
-developed	VBN
-.	SENT
-
+When	WRB	O
+one	PP	O
+seeks	VBZ	O
+to	TO	O
+slot	VB	O
+the	DT	O
+«	)	B-AWORK
+Dialogus	NP	I-AWORK
+»	(	I-AWORK
+itself	PP	O
+into	IN	O
+that	DT	O
+account	NN	O
+,	,	O
+however	RB	O
+,	,	O
+one	PP	O
+finds	VBZ	O
+that	IN	O
+the	DT	O
+form	NN	O
+in	IN	O
+which	WDT	O
+the	DT	O
+work	NN	O
+is	VBZ	O
+written	VBN	O
+appears	VBZ	O
+to	TO	O
+challenge	VB	O
+the	DT	O
+very	JJ	O
+analysis	NN	O
+that	IN	O
+it	PP	O
+has	VBZ	O
+developed	VBN	O
+.	SENT	O

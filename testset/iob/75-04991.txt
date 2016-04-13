@@ -1,95 +1,94 @@
-Die	ART
-Verwendung	NN
-des	ART
-Eides	NN
-«	$(
-beim	APPRART
-Hunde	NN
-»	$(
-oder	KON
-ähnlicher	ADJA
-Formeln	NN
-ist	VAFIN
-für	APPR
-Sokrates	NE
-vielfältig	ADJD
-bezeugt	VVPP
-und	KON
-entspricht	VVFIN
-der	ART
-zeitgenössischen	ADJA
-Praxis	NN
-des	ART
-Schwörens	NN
-,	$,
-die	PRELS
-auf	APPR
-Rhadamanthys	NE
-zurückgeführt	VVPP
-wurde	VAFIN
-:	$.
-Aus	APPR
-religiöser	ADJA
-Ehrfurcht	NN
-vermied	VVFIN
-man	PIS
-es	PPER
-,	$,
-ständig	ADJD
-die	ART
-Götter	NN
-anzurufen	VVIZU
-,	$,
-sondern	KON
-schwor	VVFIN
-bei	APPR
-alltäglichen	ADJA
-Dingen	NN
-.	$.
+Die	ART	O
+Verwendung	NN	O
+des	ART	O
+Eides	NN	O
+«	$(	O
+beim	APPRART	O
+Hunde	NN	O
+»	$(	O
+oder	KON	O
+ähnlicher	ADJA	O
+Formeln	NN	O
+ist	VAFIN	O
+für	APPR	O
+Sokrates	NE	O
+vielfältig	ADJD	O
+bezeugt	VVPP	O
+und	KON	O
+entspricht	VVFIN	O
+der	ART	O
+zeitgenössischen	ADJA	O
+Praxis	NN	O
+des	ART	O
+Schwörens	NN	O
+,	$,	O
+die	PRELS	O
+auf	APPR	O
+Rhadamanthys	NE	O
+zurückgeführt	VVPP	O
+wurde	VAFIN	O
+:	$.	O
+Aus	APPR	O
+religiöser	ADJA	O
+Ehrfurcht	NN	O
+vermied	VVFIN	O
+man	PIS	O
+es	PPER	O
+,	$,	O
+ständig	ADJD	O
+die	ART	O
+Götter	NN	O
+anzurufen	VVIZU	O
+,	$,	O
+sondern	KON	O
+schwor	VVFIN	O
+bei	APPR	O
+alltäglichen	ADJA	O
+Dingen	NN	O
+.	$.	O
 
-Lediglich	ADV
-Xenophons	NE
-Sokrates	NE
-verzichtet	VVFIN
-gänzlich	ADJD
-auf	APPR
-derartige	ADJA
-Eide	NN
-.	$.
+Lediglich	ADV	O
+Xenophons	NE	B-AAUTHOR
+Sokrates	NE	O
+verzichtet	VVFIN	O
+gänzlich	ADJD	O
+auf	APPR	O
+derartige	ADJA	O
+Eide	NN	O
+.	$.	O
 
-Die	ART
-Ursache	NN
-dafür	PAV
-könnte	VMFIN
-in	APPR
-der	ART
-(	$(
-nicht	PTKNEG
-ernst	ADJD
-gemeinten	ADJA
-)	$(
-Anklagerede	NN
-des	ART
-Polykrates	NN
-zu	PTKZU
-suchen	VVINF
-sein	VAINF
-.	$.
+Die	ART	O
+Ursache	NN	O
+dafür	PAV	O
+könnte	VMFIN	O
+in	APPR	O
+der	ART	O
+(	$(	O
+nicht	PTKNEG	O
+ernst	ADJD	O
+gemeinten	ADJA	O
+)	$(	O
+Anklagerede	NN	O
+des	ART	O
+Polykrates	NN	O
+zu	PTKZU	O
+suchen	VVINF	O
+sein	VAINF	O
+.	$.	O
 
-Dieser	PDS
-hatte	VAFIN
-Sokrates	NE
-beschuldigt	VVPP
-,	$,
-die	ART
-Verehrung	NN
-neuer	ADJA
-dämonischer	ADJA
-Wesenheiten	NN
-ins	APPRART
-Werk	NN
-gesetzt	VVPP
-zu	PTKZU
-haben	VAINF
-.	$.
-
+Dieser	PDS	O
+hatte	VAFIN	O
+Sokrates	NE	O
+beschuldigt	VVPP	O
+,	$,	O
+die	ART	O
+Verehrung	NN	O
+neuer	ADJA	O
+dämonischer	ADJA	O
+Wesenheiten	NN	O
+ins	APPRART	O
+Werk	NN	O
+gesetzt	VVPP	O
+zu	PTKZU	O
+haben	VAINF	O
+.	$.	O

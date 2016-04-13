@@ -1,98 +1,98 @@
-The	DT
-many	JJ
-types	NNS
-of	IN
-persuasive	JJ
-act	NN
-found	VBN
-in	IN
-the	DT
-«	)
-Iliad	NN
-»	(
-may	MD
-be	VB
-clustered	VBN
-under	IN
-four	CD
-dominant	JJ
-sources	NNS
-of	IN
-appeal	NN
-that	WDT
-transcend	VBP
-situational	JJ
-constraints	NNS
-:	:
-honor	VB
-(	(
-illustrated	VBD
-,	,
-e.	FW
-g.	FW
-,	,
-at	IN
-1	CD
-,	,
-253-258	CD
-;	:
-9	CD
-,	,
-283-285	CD
-and	CC
-13	CD
-,	,
-95-96	CD
-)	)
-,	,
-material	NN
-gain	NN
-(	(
-1	CD
-,	,
-20-21	CD
-and	CC
-21	CD
-,	,
-74-80	CD
-)	)
-,	,
-power	NN
-(	(
-6	CD
-,	,
-111-112	CD
-and	CC
-13	CD
-,	,
-236-237	CD
-)	)
-,	,
-and	CC
-justice	NN
-(	(
-3	CD
-,	,
-351-354	CD
-)	)
-.	SENT
+The	DT	O
+many	JJ	O
+types	NNS	O
+of	IN	O
+persuasive	JJ	O
+act	NN	O
+found	VBN	O
+in	IN	O
+the	DT	O
+«	)	B-AWORK
+Iliad	NN	I-AWORK
+»	(	I-AWORK
+may	MD	O
+be	VB	O
+clustered	VBN	O
+under	IN	O
+four	CD	O
+dominant	JJ	O
+sources	NNS	O
+of	IN	O
+appeal	NN	O
+that	WDT	O
+transcend	VBP	O
+situational	JJ	O
+constraints	NNS	O
+:	:	O
+honor	VB	O
+(	(	O
+illustrated	VBD	O
+,	,	O
+e.	FW	O
+g.	FW	O
+,	,	O
+at	IN	O
+1	CD	B-REFSCOPE
+,	,	I-REFSCOPE
+253-258	CD	I-REFSCOPE
+;	:	I-REFSCOPE
+9	CD	B-REFSCOPE
+,	,	I-REFSCOPE
+283-285	CD	I-REFSCOPE
+and	CC	B-REFSCOPE
+13	CD	I-REFSCOPE
+,	,	I-REFSCOPE
+95-96	CD	I-REFSCOPE
+)	)	I-REFSCOPE
+,	,	I-REFSCOPE
+material	NN	O
+gain	NN	O
+(	(	B-REFSCOPE
+1	CD	I-REFSCOPE
+,	,	I-REFSCOPE
+20-21	CD	I-REFSCOPE
+and	CC	O
+21	CD	B-REFSCOPE
+,	,	I-REFSCOPE
+74-80	CD	I-REFSCOPE
+)	)	I-REFSCOPE
+,	,	I-REFSCOPE
+power	NN	O
+(	(	B-REFSCOPE
+6	CD	I-REFSCOPE
+,	,	I-REFSCOPE
+111-112	CD	I-REFSCOPE
+and	CC	B-REFSCOPE
+13	CD	I-REFSCOPE
+,	,	I-REFSCOPE
+236-237	CD	I-REFSCOPE
+)	)	I-REFSCOPE
+,	,	I-REFSCOPE
+and	CC	O
+justice	NN	O
+(	(	B-REFSCOPE
+3	CD	I-REFSCOPE
+,	,	I-REFSCOPE
+351-354	CD	I-REFSCOPE
+)	)	I-REFSCOPE
+.	SENT	I-REFSCOPE
 
-These	DT
-four	CD
-sources	NNS
-reflect	VBP
-the	DT
-dominant	JJ
-cultural	JJ
-values	NNS
-of	IN
-archaic	JJ
-Greece	NP
-of	IN
-the	DT
-8th-7th	JJ
-cents	NNS
-.	SENT
+These	DT	O
+four	CD	O
+sources	NNS	O
+reflect	VBP	O
+the	DT	O
+dominant	JJ	O
+cultural	JJ	O
+values	NNS	O
+of	IN	O
+archaic	JJ	O
+Greece	NP	O
+of	IN	O
+the	DT	O
+8th-7th	JJ	O
+cents	NNS	O
+.	SENT	O
 
-B.	NP
-C.	NP
+B.	NP	O
+C.	NP	O

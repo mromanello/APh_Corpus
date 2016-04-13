@@ -1,92 +1,91 @@
-It	PP
-is	VBZ
-possible	JJ
-to	TO
-come	VB
-away	RB
-from	IN
-reading	VBG
-J.	NP
-Boswell	NP
-'s	POS
-work	NN
-on	IN
-same-sex	JJ
-unions	NNS
-(	(
-=>	NN
-65-14126	CD
-)	)
-that	IN
-Augustine	NP
-engaged	VBD
-in	IN
-sexual	JJ
-relations	NNS
-with	IN
-men	NNS
-.	SENT
+It	PP	O
+is	VBZ	O
+possible	JJ	O
+to	TO	O
+come	VB	O
+away	RB	O
+from	IN	O
+reading	VBG	O
+J.	NP	O
+Boswell	NP	O
+'s	POS	O
+work	NN	O
+on	IN	O
+same-sex	JJ	O
+unions	NNS	O
+(	(	O
+=>	NN	O
+65-14126	CD	O
+)	)	O
+that	IN	O
+Augustine	NP	B-AAUTHOR
+engaged	VBD	O
+in	IN	O
+sexual	JJ	O
+relations	NNS	O
+with	IN	O
+men	NNS	O
+.	SENT	O
 
-The	DT
-actual	JJ
-evidence	NN
-that	IN
-Augustine	NP
-engaged	VBD
-in	IN
-same-sex	JJ
-sexual	JJ
-activity	NN
-is	VBZ
-missing	JJ
-or	CC
-underwhelming	JJ
-.	SENT
+The	DT	O
+actual	JJ	O
+evidence	NN	O
+that	IN	O
+Augustine	NP	B-AAUTHOR
+engaged	VBD	O
+in	IN	O
+same-sex	JJ	O
+sexual	JJ	O
+activity	NN	O
+is	VBZ	O
+missing	JJ	O
+or	CC	O
+underwhelming	JJ	O
+.	SENT	O
 
-He	PP
-probably	RB
-engaged	VBD
-in	IN
-sexual	JJ
-relations	NNS
-with	IN
-women	NNS
-before	IN
-he	PP
-began	VBD
-living	VBG
-with	IN
-his	PP$
-mistress	NN
-;	:
-he	PP
-lived	VBD
-with	IN
-her	PP
-for	IN
-about	IN
-a	DT
-dozen	NN
-years	NNS
-and	CC
-seems	VBZ
-to	TO
-have	VB
-had	VBN
-one	CD
-other	JJ
-sexual	JJ
-affair	NN
-before	IN
-his	PP$
-conversion	NN
-,	,
-after	IN
-which	WDT
-he	PP
-led	VBD
-a	DT
-celibate	NN
-life	NN
-.	SENT
-
+He	PP	O
+probably	RB	O
+engaged	VBD	O
+in	IN	O
+sexual	JJ	O
+relations	NNS	O
+with	IN	O
+women	NNS	O
+before	IN	O
+he	PP	O
+began	VBD	O
+living	VBG	O
+with	IN	O
+his	PP$	O
+mistress	NN	O
+;	:	O
+he	PP	O
+lived	VBD	O
+with	IN	O
+her	PP	O
+for	IN	O
+about	IN	O
+a	DT	O
+dozen	NN	O
+years	NNS	O
+and	CC	O
+seems	VBZ	O
+to	TO	O
+have	VB	O
+had	VBN	O
+one	CD	O
+other	JJ	O
+sexual	JJ	O
+affair	NN	O
+before	IN	O
+his	PP$	O
+conversion	NN	O
+,	,	O
+after	IN	O
+which	WDT	O
+he	PP	O
+led	VBD	O
+a	DT	O
+celibate	NN	O
+life	NN	O
+.	SENT	O
