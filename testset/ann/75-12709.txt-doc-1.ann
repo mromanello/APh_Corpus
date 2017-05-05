@@ -6,8 +6,8 @@ T5	REFSCOPE 310 317	34, 74)
 T6	AAUTHOR 377 387	Pausanias,
 R1	Scope Arg1:T1 Arg2:T2
 R2	Scope Arg1:T4 Arg2:T5
-#0	AnnotatorNotes R1	urn:cts:greekLit:tlg0525:1.23.3-1.23.4
-#1	AnnotatorNotes R2	urn:cts:cwkb:620.1289:34.74
+#0	AnnotatorNotes R1	urn:cts:greekLit:tlg0525.tlg001:1.23.3-1.23.4
+#1	AnnotatorNotes R2	urn:cts:latinLit:phi0978.phi001:34.74
 #2	AnnotatorNotes T6	urn:cts:greekLit:tlg0525
 #3	AnnotatorNotes T3	urn:cts:cwkb:584
 #4	AnnotatorNotes T1	urn:cts:greekLit:tlg0525

@@ -12,12 +12,16 @@ R1	Scope Arg1:T2 Arg2:T3
 R2	Scope Arg1:T4 Arg2:T5
 R3	Scope Arg1:T4 Arg2:T6
 R4	Scope Arg1:T4 Arg2:T7
-#0	AnnotatorNotes R4	urn:cts:cwkb:527:5.878-5.898
+#0	AnnotatorNotes R4	urn:cts:latinLit:phi0550.phi001:5.878-5.898
 #3	AnnotatorNotes R1	urn:cts:latinLit:phi0959.phi006:12.393-12.428
-#4	AnnotatorNotes R2	urn:cts:cwkb:527:2.700-2.702
-#5	AnnotatorNotes R3	urn:cts:cwkb:527:4.739-4.744
+#4	AnnotatorNotes R2	urn:cts:latinLit:phi0550.phi001:2.700-2.702
+#5	AnnotatorNotes R3	urn:cts:latinLit:phi0550.phi001:4.739-4.744
 #6	AnnotatorNotes T1	urn:cts:cwkb:568
 #7	AnnotatorNotes T10	urn:cts:cwkb:741.1536
 T11	REFAUWORK 204 207	ars
 R5	Scope Arg1:T11 Arg2:T8	
 R6	Scope Arg1:T10 Arg2:T9	
+T12	AAUTHOR 101 105	Ovid
+#1	AnnotatorNotes T12	urn:cts:cwkb:568
+#2	AnnotatorNotes R5	urn:cts:latinLit:phi0959.phi004:3.133-3.198
+#8	AnnotatorNotes R6	urn:cts:latinLit:phi0959.phi006:12

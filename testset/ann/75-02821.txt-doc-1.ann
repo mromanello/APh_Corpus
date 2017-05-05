@@ -8,8 +8,8 @@ T7	AWORK 474 496	« Regula monachorum ».
 R1	Scope Arg1:T1 Arg2:T2
 R2	Scope Arg1:T3 Arg2:T4
 R3	Scope Arg1:T5 Arg2:T6
-#0	AnnotatorNotes R1	urn:cts:cwkb:1014.3446:2.14-2.15
-#1	AnnotatorNotes R2	urn:cts:cwkb:599.1241:2.42-2.46
-#2	AnnotatorNotes R3	urn:cts:cwkb:599.1241:3.15-3.22
+#1	AnnotatorNotes R2	urn:cts:cwkb:2437.9002:2.42-2.46
+#2	AnnotatorNotes R3	urn:cts:cwkb:2437.9002:3.15-3.22
 #3	AnnotatorNotes T7	urn:cts:cwkb:2437.9001
 T8	AAUTHOR 56 63	Isidoro
+#4	AnnotatorNotes T8	urn:cts:cwkb:2437
