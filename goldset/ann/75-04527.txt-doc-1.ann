@@ -11,7 +11,7 @@ T10	REFAUWORK 169 175	(Poll.
 T11	REFSCOPE 176 185	1, 66-67,
 T12	REFSCOPE 197 204	2, 120,
 T13	REFSCOPE 211 216	4, 27
-T14	REFSCOPE 217 225	et 28) ;
+T14	REFSCOPE 220 225	28) ;
 T15	AAUTHOR 226 234	Ménandre
 T16	REFAUWORK 235 241	(Poll.
 T17	REFSCOPE 242 250	2, 42) ;
@@ -32,7 +32,7 @@ R8	Scope Arg1:T16 Arg2:T17
 R9	Scope Arg1:T19 Arg2:T20
 R10	Scope Arg1:T22 Arg2:T23
 #0	AnnotatorNotes R4	urn:cts:cwkb:948.3195:1.66-1.67
-#1	AnnotatorNotes R5	urn:cts:cwkb:948.3195:1.113:2.120
+#1	AnnotatorNotes R5	urn:cts:cwkb:948.3195:2.120
 #2	AnnotatorNotes R6	urn:cts:cwkb:948.3195:4.27
 #3	AnnotatorNotes R7	urn:cts:cwkb:948.3195:4.28
 #4	AnnotatorNotes R1	urn:cts:cwkb:948.3195:1.38-1.39
